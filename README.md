@@ -24,6 +24,11 @@ If you have anaconda, enable it with the following command:
 
 > conda env create -f herodotos2016.yml
 
+It can also be handled with methods of the python package yaml. For example: 
+
+> with open("./herodotos2016.yml") as f: 
+> 	config = yaml.safe_load(f)
+
 The script preProcess.py is a modified version of the same-named script from the 2016 GitHub repo, that among other things handles the standard NER conventions as concerns punctuation. 
 
 **more details to come.** 
