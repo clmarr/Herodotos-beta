@@ -16,6 +16,8 @@ While the original Herodotos project (described in Erdmann et al. (2016), "[Chal
 The first steps in our pipeline is the **data preparation.**
 
 For this we gather texts already existing in the project, as well as a number we are adding. 
+Within this repository, all texts will be assigned their own folders (wherein the raw text resides, with subdirectories for matters such as the old tagging results, replication attempts, formation of datasets therefrom, et cetera.).. 
+They will all be named in the following format: "<Author>-Title_with_underlines_for_spaces".
 
 We also recruit the NER tagger of Erdmann et al, which is currently undergoing testing for replication of past results. 
 
