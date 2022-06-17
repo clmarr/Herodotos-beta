@@ -14,10 +14,10 @@ optparser.add_option("-n", "--new", default="", help="Location of newer results 
 optparser.add_option("--oldFormat", default="crf", help="Old file format")  # else must be conll
 optparser.add_option("--newFormat", default="crf", help="New file format")  # else must be conll
 optparser.add_option("-p", "--prefix", default="", help="Prefix for output files")
-opts, args = optparser.parse_args()[0]
+opts, args = optparser.parse_args()
 if "" in [opts.old, opts.new]:
     optparser.error("At least one of the two results comparanda not specified!")
-if not opts.p:
+if not opts.prefix:
     optparser.error("Prefix for output files must be specified!")
 if False in [i in ["crf", "conll"] for i in [opts.oldFormat, opts.newFormat]]:
     optparser.error("The only valid formats are 'crf' and 'conll'!")
@@ -25,17 +25,19 @@ if False in [i in ["crf", "conll"] for i in [opts.oldFormat, opts.newFormat]]:
 
 def extract_annotation(inp, mode):
     inp = inp.strip().split("\t")
-    return inp[mode == "crf"], inp[mode != "crf"]  # tag, token
+    return inp[mode == "conll"], inp[mode != "conll"]  # tag, token
 
 confusion_matrix = {} # of format: old[new]
 errors = []
 
 with open(opts.new) as newF:
-    newLines, oldLines = newF.readlines()
+    newLines = newF.readlines()
 with open(opts.old) as oldF:
     oldLines = oldF.readlines()
 
+li=0
 while 0 not in [len(newLines), len(oldLines)]:
+    li+=1
     if newLines[0].strip() == "":
         newLines= newLines[1:]; continue
     if oldLines[0].strip() == "":
