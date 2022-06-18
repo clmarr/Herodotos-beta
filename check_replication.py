@@ -1,5 +1,6 @@
 import optparse
 import numpy as np
+import pdb
 
 # @author: Clayton Marr (cl.st.marr@gmail.com)
 # @date: June 17 2022
@@ -35,20 +36,21 @@ with open(opts.new) as newF:
 with open(opts.old) as oldF:
     oldLines = oldF.readlines()
 
-li=0
+og_len = len(oldLines) # to be called in case of a local custom error
 while 0 not in [len(newLines), len(oldLines)]:
-    li+=1
     if newLines[0].strip() == "":
         newLines= newLines[1:]; continue
     if oldLines[0].strip() == "":
         oldLines= oldLines[1:]; continue
     if "\t" not in newLines[0] or "\t" not in oldLines[0]:
-        raise Exception("Format error: tab delimiter absent!")
+        pdb.set_trace()
+        raise Exception("Format error: tab delimiter absent! (iter: "+str(og_len-len(oldLines))+")")
         # i.e. a violation of the current basis of both conll and crf formats within this project, both tab delim'd
     ntup, otup = extract_annotation(newLines[0], opts.newFormat), \
                  extract_annotation(oldLines[0], opts.oldFormat) #(tag, token) tuples.
     if ntup[1] != otup[1]:
-        raise Exception("Alignment error!: "+ntup[1]+" || "+otup[1])
+        pdb.set_trace()
+        raise Exception("Alignment error!: "+ntup[1]+" || "+otup[1]+" ... (iter: "+str(og_len-len(oldLines))+")")
 
     #process
     newLines, oldLines = newLines[1:], oldLines[1:]
