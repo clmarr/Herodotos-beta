@@ -23,10 +23,20 @@ if not opts.prefix:
 if False in [i in ["crf", "conll"] for i in [opts.oldFormat, opts.newFormat]]:
     optparser.error("The only valid formats are 'crf' and 'conll'!")
 
+COLON = "<COLON>"
+
+#fixes to current issues with processing of tokens
+# for many of these, more comprehensive fixes may be necessary if different character encodings come into play
+# returns token with issues that could cause errors fixed
+def bandaid_tok_fixes(inp):
+    if inp == ":":
+        inp = ""+COLON
+    # fill further as necessary..
+    return inp
 
 def extract_annotation(inp, mode):
     inp = inp.strip().split("\t")
-    return inp[mode == "conll"], inp[mode != "conll"]  # tag, token
+    return inp[mode == "conll"], bandaid_tok_fixes(inp[mode != "conll"])  # tag, token
 
 confusion_matrix = {} # of format: old[new]
 errors = []
@@ -48,6 +58,7 @@ while 0 not in [len(newLines), len(oldLines)]:
         # i.e. a violation of the current basis of both conll and crf formats within this project, both tab delim'd
     ntup, otup = extract_annotation(newLines[0], opts.newFormat), \
                  extract_annotation(oldLines[0], opts.oldFormat) #(tag, token) tuples.
+
     if ntup[1] != otup[1]:
         pdb.set_trace()
         raise Exception("Alignment error!: "+ntup[1]+" || "+otup[1]+" ... (iter: "+str(og_len-len(oldLines))+")")

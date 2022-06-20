@@ -1,10 +1,18 @@
 import sys
 import string
+import optparse
+import nltk
+from nltk.tokenize import word_tokenize
 
 ####
 # modified version of preProcess.py of the 2016 Herodotos GitHub repo by @clmarr
 # usage: python3 preProcess.py <inputFile> > <outputFile>
 ####
+
+optparser = optparse.OptionParser()
+optparser.add_option("--nltk", default="", help="Prefix for output files")
+opts, args = optparser.parse_args()
+USE_NLTK = opts.nltk # i.e. True if "--nltk" is called at all, else False.
 
 CW = (open(sys.argv[1]).read().splitlines())
 #CW = sys.argv[1].splitlines()
@@ -60,21 +68,22 @@ for line in CW:
 		# if b in bees and b-1 not in bees:
 			# lin += '"'
 	# line = lin
-	for w in line.split():
-		rt = []
+
+	for w in line.split() if not USE_NLTK else word_tokenize(line):
+		rt = []	# does this actually do anything?
 		for ch in w:
 			if ch in ['0','1','2','3','4','5','6','7','8','9','0']:
 				w = w.replace(ch,'')
 		if len(w) > 0:
 			### just print words that only consist of punctuation
-			c = 0
-			p = 0
+			c = 0 # content characters.
+			p = 0 # punctuation
 			for ch in w:
 				if ch in string.punctuation:
 					p = 1
 				else:
 					c = 1
-			if c == 0:
+			if c == 0:	# all punctuation.
 				print ('0	'+w)
 				if '.' in w:
 					print ()
@@ -86,6 +95,7 @@ for line in CW:
 					print ()
 			### remove punctuation
 			elif p == 1:
+				#NLTK should probably be already handling most of this if using it, but no reason to remove... yet?
 				punct = []
 				root = ''
 				removePunct(w, punct)
