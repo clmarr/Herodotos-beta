@@ -1,8 +1,9 @@
 import sys
 import string
 import optparse
-import nltk
 from nltk.tokenize import word_tokenize
+from cltk.tokenizers.lat.lat import LatinWordTokenizer
+
 
 ####
 # modified version of preProcess.py of the 2016 Herodotos GitHub repo by @clmarr
@@ -10,9 +11,28 @@ from nltk.tokenize import word_tokenize
 ####
 
 optparser = optparse.OptionParser()
-optparser.add_option("--nltk", default="", help="Prefix for output files")
+optparser.add_option("--tok", default="", help='Word tokenizer -- default uses a method akin to that of the 2016 '
+											   'Erdmann et al tagger, with some bugs fixed. Options at present are '
+											   'NLTK and CLTK')
 opts, args = optparser.parse_args()
-USE_NLTK = opts.nltk # i.e. True if "--nltk" is called at all, else False.
+USE_NLTK = "nltk" == opts.tok.toLower()
+USE_CLTK = "cltk" == opts.tok.toLower()
+ABBR_BANDAID = ["Cn"] #bandaid to ensure recognition of Latin abbreviations that NLTK will miss.
+
+CLTK_TOK = False if not USE_CLTK else LatinWordTokenizer('latin')
+
+def tokenize_ln (ln):
+	if USE_NLTK:
+		output = word_tokenize(ln)
+		for ai in ABBR_BANDAID:
+			if ai in output:
+				iai = output.index(ai)
+				if False if iai >= len(output) - 1 else output[iai] == ".": #may need to handle encoding issues here.
+					output = output[:iai] + [ai+"."] + output[iai+2]
+		return output 			
+	if USE_CLTK:
+		return CLTK_TOK.tokenize(ln)
+	return ln.split()
 
 CW = (open(sys.argv[1]).read().splitlines())
 #CW = sys.argv[1].splitlines()
@@ -69,7 +89,7 @@ for line in CW:
 			# lin += '"'
 	# line = lin
 
-	for w in line.split() if not USE_NLTK else word_tokenize(line):
+	for w in tokenize_ln(line):
 		rt = []	# does this actually do anything?
 		for ch in w:
 			if ch in ['0','1','2','3','4','5','6','7','8','9','0']:
