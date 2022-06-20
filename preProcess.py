@@ -16,7 +16,7 @@ def removePunct(word, punct):
 		removePunct(w, punct)
 	else:
 		if word[-1] in string.punctuation:
-			punct.append(word[-1])
+			punct = [word[-1]] + punct #punct.append(word[-1])
 			w = word[0:-1]
 			removePunct(w, punct)
 		else:
