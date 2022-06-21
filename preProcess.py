@@ -5,10 +5,10 @@ from nltk.tokenize import word_tokenize
 from cltk.tokenizers.word import WordTokenizer
 from cltk.tokenizers.lat.lat import LatinWordTokenizer
 
-
 ####
 # modified version of preProcess.py of the 2016 Herodotos GitHub repo by @clmarr
 # usage: python3 preProcess.py <inputFile> > <outputFile>
+# note: CLTK processing capabilities are currently bugged.
 ####
 
 optparser = optparse.OptionParser()
@@ -25,11 +25,14 @@ CLTK_TOK = False if not USE_CLTK else LatinWordTokenizer()
 def tokenize_ln (ln):
 	if USE_NLTK:
 		output = word_tokenize(ln)
-		for ai in ABBR_BANDAID:
-			if ai in output:
-				iai = output.index(ai)
-				if False if iai >= len(output) - 1 else output[iai+1] == ".": #may need to handle encoding issues here.
-					output = output[:iai] + [ai+"."] + output[iai+2:]
+		abr_locs = [oi for oi in range(len(output)) if output[oi] in ABBR_BANDAID]
+		if len(abr_locs) > 0:
+			abr_locs.reverse()
+			# needs to be reversed so it handles later indices first
+			# -- without this the list will be offset after indices to target were already computed.
+			for ai in abr_locs:
+				if False if ai >= len(output) - 2 else output[ai+1] == ".": #may need to handle encoding issues here.
+					output = output[:ai] + [output[ai]+"."] + output[ai+2:]
 		return output
 	if USE_CLTK:
 		return CLTK_TOK.tokenize(ln)
