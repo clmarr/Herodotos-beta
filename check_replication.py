@@ -46,6 +46,15 @@ with open(opts.new) as newF:
 with open(opts.old) as oldF:
     oldLines = oldF.readlines()
 
+# current bandaid to deal with treatment of "..." in old versus new annotation preprocessing...
+PD_TUP = "0\t.\n" # tagged period form.
+i = 0
+while False if i >= len(newLines) - 6 else PD_TUP in newLines[i:]:
+    pdi = i + newLines[i:].index(PD_TUP)
+    while newLines[pdi + 1:pdi + 4] == ['\n', PD_TUP, '\n'] :
+        newLines = newLines[:pdi] + [newLines[pdi][:-1] + '.\n'] + newLines[pdi+3:]
+    i = pdi+1
+
 og_len = len(oldLines) # to be called in case of a local custom error
 while 0 not in [len(newLines), len(oldLines)]:
     if newLines[0].strip() == "":

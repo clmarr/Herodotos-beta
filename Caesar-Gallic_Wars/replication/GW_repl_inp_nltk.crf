@@ -49,13 +49,13 @@
 0	magis
 0	,
 0	quod
-PRS-B	Commius
+0	Commius
 0	,
 0	quem
 0	profectum
 0	ad
 0	auxilia
-GRP-B	Germanorum
+0	Germanorum
 0	arcessenda
 0	docui
 0	,
@@ -74,13 +74,13 @@ GRP-B	Germanorum
 0	quingenti
 0	,
 0	tamen
-GRP-B	Germanorum
+0	Germanorum
 0	adventu
 0	barbari
 0	nitebantur
 0	.
 
-PRS-B	Caesar
+0	Caesar
 0	,
 0	cum
 0	animadverteret
@@ -114,7 +114,7 @@ PRS-B	Caesar
 0	,
 0	litteras
 0	ad
-PRS-B	Trebonium
+0	Trebonium
 0	mittit
 0	,
 0	ut
@@ -126,11 +126,11 @@ PRS-B	Trebonium
 0	,
 0	quae
 0	cum
-PRS-B	T.
-PRS-I	Sextio
+0	T.
+0	Sextio
 0	legato
 0	in
-GRP-B	Biturigibus
+0	Biturigibus
 0	hiemabat
 0	,
 0	arcesseret
@@ -150,9 +150,9 @@ GRP-B	Biturigibus
 0	equites
 0	in
 0	vicem
-GRP-B	Remorum
+0	Remorum
 0	ac
-GRP-B	Lingonum
+0	Lingonum
 0	reliquarumque
 0	civitatum
 0	,
@@ -187,7 +187,7 @@ GRP-B	Lingonum
 0	accidit
 0	diuturnitate
 0	,
-GRP-B	Bellovaci
+0	Bellovaci
 0	delecta
 0	manu
 0	peditum
@@ -220,7 +220,7 @@ GRP-B	Bellovaci
 0	mali
 0	sors
 0	incidit
-GRP-B	Remis
+0	Remis
 0	,
 0	quibus
 0	ille
@@ -264,7 +264,7 @@ GRP-B	Remis
 0	se
 0	receperunt
 0	amisso
-PRS-B	Vertisco
+0	Vertisco
 0	,
 0	principe
 0	civitatis
@@ -284,7 +284,7 @@ PRS-B	Vertisco
 0	,
 0	tamen
 0	consuetudine
-GRP-B	Gallorum
+0	Gallorum
 0	neque
 0	aetatis
 0	excusatione
@@ -311,7 +311,7 @@ GRP-B	Gallorum
 0	principe
 0	et
 0	praefecto
-GRP-B	Remorum
+0	Remorum
 0	interfecto
 0	,
 0	nostrique
@@ -349,13 +349,13 @@ GRP-B	Remorum
 
 0	Qua
 0	contentione
-GRP-B	Germani
+0	Germani
 0	,
 0	quos
 0	propterea
-PRS-B	Caesar
+0	Caesar
 0	traduxerat
-GEO-B	Rhenum
+0	Rhenum
 0	ut
 0	equitibus
 0	interpositi
@@ -459,17 +459,17 @@ GEO-B	Rhenum
 0	accessisse
 0	legiones
 0	et
-PRS-B	Gaium
-PRS-I	Trebonium
+0	Gaium
+0	Trebonium
 0	legatum
 0	cognossent
 0	,
 0	duces
-GRP-B	Bellovacorum
+0	Bellovacorum
 0	veriti
 0	similem
 0	obsessionem
-GEO-B	Alesiae
+0	Alesiae
 0	noctu
 0	dimittunt
 0	eos
@@ -503,7 +503,7 @@ GEO-B	Alesiae
 0	etiam
 0	expeditos
 0	sequi
-GRP-B	Gallos
+0	Gallos
 0	consuevit
 0	)
 0	,
@@ -518,7 +518,7 @@ GRP-B	Gallos
 0	,
 0	ne
 0	prius
-GRP-B	Romani
+0	Romani
 0	persequi
 0	se
 0	inciperent
@@ -531,7 +531,7 @@ GRP-B	Romani
 0	.
 
 0	At
-PRS-B	Caesar
+0	Caesar
 0	neque
 0	resistentes
 0	adgrediendos
@@ -654,7 +654,7 @@ PRS-B	Caesar
 0	,
 0	si
 0	forte
-GRP-B	Romani
+0	Romani
 0	subire
 0	collem
 0	conarentur
@@ -678,7 +678,7 @@ GRP-B	Romani
 0	Quorum
 0	pertinacia
 0	cognita
-PRS-B	Caesar
+0	Caesar
 0	XX
 0	cohortibus
 0	instructis
@@ -707,10 +707,10 @@ PRS-B	Caesar
 0	disponit
 0	.
 
-GRP-B	Bellovaci
+0	Bellovaci
 0	,
 0	cum
-GRP-B	Romanos
+0	Romanos
 0	ad
 0	insequendum
 0	paratos
@@ -742,11 +742,11 @@ GRP-B	Romanos
 0	in
 0	acie
 0	sedere
-GRP-B	Gallos
+0	Gallos
 0	consuesse
 0	superioribus
 0	commentariis
-PRS-B	Caesaris
+0	Caesaris
 0	declaratum
 0	est
 0	)
@@ -789,7 +789,7 @@ PRS-B	Caesaris
 0	a
 0	conspectu
 0	texit
-GRP-B	Romanorum
+0	Romanorum
 0	.
 
 0	Quod
@@ -802,7 +802,7 @@ GRP-B	Romanorum
 0	refugerunt
 0	.
 
-PRS-B	Caesar
+0	Caesar
 0	,
 0	etsi
 0	discessum
@@ -883,7 +883,7 @@ PRS-B	Caesar
 0	facultatem
 0	sui
 0	recipiendi
-GRP-B	Bellovacis
+0	Bellovacis
 0	dederunt
 0	.
 
@@ -919,7 +919,7 @@ GRP-B	Bellovacis
 0	,
 0	magna
 0	detrimenta
-GRP-B	Romanis
+0	Romanis
 0	in
 0	pabulationibus
 0	inferebant
@@ -934,10 +934,10 @@ GRP-B	Romanis
 0	captivo
 0	quodam
 0	comperit
-PRS-B	Caesar
+0	Caesar
 0	Correum
 0	,
-GRP-B	Bellovacorum
+0	Bellovacorum
 0	ducem
 0	,
 0	fortissimorum
@@ -966,7 +966,7 @@ GRP-B	Bellovacorum
 0	frumenti
 0	ac
 0	pabuli
-GRP-B	Romanos
+0	Romanos
 0	missuros
 0	suspicaretur
 0	.
@@ -1070,7 +1070,7 @@ GRP-B	Romanos
 0	adventu
 0	cum
 0	sibi
-PRS-B	Correus
+0	Correus
 0	oblatam
 0	occasionem
 0	rei
@@ -1136,7 +1136,7 @@ PRS-B	Correus
 0	,
 0	erumpunt
 0	ceteri
-PRS-B	Correo
+0	Correo
 0	proeliante
 0	ex
 0	silvis
@@ -1153,7 +1153,7 @@ PRS-B	Correo
 0	cum
 0	diutius
 0	pari
-PRS-B	Marte
+0	Marte
 0	iniretur
 0	,
 0	paulatim
@@ -1285,7 +1285,7 @@ PRS-B	Marte
 0	quibus
 0	difficultatibus
 0	locorum
-GRP-B	Romanos
+0	Romanos
 0	claudere
 0	voluerant
 0	,
@@ -1325,7 +1325,7 @@ GRP-B	Romanos
 0	nulla
 0	calamitate
 0	victus
-PRS-B	Correus
+0	Correus
 0	excedere
 0	proelio
 0	silvasque
@@ -1361,7 +1361,7 @@ PRS-B	Correus
 0	proeli
 0	vestigiis
 0	ingressus
-PRS-B	Caesar
+0	Caesar
 0	,
 0	cum
 0	victos
@@ -1401,7 +1401,7 @@ PRS-B	Caesar
 0	.
 
 0	At
-GRP-B	Bellovaci
+0	Bellovaci
 0	reliquaeque
 0	civitates
 0	repente
@@ -1426,7 +1426,7 @@ GRP-B	Bellovaci
 0	calamitate
 0	,
 0	interfecto
-PRS-B	Correo
+0	Correo
 0	,
 0	amisso
 0	equitatu
@@ -1436,7 +1436,7 @@ PRS-B	Correo
 0	,
 0	cum
 0	adventare
-GRP-B	Romanos
+0	Romanos
 0	existimarent
 0	,
 0	concilio
@@ -1449,7 +1449,7 @@ GRP-B	Romanos
 0	legati
 0	obsidesque
 0	ad
-PRS-B	Caesarem
+0	Caesarem
 0	mittantur
 0	.
 
@@ -1457,12 +1457,12 @@ PRS-B	Caesarem
 0	omnibus
 0	probato
 0	consilio
-PRS-B	Commius
-GRP-B	Atrebas
+0	Commius
+0	Atrebas
 0	ad
 0	eos
 0	confugit
-GRP-B	Germanos
+0	Germanos
 0	,
 0	a
 0	quibus
@@ -1479,7 +1479,7 @@ GRP-B	Germanos
 0	vestigio
 0	mittunt
 0	ad
-PRS-B	Caesarem
+0	Caesarem
 0	legatos
 0	petuntque
 0	,
@@ -1513,7 +1513,7 @@ PRS-B	Caesarem
 0	opes
 0	equestri
 0	proelio
-GRP-B	Bellovacorum
+0	Bellovacorum
 0	esse
 0	;
 
@@ -1535,7 +1535,7 @@ GRP-B	Bellovacorum
 0	in
 0	tanta
 0	calamitate
-GRP-B	Bellovacos
+0	Bellovacos
 0	eo
 0	proelio
 0	commodum
@@ -1543,7 +1543,7 @@ GRP-B	Bellovacos
 0	consecutos
 0	,
 0	quod
-PRS-B	Correus
+0	Correus
 0	,
 0	auctor
 0	belli
@@ -1573,15 +1573,15 @@ PRS-B	Correus
 0	orantibus
 0	legatis
 0	commemorat
-PRS-B	Caesar
+0	Caesar
 0	:
 0	Eodem
 0	tempore
 0	superiore
 0	anno
-GRP-B	Bellovacos
+0	Bellovacos
 0	ceterasque
-GEO-B	Galliae
+0	Galliae
 0	civitates
 0	suscepisse
 0	bellum
@@ -1669,7 +1669,7 @@ GEO-B	Galliae
 0	legati
 0	,
 0	quae
-GRP-B	Bellovacorum
+0	Bellovacorum
 0	speculabantur
 0	eventum
 0	;
@@ -1680,7 +1680,7 @@ GRP-B	Bellovacorum
 0	imperata
 0	faciunt
 0	excepto
-PRS-B	Commio
+0	Commio
 0	,
 0	quem
 0	timor
@@ -1695,25 +1695,25 @@ PRS-B	Commio
 0	Nam
 0	superiore
 0	anno
-PRS-B	Titus
-PRS-I	Labienus
+0	Titus
+0	Labienus
 0	,
-PRS-B	Caesare
+0	Caesare
 0	in
-GEO-B	Gallia
-GEO-I	citeriore
+0	Gallia
+0	citeriore
 0	ius
 0	dicente
 0	,
 0	cum
-PRS-B	Commium
+0	Commium
 0	comperisset
 0	sollicitare
 0	civitates
 0	et
 0	coniurationem
 0	contra
-PRS-B	Caesarem
+0	Caesarem
 0	facere
 0	,
 0	infidelitatem
@@ -1740,9 +1740,9 @@ PRS-B	Caesarem
 0	cautiorem
 0	faceret
 0	,
-PRS-B	Gaium
-PRS-I	Volusenum
-PRS-I	Quadratum
+0	Gaium
+0	Volusenum
+0	Quadratum
 0	misit
 0	,
 0	qui
@@ -1776,8 +1776,8 @@ PRS-I	Quadratum
 0	convenerat
 0	,
 0	manum
-PRS-B	Commi
-PRS-B	Volusenus
+0	Commi
+0	Volusenus
 0	arripuisset
 0	,
 0	centurio
@@ -1790,7 +1790,7 @@ PRS-B	Volusenus
 0	a
 0	familiaribus
 0	prohibitus
-PRS-B	Commi
+0	Commi
 0	conficere
 0	hominem
 0	non
@@ -1826,12 +1826,12 @@ PRS-B	Commi
 0	quod
 0	mortifero
 0	vulnere
-PRS-B	Commium
+0	Commium
 0	credebant
 0	adfectum
 0	;
 
-GRP-B	Gallorum
+0	Gallorum
 0	,
 0	quod
 0	insidiis
@@ -1845,20 +1845,20 @@ GRP-B	Gallorum
 0	Quo
 0	facto
 0	statuisse
-PRS-B	Commius
+0	Commius
 0	dicebatur
 0	numquam
 0	in
 0	conspectum
 0	cuiusquam
-GRP-B	Romani
+0	Romani
 0	venire
 0	.
 
-GRP-B	Bellicosissimis
+0	Bellicosissimis
 0	gentibus
 0	devictis
-PRS-B	Caesar
+0	Caesar
 0	,
 0	cum
 0	videret
@@ -1895,8 +1895,8 @@ PRS-B	Caesar
 0	constituit
 0	.
 
-PRS-B	M.
-PRS-I	Antonium
+0	M.
+0	Antonium
 0	quaestorem
 0	cum
 0	legione
@@ -1905,8 +1905,8 @@ PRS-I	Antonium
 0	coniungit
 0	.
 
-PRS-B	C.
-PRS-I	Fabium
+0	C.
+0	Fabium
 0	legatum
 0	cum
 0	cohortibus
@@ -1915,7 +1915,7 @@ PRS-I	Fabium
 0	in
 0	diversissimam
 0	partem
-GEO-B	Galliae
+0	Galliae
 0	,
 0	quod
 0	ibi
@@ -1926,9 +1926,9 @@ GEO-B	Galliae
 0	esse
 0	audiebat
 0	neque
-PRS-B	C.
-PRS-I	Caninium
-PRS-I	Rebilum
+0	C.
+0	Caninium
+0	Rebilum
 0	legatum
 0	,
 0	qui
@@ -1945,8 +1945,8 @@ PRS-I	Rebilum
 0	existimabat
 0	.
 
-PRS-B	Titum
-PRS-I	Labienum
+0	Titum
+0	Labienum
 0	ad
 0	se
 0	evocat
@@ -1965,12 +1965,12 @@ PRS-I	Labienum
 0	,
 0	in
 0	togatam
-GEO-B	Galliam
+0	Galliam
 0	mittit
 0	ad
 0	colonias
 0	civium
-GRP-B	Romanorum
+0	Romanorum
 0	tuendas
 0	,
 0	ne
@@ -1983,7 +1983,7 @@ GRP-B	Romanorum
 0	ac
 0	superiore
 0	aestate
-PRS-B	Tergestinis
+0	Tergestinis
 0	acciderat
 0	,
 0	qui
@@ -2001,7 +2001,7 @@ PRS-B	Tergestinis
 0	vastandos
 0	depopulandosque
 0	fines
-PRS-B	Ambiorigis
+0	Ambiorigis
 0	proficiscitur
 0	;
 
@@ -2036,7 +2036,7 @@ PRS-B	Ambiorigis
 0	ut
 0	odio
 0	suorum
-PRS-B	Ambiorix
+0	Ambiorix
 0	,
 0	si
 0	quos
@@ -2059,7 +2059,7 @@ PRS-B	Ambiorix
 0	omnes
 0	partes
 0	finium
-PRS-B	Ambiorigis
+0	Ambiorigis
 0	aut
 0	legiones
 0	aut
@@ -2080,18 +2080,18 @@ PRS-B	Ambiorigis
 0	interfecto
 0	aut
 0	capto
-PRS-B	Labienum
+0	Labienum
 0	cum
 0	duabus
 0	legionibus
 0	in
-GRP-B	Treveros
+0	Treveros
 0	mittit
 0	,
 0	quorum
 0	civitas
 0	propter
-GEO-B	Germaniae
+0	Germaniae
 0	vicinitatem
 0	cotidianis
 0	exercitata
@@ -2102,7 +2102,7 @@ GEO-B	Germaniae
 0	non
 0	multum
 0	a
-GRP-B	Germanis
+0	Germanis
 0	differebat
 0	neque
 0	imperata
@@ -2114,8 +2114,8 @@ GRP-B	Germanis
 0	.
 
 0	Interim
-PRS-B	Gaius
-PRS-I	Caninius
+0	Gaius
+0	Caninius
 0	legatus
 0	,
 0	cum
@@ -2125,10 +2125,10 @@ PRS-I	Caninius
 0	hostium
 0	in
 0	fines
-GRP-B	Pictonum
+0	Pictonum
 0	litteris
 0	nuntiisque
-PRS-B	Durati
+0	Durati
 0	cognosceret
 0	,
 0	qui
@@ -2136,7 +2136,7 @@ PRS-B	Durati
 0	in
 0	amicitia
 0	manserat
-GRP-B	Romanorum
+0	Romanorum
 0	,
 0	cum
 0	pars
@@ -2147,7 +2147,7 @@ GRP-B	Romanorum
 0	,
 0	ad
 0	oppidum
-GEO-B	Lemonum
+0	Lemonum
 0	contendit
 0	.
 
@@ -2163,14 +2163,14 @@ GEO-B	Lemonum
 0	hominum
 0	milibus
 0	a
-PRS-B	Dumnaco
+0	Dumnaco
 0	,
 0	duce
-PRS-B	Andium
+0	Andium
 0	,
-PRS-B	Duratium
+0	Duratium
 0	clausum
-GEO-B	Lemoni
+0	Lemoni
 0	oppugnari
 0	neque
 0	infirmas
@@ -2185,11 +2185,11 @@ GEO-B	Lemoni
 0	munito
 0	.
 
-PRS-B	Dumnacus
+0	Dumnacus
 0	,
 0	cum
 0	appropinquare
-PRS-B	Caninium
+0	Caninium
 0	cognosset
 0	,
 0	copiis
@@ -2198,7 +2198,7 @@ PRS-B	Caninium
 0	legiones
 0	conversis
 0	castra
-GRP-B	Romanorum
+0	Romanorum
 0	oppugnare
 0	instituit
 0	.
@@ -2222,14 +2222,14 @@ GRP-B	Romanorum
 0	rursus
 0	ad
 0	obsidendum
-GEO-B	Lemonum
+0	Lemonum
 0	redit
 0	.
 
 0	Eodem
 0	tempore
-PRS-B	C.
-PRS-I	Fabius
+0	C.
+0	Fabius
 0	legatus
 0	complures
 0	civitates
@@ -2240,14 +2240,14 @@ PRS-I	Fabius
 0	obsidibus
 0	firmat
 0	litterisque
-PRS-B	Gai
-PRS-I	Canini
-PRS-I	Rebili
+0	Gai
+0	Canini
+0	Rebili
 0	fit
 0	certior
 0	quae
 0	in
-GRP-B	Pictonibus
+0	Pictonibus
 0	gerantur
 0	.
 
@@ -2257,14 +2257,14 @@ GRP-B	Pictonibus
 0	proficiscitur
 0	ad
 0	auxilium
-PRS-B	Duratio
+0	Duratio
 0	ferendum
 0	.
 
 0	At
-PRS-B	Dumnacus
+0	Dumnacus
 0	adventu
-PRS-B	Fabi
+0	Fabi
 0	cognito
 0	desperata
 0	salute
@@ -2275,7 +2275,7 @@ PRS-B	Fabi
 0	coactus
 0	esset
 0	et
-GRP-B	Romanum
+0	Romanum
 0	externum
 0	sustinere
 0	hostem
@@ -2301,7 +2301,7 @@ GRP-B	Romanum
 0	,
 0	nisi
 0	flumine
-GEO-B	Ligeri
+0	Ligeri
 0	,
 0	quod
 0	erat
@@ -2314,7 +2314,7 @@ GEO-B	Ligeri
 0	traduxisset
 0	.
 
-PRS-B	Fabius
+0	Fabius
 0	,
 0	etsi
 0	nondum
@@ -2324,7 +2324,7 @@ PRS-B	Fabius
 0	hostibus
 0	neque
 0	se
-PRS-B	Caninio
+0	Caninio
 0	coniunxerat
 0	,
 0	tamen
@@ -2386,7 +2386,7 @@ PRS-B	Caninio
 0	praeceptum
 0	,
 0	invaduntque
-PRS-B	Dumnaci
+0	Dumnaci
 0	agmen
 0	et
 0	fugientes
@@ -2415,7 +2415,7 @@ PRS-B	Dumnaci
 
 0	Insequenti
 0	nocte
-PRS-B	Fabius
+0	Fabius
 0	equites
 0	praemittit
 0	sic
@@ -2438,9 +2438,9 @@ PRS-B	Fabius
 0	res
 0	gereretur
 0	,
-PRS-B	Quintus
-PRS-I	Atius
-PRS-I	Varus
+0	Quintus
+0	Atius
+0	Varus
 0	,
 0	praefectus
 0	equitum
@@ -2546,7 +2546,7 @@ PRS-I	Varus
 0	contentione
 0	dimicaretur
 0	,
-PRS-B	Dumnacus
+0	Dumnacus
 0	instruit
 0	aciem
 0	quae
@@ -2653,15 +2653,15 @@ PRS-B	Dumnacus
 0	fuga
 0	cum
 0	constaret
-PRS-B	Drappetem
-GRP-B	Senonem
+0	Drappetem
+0	Senonem
 0	,
 0	qui
 0	,
 0	ut
 0	primum
 0	defecerat
-GEO-B	Gallia
+0	Gallia
 0	,
 0	collectis
 0	undique
@@ -2683,7 +2683,7 @@ GEO-B	Gallia
 0	impedimenta
 0	et
 0	commeatus
-GRP-B	Romanorum
+0	Romanorum
 0	interceperat
 0	,
 0	non
@@ -2700,8 +2700,8 @@ GRP-B	Romanorum
 0	consilium
 0	cum
 0	eo
-PRS-B	Lucterium
-GRP-B	Cadurcum
+0	Lucterium
+0	Cadurcum
 0	cepisse
 0	,
 0	quem
@@ -2709,16 +2709,16 @@ GRP-B	Cadurcum
 0	commentario
 0	prima
 0	defectione
-GEO-B	Galliae
+0	Galliae
 0	facere
 0	in
-GEO-B	provinciam
+0	provinciam
 0	voluisse
 0	impetum
 0	cognitum
 0	est
 0	,
-PRS-B	Caninius
+0	Caninius
 0	legatus
 0	cum
 0	legionibus
@@ -2732,7 +2732,7 @@ PRS-B	Caninius
 0	detrimento
 0	aut
 0	timore
-GEO-B	provinciae
+0	provinciae
 0	magna
 0	infamia
 0	perditorum
@@ -2741,13 +2741,13 @@ GEO-B	provinciae
 0	caperetur
 0	.
 
-PRS-B	Gaius
-PRS-I	Fabius
+0	Gaius
+0	Fabius
 0	cum
 0	reliquo
 0	exercitu
 0	in
-GRP-B	Carnutes
+0	Carnutes
 0	ceterasque
 0	proficiscitur
 0	civitates
@@ -2758,7 +2758,7 @@ GRP-B	Carnutes
 0	,
 0	quod
 0	cum
-PRS-B	Dumnaco
+0	Dumnaco
 0	fecerat
 0	,
 0	copias
@@ -2784,7 +2784,7 @@ PRS-B	Dumnaco
 0	tempore
 0	eodem
 0	instigante
-PRS-B	Dumnaco
+0	Dumnaco
 0	possent
 0	concitari
 0	.
@@ -2798,12 +2798,12 @@ PRS-B	Dumnaco
 0	in
 0	recipiendis
 0	civitatibus
-PRS-B	Fabium
+0	Fabium
 0	consequitur
 0	.
 
 0	Nam
-GRP-B	Carnutes
+0	Carnutes
 0	,
 0	qui
 0	saepe
@@ -2824,20 +2824,20 @@ GRP-B	Carnutes
 0	positae
 0	in
 0	ultimis
-GEO-B	Galliae
+0	Galliae
 0	finibus
-GEO-B	Oceano
+0	Oceano
 0	coniunctae
 0	,
 0	quae
-GEO-B	Armoricae
+0	Armoricae
 0	appellantur
 0	,
 0	auctoritate
 0	adductae
-GRP-B	Carnutum
+0	Carnutum
 0	adventu
-PRS-B	Fabi
+0	Fabi
 0	legionumque
 0	imperata
 0	sine
@@ -2845,7 +2845,7 @@ PRS-B	Fabi
 0	faciunt
 0	.
 
-PRS-B	Dumnacus
+0	Dumnacus
 0	suis
 0	finibus
 0	expulsus
@@ -2853,7 +2853,7 @@ PRS-B	Dumnacus
 0	latitansque
 0	solus
 0	extremas
-GEO-B	Galliae
+0	Galliae
 0	regiones
 0	petere
 0	est
@@ -2861,13 +2861,13 @@ GEO-B	Galliae
 0	.
 
 0	At
-PRS-B	Drappes
+0	Drappes
 0	unaque
-PRS-B	Lucterius
+0	Lucterius
 0	,
 0	cum
 0	legiones
-PRS-B	Caniniumque
+0	Caniniumque
 0	adesse
 0	cognoscerent
 0	nec
@@ -2894,12 +2894,12 @@ PRS-B	Caniniumque
 0	in
 0	finibus
 0	consistunt
-GRP-B	Cadurcorum
+0	Cadurcorum
 0	.
 
 0	Ibi
 0	cum
-PRS-B	Lucterius
+0	Lucterius
 0	apud
 0	suos
 0	cives
@@ -2920,7 +2920,7 @@ PRS-B	Lucterius
 0	haberet
 0	,
 0	oppidum
-GEO-B	Vxellodunum
+0	Vxellodunum
 0	,
 0	quod
 0	in
@@ -2936,7 +2936,7 @@ GEO-B	Vxellodunum
 0	occupat
 0	suis
 0	et
-PRS-B	Drappetis
+0	Drappetis
 0	copiis
 0	oppidanosque
 0	sibi
@@ -2946,8 +2946,8 @@ PRS-B	Drappetis
 0	Quo
 0	cum
 0	confestim
-PRS-B	Gaius
-PRS-I	Caninius
+0	Gaius
+0	Caninius
 0	venisset
 0	animadverteretque
 0	omnes
@@ -3022,7 +3022,7 @@ PRS-I	Caninius
 0	animadverterent
 0	oppidani
 0	miserrimaque
-GEO-B	Alesiae
+0	Alesiae
 0	memoria
 0	solliciti
 0	similem
@@ -3033,7 +3033,7 @@ GEO-B	Alesiae
 0	maximeque
 0	ex
 0	omnibus
-PRS-B	Lucterius
+0	Lucterius
 0	,
 0	qui
 0	fortunae
@@ -3075,9 +3075,9 @@ PRS-B	Lucterius
 0	reliquos
 0	ex
 0	oppido
-PRS-B	Drappes
+0	Drappes
 0	et
-PRS-B	Lucterius
+0	Lucterius
 0	educunt
 0	.
 
@@ -3087,7 +3087,7 @@ PRS-B	Lucterius
 0	morati
 0	ex
 0	finibus
-GRP-B	Cadurcorum
+0	Cadurcorum
 0	,
 0	qui
 0	partim
@@ -3122,8 +3122,8 @@ GRP-B	Cadurcorum
 0	Quam
 0	ob
 0	causam
-PRS-B	Gaius
-PRS-I	Caninius
+0	Gaius
+0	Caninius
 0	toto
 0	oppido
 0	munitiones
@@ -3151,9 +3151,9 @@ PRS-I	Caninius
 0	frumenti
 0	comparata
 0	considunt
-PRS-B	Drappes
+0	Drappes
 0	et
-PRS-B	Lucterius
+0	Lucterius
 0	non
 0	longius
 0	ab
@@ -3175,7 +3175,7 @@ PRS-B	Lucterius
 0	provincias
 0	partiuntur
 0	:
-PRS-B	Drappes
+0	Drappes
 0	castris
 0	praesidio
 0	cum
@@ -3184,7 +3184,7 @@ PRS-B	Drappes
 0	restitit
 0	;
 
-PRS-B	Lucterius
+0	Lucterius
 0	agmen
 0	iumentorum
 0	ad
@@ -3222,7 +3222,7 @@ PRS-B	Lucterius
 0	gererentur
 0	renuntiassent
 0	,
-PRS-B	Caninius
+0	Caninius
 0	celeriter
 0	cum
 0	cohortibus
@@ -3271,7 +3271,7 @@ PRS-B	Caninius
 0	inde
 0	cum
 0	paucis
-PRS-B	Lucterius
+0	Lucterius
 0	nec
 0	se
 0	recipit
@@ -3282,14 +3282,14 @@ PRS-B	Lucterius
 0	Re
 0	bene
 0	gesta
-PRS-B	Caninius
+0	Caninius
 0	ex
 0	captivis
 0	comperit
 0	partem
 0	copiarum
 0	cum
-PRS-B	Drappete
+0	Drappete
 0	esse
 0	in
 0	castris
@@ -3333,7 +3333,7 @@ PRS-B	Drappete
 0	accepta
 0	calamitate
 0	nuntium
-PRS-B	Drappeti
+0	Drappeti
 0	perferret
 0	.
 
@@ -3347,7 +3347,7 @@ PRS-B	Drappeti
 0	,
 0	equitatum
 0	omnem
-GRP-B	Germanosque
+0	Germanosque
 0	pedites
 0	,
 0	summae
@@ -3404,7 +3404,7 @@ GRP-B	Germanosque
 0	;
 
 0	at
-GRP-B	Germanos
+0	Germanos
 0	equitesque
 0	imprudentibus
 0	omnibus
@@ -3440,7 +3440,7 @@ GRP-B	Germanos
 0	ubi
 0	accidit
 0	,
-GRP-B	Germani
+0	Germani
 0	equitesque
 0	signis
 0	legionis
@@ -3468,10 +3468,10 @@ GRP-B	Germani
 0	ipse
 0	eo
 0	proelio
-PRS-B	Drappes
+0	Drappes
 0	.
 
-PRS-B	Caninius
+0	Caninius
 0	felicissime
 0	re
 0	gesta
@@ -3513,8 +3513,8 @@ PRS-B	Caninius
 0	copiis
 0	postero
 0	die
-PRS-B	Gaius
-PRS-I	Fabius
+0	Gaius
+0	Fabius
 0	partemque
 0	oppidi
 0	sumit
@@ -3522,16 +3522,16 @@ PRS-I	Fabius
 0	obsidendum
 0	.
 
-PRS-B	Caesar
+0	Caesar
 0	interim
-PRS-B	M.
-PRS-I	Antonium
+0	M.
+0	Antonium
 0	quaestorem
 0	cum
 0	cohortibus
 0	XV
 0	in
-GRP-B	Bellovacis
+0	Bellovacis
 0	relinquit
 0	,
 0	ne
@@ -3540,7 +3540,7 @@ GRP-B	Bellovacis
 0	novorum
 0	consiliorum
 0	capiendorum
-GRP-B	Belgis
+0	Belgis
 0	facultas
 0	daretur
 0	.
@@ -3563,7 +3563,7 @@ GRP-B	Belgis
 
 0	Cum
 0	in
-GRP-B	Carnutes
+0	Carnutes
 0	venisset
 0	,
 0	quorum
@@ -3571,7 +3571,7 @@ GRP-B	Carnutes
 0	civitate
 0	superiore
 0	commentario
-PRS-B	Caesar
+0	Caesar
 0	exposuit
 0	initium
 0	belli
@@ -3600,7 +3600,7 @@ PRS-B	Caesar
 0	concitatorem
 0	belli
 0	,
-PRS-B	Gutruatum
+0	Gutruatum
 0	,
 0	ad
 0	supplicium
@@ -3630,7 +3630,7 @@ PRS-B	Gutruatum
 0	in
 0	eius
 0	supplicium
-PRS-B	Caesar
+0	Caesar
 0	contra
 0	suam
 0	naturam
@@ -3660,14 +3660,14 @@ PRS-B	Caesar
 0	Ibi
 0	crebris
 0	litteris
-PRS-B	Canini
+0	Canini
 0	fit
 0	certior
 0	quae
 0	de
-PRS-B	Drappete
+0	Drappete
 0	et
-PRS-B	Lucterio
+0	Lucterio
 0	gesta
 0	essent
 0	,
@@ -3693,14 +3693,14 @@ PRS-B	Lucterio
 0	,
 0	ne
 0	universa
-GEO-B	Gallia
+0	Gallia
 0	non
 0	sibi
 0	vires
 0	defuisse
 0	ad
 0	resistendum
-GRP-B	Romanis
+0	Romanis
 0	,
 0	sed
 0	constantiam
@@ -3721,7 +3721,7 @@ GRP-B	Romanis
 0	,
 0	cum
 0	omnibus
-GRP-B	Gallis
+0	Gallis
 0	notum
 0	esse
 0	sciret
@@ -3744,8 +3744,8 @@ GRP-B	Gallis
 0	.
 
 0	Itaque
-PRS-B	Q.
-PRS-I	Calenum
+0	Q.
+0	Calenum
 0	legatum
 0	cum
 0	legionibus
@@ -3764,7 +3764,7 @@ PRS-I	Calenum
 0	potest
 0	celerrime
 0	ad
-PRS-B	Caninium
+0	Caninium
 0	contendit
 0	.
 
@@ -3772,8 +3772,8 @@ PRS-B	Caninium
 0	contra
 0	exspectationem
 0	omnium
-PRS-B	Caesar
-GEO-B	Vxellodunum
+0	Caesar
+0	Vxellodunum
 0	venisset
 0	oppidumque
 0	operibus
@@ -3823,7 +3823,7 @@ GEO-B	Vxellodunum
 0	praeruptum
 0	undique
 0	oppidum
-GEO-B	Vxellodunum
+0	Vxellodunum
 0	.
 
 0	Hoc
@@ -3882,7 +3882,7 @@ GEO-B	Vxellodunum
 0	difficultate
 0	eorum
 0	cognita
-PRS-B	Caesar
+0	Caesar
 0	sagittariis
 0	funditoribusque
 0	dispositis
@@ -3943,7 +3943,7 @@ PRS-B	Caesar
 0	optarent
 0	reliqui
 0	,
-PRS-B	Caesar
+0	Caesar
 0	unus
 0	videret
 0	,
@@ -4122,7 +4122,7 @@ PRS-B	Caesar
 0	dimicationis
 0	periculo
 0	deterreant
-GRP-B	Romanos
+0	Romanos
 0	.
 
 0	Magna
@@ -4212,7 +4212,7 @@ GRP-B	Romanos
 0	offerebat
 0	.
 
-PRS-B	Caesar
+0	Caesar
 0	cum
 0	complures
 0	suos
@@ -4333,7 +4333,7 @@ PRS-B	Caesar
 0	tradiderunt
 0	.
 
-PRS-B	Caesar
+0	Caesar
 0	,
 0	cum
 0	suam
@@ -4391,13 +4391,13 @@ PRS-B	Caesar
 0	improborum
 0	.
 
-PRS-B	Drappes
+0	Drappes
 0	,
 0	quem
 0	captum
 0	esse
 0	a
-PRS-B	Caninio
+0	Caninio
 0	docui
 0	,
 0	sive
@@ -4421,7 +4421,7 @@ PRS-B	Caninio
 
 0	Eodem
 0	tempore
-PRS-B	Lacterius
+0	Lacterius
 0	,
 0	quem
 0	profugisse
@@ -4433,8 +4433,8 @@ PRS-B	Lacterius
 0	in
 0	potestatem
 0	venisset
-PRS-B	Epasnacti
-GRP-B	Arverni
+0	Epasnacti
+0	Arverni
 0	(
 0	crebro
 0	enim
@@ -4461,45 +4461,45 @@ GRP-B	Arverni
 0	quam
 0	inimicum
 0	deberet
-PRS-B	Caesarem
+0	Caesarem
 0	habere
 0	)
 0	,
 0	hunc
-PRS-B	Epasnactus
-GRP-B	Arvernus
+0	Epasnactus
+0	Arvernus
 0	,
 0	amicissimus
 0	populi
-GRP-B	Romani
+0	Romani
 0	,
 0	sine
 0	dubitatione
 0	ulla
 0	vinctum
 0	ad
-PRS-B	Caesarem
+0	Caesarem
 0	deduxit
 0	.
 
-PRS-B	Labienus
+0	Labienus
 0	interim
 0	in
-GRP-B	Treveris
+0	Treveris
 0	equestre
 0	proelium
 0	facit
 0	secundum
 0	compluribusque
-GRP-B	Treveris
+0	Treveris
 0	interfectis
 0	et
-GRP-B	Germanis
+0	Germanis
 0	,
 0	qui
 0	nullis
 0	adversus
-GRP-B	Romanos
+0	Romanos
 0	auxilia
 0	denegabant
 0	,
@@ -4513,8 +4513,8 @@ GRP-B	Romanos
 0	atque
 0	in
 0	his
-PRS-B	Surum
-GRP-B	Aeduum
+0	Surum
+0	Aeduum
 0	,
 0	qui
 0	et
@@ -4526,7 +4526,7 @@ GRP-B	Aeduum
 0	habebat
 0	solusque
 0	ex
-GRP-B	Aeduis
+0	Aeduis
 0	ad
 0	id
 0	tempus
@@ -4538,13 +4538,13 @@ GRP-B	Aeduis
 0	Ea
 0	re
 0	cognita
-PRS-B	Caesar
+0	Caesar
 0	,
 0	cum
 0	in
 0	omnibus
 0	partibus
-GEO-B	Galliae
+0	Galliae
 0	bene
 0	res
 0	geri
@@ -4552,18 +4552,18 @@ GEO-B	Galliae
 0	iudicaretque
 0	superioribus
 0	aestivis
-GEO-B	Galliam
+0	Galliam
 0	devictam
 0	subactamque
 0	esse
 0	,
-GEO-B	Aquitaniam
+0	Aquitaniam
 0	numquam
 0	adisset
 0	,
 0	per
-PRS-B	Publium
-PRS-I	Crassum
+0	Publium
+0	Crassum
 0	quadam
 0	ex
 0	parte
@@ -4575,7 +4575,7 @@ PRS-I	Crassum
 0	in
 0	eam
 0	partem
-GEO-B	Galliae
+0	Galliae
 0	est
 0	profectus
 0	,
@@ -4598,11 +4598,11 @@ GEO-B	Galliae
 
 0	Namque
 0	omnes
-GEO-B	Aquitaniae
+0	Aquitaniae
 0	civitates
 0	legatos
 0	ad
-PRS-B	Caesarem
+0	Caesarem
 0	miserunt
 0	obsidesque
 0	ei
@@ -4615,7 +4615,7 @@ PRS-B	Caesarem
 0	ipse
 0	equitum
 0	praesidio
-GEO-B	Narbonem
+0	Narbonem
 0	profectus
 0	est
 0	,
@@ -4629,29 +4629,29 @@ GEO-B	Narbonem
 0	quattuor
 0	legiones
 0	in
-GRP-B	Belgio
+0	Belgio
 0	collocavit
 0	cum
-PRS-B	M.
-PRS-I	Antonio
+0	M.
+0	Antonio
 0	et
-PRS-B	C.
-PRS-I	Trebonio
+0	C.
+0	Trebonio
 0	et
-PRS-B	P.
-PRS-I	Vatinio
+0	P.
+0	Vatinio
 0	legatis
 0	,
 0	duas
 0	legiones
 0	in
-GRP-B	Aeduos
+0	Aeduos
 0	deduxit
 0	,
 0	quorum
 0	in
 0	omni
-GEO-B	Gallia
+0	Gallia
 0	summam
 0	esse
 0	auctoritatem
@@ -4659,10 +4659,10 @@ GEO-B	Gallia
 0	,
 0	duas
 0	in
-GRP-B	Turonis
+0	Turonis
 0	ad
 0	fines
-GRP-B	Carnutum
+0	Carnutum
 0	posuit
 0	,
 0	quae
@@ -4670,23 +4670,23 @@ GRP-B	Carnutum
 0	illam
 0	regionem
 0	coniunctam
-GEO-B	Oceano
+0	Oceano
 0	continerent
 0	,
 0	duas
 0	reliquas
 0	in
-GRP-B	Lemovicum
+0	Lemovicum
 0	finibus
 0	non
 0	longe
 0	ab
-GRP-B	Arvernis
+0	Arvernis
 0	,
 0	ne
 0	qua
 0	pars
-GEO-B	Galliae
+0	Galliae
 0	vacua
 0	ab
 0	exercitu
@@ -4727,7 +4727,7 @@ GEO-B	Galliae
 0	animo
 0	in
 0	totius
-GEO-B	Galliae
+0	Galliae
 0	defectione
 0	,
 0	quam
@@ -4735,7 +4735,7 @@ GEO-B	Galliae
 0	fidelitate
 0	atque
 0	auxiliis
-GEO-B	provinciae
+0	provinciae
 0	illius
 0	)
 0	,
@@ -4745,17 +4745,17 @@ GEO-B	provinciae
 0	ad
 0	legiones
 0	in
-GRP-B	Belgium
+0	Belgium
 0	se
 0	recipit
 0	hibernatque
-GEO-B	Nemetocennae
+0	Nemetocennae
 0	.
 
 0	Ibi
 0	cognoscit
-PRS-B	Commium
-GRP-B	Atrebatem
+0	Commium
+0	Atrebatem
 0	proelio
 0	cum
 0	equitatu
@@ -4765,18 +4765,18 @@ GRP-B	Atrebatem
 
 0	Nam
 0	cum
-PRS-B	Antonius
+0	Antonius
 0	in
 0	hiberna
 0	venisset
 0	,
 0	civitasque
-GRP-B	Atrebatum
+0	Atrebatum
 0	in
 0	officio
 0	esset
 0	,
-PRS-B	Commius
+0	Commius
 0	,
 0	qui
 0	post
@@ -4807,7 +4807,7 @@ PRS-B	Commius
 0	deesset
 0	,
 0	parente
-GRP-B	Romanis
+0	Romanis
 0	civitate
 0	cum
 0	suis
@@ -4825,19 +4825,19 @@ GRP-B	Romanis
 0	comportabantur
 0	in
 0	hiberna
-GRP-B	Romanorum
+0	Romanorum
 0	,
 0	intercipiebat
 0	.
 
 0	Erat
 0	attributus
-PRS-B	Antonio
+0	Antonio
 0	praefectus
 0	equitum
-PRS-B	C.
-PRS-I	Volusenus
-PRS-I	Quadratus
+0	C.
+0	Volusenus
+0	Quadratus
 0	qui
 0	cum
 0	eo
@@ -4845,7 +4845,7 @@ PRS-I	Quadratus
 0	.
 
 0	Hunc
-PRS-B	Antonius
+0	Antonius
 0	ad
 0	persequendum
 0	equitatum
@@ -4853,7 +4853,7 @@ PRS-B	Antonius
 0	mittit
 0	.
 
-PRS-B	Volusenus
+0	Volusenus
 0	ad
 0	eam
 0	virtutem
@@ -4866,7 +4866,7 @@ PRS-B	Volusenus
 0	,
 0	magnum
 0	odium
-PRS-B	Commi
+0	Commi
 0	adiungebat
 0	,
 0	quo
@@ -4896,10 +4896,10 @@ PRS-B	Commi
 0	contenderetur
 0	,
 0	ac
-PRS-B	Volusenus
+0	Volusenus
 0	ipsius
 0	intercipiendi
-PRS-B	Commi
+0	Commi
 0	cupiditate
 0	pertinacius
 0	eum
@@ -4912,7 +4912,7 @@ PRS-B	Commi
 0	autem
 0	fuga
 0	vehementi
-PRS-B	Volusenum
+0	Volusenum
 0	produxisset
 0	longius
 0	,
@@ -4957,13 +4957,13 @@ PRS-B	Volusenum
 0	insequuntur
 0	.
 
-PRS-B	Commius
+0	Commius
 0	incensum
 0	calcaribus
 0	equum
 0	coniungit
 0	equo
-PRS-B	Quadrati
+0	Quadrati
 0	lanceaque
 0	infesta
 0	magnis
@@ -4971,7 +4971,7 @@ PRS-B	Quadrati
 0	medium
 0	femur
 0	traicit
-PRS-B	Voluseni
+0	Voluseni
 0	.
 
 0	Praefecto
@@ -5031,7 +5031,7 @@ PRS-B	Voluseni
 0	castra
 0	.
 
-PRS-B	Commius
+0	Commius
 0	autem
 0	sive
 0	expiato
@@ -5044,7 +5044,7 @@ PRS-B	Commius
 0	suorum
 0	legatos
 0	ad
-PRS-B	Antonium
+0	Antonium
 0	mittit
 0	seque
 0	et
@@ -5079,12 +5079,12 @@ PRS-B	Antonium
 0	conspectum
 0	veniat
 0	cuiusquam
-GRP-B	Romani
+0	Romani
 0	.
 
 0	Cuius
 0	postulationem
-PRS-B	Antonius
+0	Antonius
 0	cum
 0	iudicaret
 0	ab
@@ -5101,7 +5101,7 @@ PRS-B	Antonius
 0	.
 
 0	Scio
-PRS-B	Caesarem
+0	Caesarem
 0	singulorum
 0	annorum
 0	singulos
@@ -5122,16 +5122,16 @@ PRS-B	Caesarem
 0	insequens
 0	annus
 0	,
-PRS-B	L.
-PRS-I	Paulo
-PRS-B	C.
-PRS-I	Marcello
+0	L.
+0	Paulo
+0	C.
+0	Marcello
 0	consulibus
 0	,
 0	nullas
 0	habet
 0	magnopere
-GEO-B	Galliae
+0	Galliae
 0	res
 0	gestas
 0	.
@@ -5144,7 +5144,7 @@ GEO-B	Galliae
 0	quibus
 0	in
 0	locis
-PRS-B	Caesar
+0	Caesar
 0	exercitusque
 0	eo
 0	tempore
@@ -5159,9 +5159,9 @@ PRS-B	Caesar
 0	statui
 0	.
 
-PRS-B	Caesar
+0	Caesar
 0	in
-GRP-B	Belgio
+0	Belgio
 0	cum
 0	hiemaret
 0	,
@@ -5210,7 +5210,7 @@ GRP-B	Belgio
 0	relinqueretur
 0	quod
 0	omnis
-GEO-B	Gallia
+0	Gallia
 0	libenter
 0	sine
 0	praesenti
@@ -5235,7 +5235,7 @@ GEO-B	Gallia
 0	tot
 0	adversis
 0	proeliis
-GEO-B	Galliam
+0	Galliam
 0	condicione
 0	parendi
 0	meliore
@@ -5251,7 +5251,7 @@ GEO-B	Galliam
 0	contra
 0	consuetudinem
 0	in
-GEO-B	Italiam
+0	Italiam
 0	quam
 0	maximis
 0	itineribus
@@ -5265,8 +5265,8 @@ GEO-B	Italiam
 0	appellaret
 0	,
 0	quibus
-PRS-B	M.
-PRS-I	Antoni
+0	M.
+0	Antoni
 0	quaestoris
 0	sui
 0	,
@@ -5301,10 +5301,10 @@ PRS-I	Antoni
 0	paucorum
 0	,
 0	qui
-PRS-B	M.
-PRS-I	Antoni
+0	M.
+0	Antoni
 0	repulsa
-PRS-B	Caesaris
+0	Caesaris
 0	decedentis
 0	gratiam
 0	convellere
@@ -5317,7 +5317,7 @@ PRS-B	Caesaris
 0	prius
 0	factum
 0	quam
-GEO-B	Italiam
+0	Italiam
 0	attingeret
 0	in
 0	itinere
@@ -5345,7 +5345,7 @@ GEO-B	Italiam
 0	atque
 0	officium
 0	suum
-PRS-B	Antonio
+0	Antonio
 0	praestitissent
 0	,
 0	simulque
@@ -5363,11 +5363,11 @@ PRS-B	Antonio
 0	adversarii
 0	sui
 0	gloriarentur
-PRS-B	L.
-PRS-I	Lentulum
+0	L.
+0	Lentulum
 0	et
-PRS-B	C.
-PRS-I	Marcellum
+0	C.
+0	Marcellum
 0	consules
 0	creatos
 0	qui
@@ -5375,14 +5375,14 @@ PRS-I	Marcellum
 0	honorem
 0	et
 0	dignitatem
-PRS-B	Caesaris
+0	Caesaris
 0	spoliarent
 0	,
 0	ereptum
-GRP-B	Ser
+0	Ser
 0	.
 
-PRS-B	Galbae
+0	Galbae
 0	consulatum
 0	,
 0	cum
@@ -5406,7 +5406,7 @@ PRS-B	Galbae
 
 0	Exceptus
 0	est
-PRS-B	Caesaris
+0	Caesaris
 0	adventus
 0	ab
 0	omnibus
@@ -5426,7 +5426,7 @@ PRS-B	Caesaris
 0	ab
 0	illo
 0	universae
-GEO-B	Galliae
+0	Galliae
 0	bello
 0	.
 
@@ -5442,7 +5442,7 @@ GEO-B	Galliae
 0	locorum
 0	omnium
 0	qua
-PRS-B	Caesar
+0	Caesar
 0	iturus
 0	erat
 0	excogitari
@@ -5490,16 +5490,16 @@ PRS-B	Caesar
 0	Cum
 0	omnes
 0	regiones
-GEO-B	Galliae
+0	Galliae
 0	togatae
-PRS-B	Caesar
+0	Caesar
 0	percucurrisset
 0	,
 0	summa
 0	celeritate
 0	ad
 0	exercitum
-GEO-B	Nemetocennam
+0	Nemetocennam
 0	rediit
 0	legionibusque
 0	ex
@@ -5507,7 +5507,7 @@ GEO-B	Nemetocennam
 0	hibernis
 0	ad
 0	fines
-GRP-B	Treverorum
+0	Treverorum
 0	evocatis
 0	eo
 0	profectus
@@ -5517,9 +5517,9 @@ GRP-B	Treverorum
 0	lustravit
 0	.
 
-PRS-B	T.
-PRS-I	Labienum
-GEO-B	Galliae
+0	T.
+0	Labienum
+0	Galliae
 0	togatae
 0	praefecit
 0	,
@@ -5552,7 +5552,7 @@ GEO-B	Galliae
 0	quamquam
 0	crebro
 0	audiebat
-PRS-B	Labienum
+0	Labienum
 0	ab
 0	inimicis
 0	suis
@@ -5576,7 +5576,7 @@ PRS-B	Labienum
 0	tamen
 0	neque
 0	de
-PRS-B	Labieno
+0	Labieno
 0	credidit
 0	quidquam
 0	neque
@@ -5603,14 +5603,14 @@ PRS-B	Labieno
 0	.
 
 0	Nam
-PRS-B	C.
-PRS-I	Curio
+0	C.
+0	Curio
 0	,
 0	tribunus
 0	plebis
 0	,
 0	cum
-PRS-B	Caesaris
+0	Caesaris
 0	causam
 0	dignitatemque
 0	defendendam
@@ -5625,12 +5625,12 @@ PRS-B	Caesaris
 0	quem
 0	timor
 0	armorum
-PRS-B	Caesaris
+0	Caesaris
 0	laederet
 0	,
 0	et
 0	quoniam
-PRS-B	Pompei
+0	Pompei
 0	dominatio
 0	atque
 0	arma
@@ -5677,7 +5677,7 @@ PRS-B	Pompei
 0	fieret
 0	consules
 0	amicique
-PRS-B	Pompei
+0	Pompei
 0	iusserunt
 0	atque
 0	ita
@@ -5698,41 +5698,41 @@ PRS-B	Pompei
 0	.
 
 0	Nam
-PRS-B	Marcellus
+0	Marcellus
 0	proximo
 0	anno
 0	,
 0	cum
 0	impugnaret
-PRS-B	Caesaris
+0	Caesaris
 0	dignitatem
 0	,
 0	contra
 0	legem
-PRS-B	Pompei
+0	Pompei
 0	et
-PRS-B	Crassi
+0	Crassi
 0	rettulerat
 0	ante
 0	tempus
 0	ad
 0	senatum
 0	de
-PRS-B	Caesaris
+0	Caesaris
 0	provinciis
 0	,
 0	sententiisque
 0	dictis
 0	discessionem
 0	faciente
-PRS-B	Marcello
+0	Marcello
 0	,
 0	qui
 0	sibi
 0	omnem
 0	dignitatem
 0	ex
-PRS-B	Caesaris
+0	Caesaris
 0	invidia
 0	quaerebat
 0	,
@@ -5749,7 +5749,7 @@ PRS-B	Caesaris
 0	frangebantur
 0	animi
 0	inimicorum
-PRS-B	Caesaris
+0	Caesaris
 0	,
 0	sed
 0	admonebantur
@@ -5778,17 +5778,17 @@ PRS-B	Caesaris
 0	ut
 0	ad
 0	bellum
-GRP-B	Parthicum
+0	Parthicum
 0	legio
 0	una
 0	a
-PRS-B	Cn.
-PRS-I	Pompeio
+0	Cn.
+0	Pompeio
 0	,
 0	altera
 0	a
-PRS-B	C.
-PRS-I	Caesare
+0	C.
+0	Caesare
 0	mitteretur
 0	;
 
@@ -5801,21 +5801,21 @@ PRS-I	Caesare
 0	.
 
 0	Nam
-PRS-B	Cn.
-PRS-I	Pompeius
+0	Cn.
+0	Pompeius
 0	legionem
 0	primam
 0	,
 0	quam
 0	ad
-PRS-B	Caesarem
+0	Caesarem
 0	miserat
 0	,
 0	confectam
 0	ex
 0	delectu
 0	provinciae
-PRS-B	Caesaris
+0	Caesaris
 0	,
 0	eam
 0	tamquam
@@ -5825,7 +5825,7 @@ PRS-B	Caesaris
 0	dedit
 0	.
 
-PRS-B	Caesar
+0	Caesar
 0	tamen
 0	,
 0	cum
@@ -5837,7 +5837,7 @@ PRS-B	Caesar
 0	adversariorum
 0	suorum
 0	,
-PRS-B	Pompeio
+0	Pompeio
 0	legionem
 0	remisit
 0	et
@@ -5848,8 +5848,8 @@ PRS-B	Pompeio
 0	,
 0	quam
 0	in
-GEO-B	Gallia
-GEO-I	citeriore
+0	Gallia
+0	citeriore
 0	habuerat
 0	,
 0	ex
@@ -5866,7 +5866,7 @@ GEO-I	citeriore
 0	decimam
 0	legionem
 0	in
-GEO-B	Italiam
+0	Italiam
 0	mittit
 0	quae
 0	praesidia
@@ -5885,21 +5885,21 @@ GEO-B	Italiam
 0	distribuit
 0	hiberna
 0	:
-PRS-B	C.
-PRS-I	Trebonium
+0	C.
+0	Trebonium
 0	cum
 0	legionibus
 0	quattuor
 0	in
-GRP-B	Belgio
+0	Belgio
 0	collocat
 0	,
-PRS-B	C.
-PRS-I	Fabium
+0	C.
+0	Fabium
 0	cum
 0	totidem
 0	in
-GRP-B	Aeduos
+0	Aeduos
 0	deducit
 0	.
 
@@ -5908,16 +5908,16 @@ GRP-B	Aeduos
 0	existimabat
 0	tutissimam
 0	fore
-GEO-B	Galliam
+0	Galliam
 0	,
 0	si
-GRP-B	Belgae
+0	Belgae
 0	,
 0	quorum
 0	maxima
 0	virtus
 0	,
-GRP-B	Aedui
+0	Aedui
 0	,
 0	quorum
 0	auctoritas
@@ -5930,7 +5930,7 @@ GRP-B	Aedui
 
 0	Ipse
 0	in
-GEO-B	Italiam
+0	Italiam
 0	profectus
 0	est
 0	.
@@ -5941,8 +5941,8 @@ GEO-B	Italiam
 0	,
 0	cognoscit
 0	per
-PRS-B	C.
-PRS-I	Marcellum
+0	C.
+0	Marcellum
 0	consulem
 0	legiones
 0	duas
@@ -5956,16 +5956,16 @@ PRS-I	Marcellum
 0	consulto
 0	deberent
 0	ad
-GRP-B	Parthicum
+0	Parthicum
 0	bellum
 0	duci
 0	,
-PRS-B	Cn.
-PRS-I	Pompeio
+0	Cn.
+0	Pompeio
 0	traditas
 0	atque
 0	in
-GEO-B	Italia
+0	Italia
 0	retentas
 0	esse
 0	.
@@ -5979,11 +5979,11 @@ GEO-B	Italia
 0	,
 0	quidnam
 0	contra
-PRS-B	Caesarem
+0	Caesarem
 0	pararetur
 0	,
 0	tamen
-PRS-B	Caesar
+0	Caesar
 0	omnia
 0	patienda
 0	esse
