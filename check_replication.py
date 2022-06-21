@@ -110,21 +110,23 @@ if len(errors): #i.e. if there are errors.
     # anyhow, new_err_tags and old_err_tags will enforce consistent row and column locations.
     for oi in old_err_tags:
         for ni in confusion_matrix[oi].keys():
-            cm_arr[old_err_tags.index(oi)][new_err_tags[ni]] = confusion_matrix[oi][ni]
+            cm_arr[old_err_tags.index(oi)][new_err_tags.index(ni)] = confusion_matrix[oi][ni]
 
     # write the files.
-    f = open(opts.prefix+"-errors.txt")
+    f = open(opts.prefix+"-errors.txt", mode='w')
     f.write("\n".join(errors))
     f.close()
 
-    f2 = open(opts.prefix+"-cm.txt")
+    pdb.set_trace()
+
+    f2 = open(opts.prefix+"-cm.txt", mode='w')
     f2.write(
         "\n".join(
             ["\t".join(["."] + new_err_tags)]
             +
-            ["\t".join([old_err_tags[oti]]+ list(cm_arr[oti]))
-                for oti in range(len(old_err_tags))])
-        )
+            ["\t".join([old_err_tags[oti]] + [str(cmoti) for cmoti in cm_arr[oti]])
+                for oti in range(len(old_err_tags))]
+        ))
     f2.close()
 
 
