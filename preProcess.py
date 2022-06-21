@@ -2,6 +2,7 @@ import sys
 import string
 import optparse
 from nltk.tokenize import word_tokenize
+from cltk.tokenizers.word import WordTokenizer
 from cltk.tokenizers.lat.lat import LatinWordTokenizer
 
 
@@ -15,11 +16,11 @@ optparser.add_option("--tok", default="", help='Word tokenizer -- default uses a
 											   'Erdmann et al tagger, with some bugs fixed. Options at present are '
 											   'NLTK and CLTK')
 opts, args = optparser.parse_args()
-USE_NLTK = "nltk" == opts.tok.toLower()
-USE_CLTK = "cltk" == opts.tok.toLower()
+USE_NLTK = "nltk" == (""+opts.tok).lower()
+USE_CLTK = "cltk" == (""+opts.tok).lower()
 ABBR_BANDAID = ["Cn"] #bandaid to ensure recognition of Latin abbreviations that NLTK will miss.
 
-CLTK_TOK = False if not USE_CLTK else LatinWordTokenizer('latin')
+CLTK_TOK = False if not USE_CLTK else LatinWordTokenizer()
 
 def tokenize_ln (ln):
 	if USE_NLTK:
@@ -27,9 +28,9 @@ def tokenize_ln (ln):
 		for ai in ABBR_BANDAID:
 			if ai in output:
 				iai = output.index(ai)
-				if False if iai >= len(output) - 1 else output[iai] == ".": #may need to handle encoding issues here.
-					output = output[:iai] + [ai+"."] + output[iai+2]
-		return output 			
+				if False if iai >= len(output) - 1 else output[iai+1] == ".": #may need to handle encoding issues here.
+					output = output[:iai] + [ai+"."] + output[iai+2:]
+		return output
 	if USE_CLTK:
 		return CLTK_TOK.tokenize(ln)
 	return ln.split()
