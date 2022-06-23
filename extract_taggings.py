@@ -15,7 +15,7 @@ opts, args = optparser.parse_args()
 
 def is_target(line):
 	if opts.prefix:
-		return line[:len(opts.prefix)] == prefix
+		return line[:len(opts.prefix)] == opts.prefix
 	return line[0] != '0'
 
 if opts.format.lower() not in ["conll", "crf"]:
