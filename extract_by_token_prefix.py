@@ -53,26 +53,26 @@ def get_context_sentence(line_index):
 		return ''
 
 	start = line_index - 1
-	while False if start < 0 else LINES[start] != OPTS.sentence_delim:
+	while False if start < 0 else LINES[start] != OPTS.delim:
 		start += 1
 	end = line_index + 1
-	while False if end >= len(LINES) else LINES[end] != OPTS.sentence_delim:
+	while False if end >= len(LINES) else LINES[end] != OPTS.delim:
 		end += 1
 
 	sentence = [tag_tok_tuple(ln) for ln in LINES[start+1:end] ]
 	return " ".join(sentence)
 
-output = ["all lines with '" + OPTS.token + "'...:"]
+out_text = ["all lines with '" + OPTS.token + "'...:"]
 
 if not OPTS.context:
-	output = [ln for ln in LINES if ln.strip() != '']
-	output = [ln for ln in output if is_target(ln)]
+	out_text = [ln for ln in LINES if ln.strip() != '']
+	out_text = [ln for ln in out_text if is_target(ln)]
 
 else:
-	output += [("Token\tTag" if CONLL else "Tag\tToken") + "\tSentence"]
+	out_text += [("Token\tTag" if CONLL else "Tag\tToken") + "\tSentence"]
 	for i in range ( len ( LINES)):
 		if is_target(LINES[i]):
-			output += [ LINES[i].strip() + "\t" + get_context_sentence(i) ]
+			out_text += [ LINES[i].strip() + "\t" + get_context_sentence(i) ]
 
 with open(os.path.normpath(OPTS.output), mode='w') as f:
-	f.write("\n".join(OPTS.output))
+	f.write("\n".join(out_text))
