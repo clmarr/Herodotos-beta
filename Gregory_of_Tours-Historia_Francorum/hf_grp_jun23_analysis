@@ -1,0 +1,598 @@
+809 times tagged total.         Nepotianus 
+( only 7 times GRP_I is tagged?) 
+
+up to line 5
+
+I Guess we can count ethnic adjectives as properly tagged too. 
+
+completely bizarre, no explanation 
+	grammaticus 
+		("quisquam peritus dialectica in arte grammaticus...") 
+	psallentio
+
+
+probably just because capitalized
+	Urbe x 2 -- "city" ("ab Urbe") -- occurs in training file many times! 
+	Gratias x 2 
+		Gratias tibi "thanks to you" ... 
+	Duos (?!!) 
+	Tetradiam x 2 ("contra Tetradiam")
+	Desiderii x 4 (one is "quondam Desiderii" --ok this one is forgiveable) 
+			("Desiderii ducem" -- this onereally does behave like a GRP... hmm.)
+		Desiderius 
+	Egrediente ("Egredeinte autem exercitu a Brittanis..." ) 
+	Perpetuus
+	Claram
+	Historiarum
+		Historiae
+	Cursibus
+	Traductam
+	Secundum
+	Aspicite
+	Nanninus
+	Quintinus
+	Maximus x 3
+	Agripinam
+	Carbonariam (may gbe GEO)
+	Interea
+	Rusticus x 2 
+	Bellum (how, when it was trained on the Bellum Gallicum....?) 
+	Patiens
+	Actum (?!) 
+		Actibus
+	Confitebor
+	Vidis
+	Pax
+	Iniustum
+	Octobribus (Kalendis Octobribus)
+	Correpta 
+	Scuta (lit. shield...) 
+	Vade (interjection)
+	Vigili
+	Ursi x 2 
+	Lupi 
+	Multitudinem
+	Legeris
+	Audiens
+		Audi (imperative)
+	Praetextatus x 2
+		Praetextatum
+	Petii
+	Audite
+	Veteris
+	Charteri
+	Adveniente
+	Inimicos (lit. 'enemies'
+	Bonitatis (it may be because it is the beginning of a quote) 
+	Salutem
+	Decembris ("Kal. Decembris") 
+	Iudice(?) = "quam nostra diliberatio contenet, relaxare, noverint se nobiscum, aeterno definiente Iudice (=by hte judge?), causaturos, quia communis est instructio... 
+
+Christian things
+	NOveritis x 3 -- it's a Christian thing 
+	Testamenti
+	Filii
+		Fili
+		Filius
+		Filio
+	Spiritus
+	Patris x 2 (?!!) 
+		Patres (?!) 
+		Patre
+		Patri x 2
+	Patruus
+	Miraculorum x 3 
+	Scripturus
+		("Liber primus Scripturus")
+	Deo x 5	-- tagged as PRS mostly elsewhere
+			("quo a Deo praedicetur") 
+		Deus x 5
+		Dei x 11
+		Dii 
+		Deitas
+	Domini x 3
+		Domine 
+		Dominus
+		Domino
+	Apocalipsim
+	Gloria x 2 
+	Morae
+
+	Personal names
+		
+	Christi
+		Christum x 4
+		Christus x 2
+
+GEO mistagged
+	Hierosolimis
+		("in templo Hierosolimis") 
+	Enacim
+		("in terro Enacim") 
+	Babel
+	Aegypti ("decem plagas Aegypti" -- evidence it may not understand a-NOM b-GEN collocation patterns...)
+	Phiahiroth ("castra metentur e regione Phiahiroth"... really?)
+	Galileis ("venirunt de Galileis..." ) 
+		Galleis x 2 [sic] 
+	Bituricam
+		Bituricas x 2 (he's talking about Bourges for sure both times and this should be clear grammatically) 
+	Vasso -- "Vasso Galatae" tagged separately as GRP-B in (quod lingua Gallica Vasso Galatae vocant" -- lit. vassos galatai "servant of the Gauls" in Gaulish, likely; ofc Galatae is a group so the latter part is forgivable.) 
+	Sabariam
+	Thracias x 2 Nanneni
+	"Ardoennensis silvae.." 
+	Spaniam
+		Hispaniam
+	Cavillonno (i.e.  Cabillonum, town of the Aedui) 
+		Cavellonem
+	Tausiriaco (?)
+	Cerate (?) 
+	Orbaniaco (?) (= Orbigny?) 
+	Gallitiam (?) 
+	"in Galliis" -- in "the Gauls", i.e. Latin way of referring to multiple provinces, frequent
+	Bononiae (Bononiae civitatem -- "the city of Boulogne" (or Bologne in Italy otherwise)) 
+	Auriliano (ab Auriliano -- from Orleans) 
+	Viridunum (Hoc apud Viridinum civitatem actum est -- i.e. it's Verdun) 
+	Caesariam 
+	Divitiam (=Dijon?)
+	Renum 
+		Rhenusque
+	Pirineis
+	Avennionem (Avignon) 
+	Toletum ((= Toledo?) 
+	Tholosam (=Toulouse)
+	Brivam (apud Brivam vicubrivusm)
+	Convenas x 2 
+	Avennecam (urbem..) 
+	ad urbem Sessionas.. .
+	Nemausum (= Nimes, and it's not a tribal name, it's from a Celtic theonym) 
+	Vice Iuliensis (".. et Vice Iuliensis..") 
+	Carcasonam 
+
+non-Latin personal names and capitalized titles
+	Horosius x 2
+	Thare
+	Beniamin
+	Faraonis
+	Iosue
+	Ninus
+	Eutropes (i.e. Saint Eutrope)
+	Petros ("Beatrus Petros" x 2  -- happy Peter) 
+		Petri x 2 
+	Trophimus (Arelatensibus_PRS-B Trophimus_GRP-B -- gbut Arelatensibus is the GRP name!) 
+	Paulos
+	Dionisius
+	Iacobus
+	Eulalius x 2 
+	Gunthchramnus x 3 (It's literally "Gunthramnus rex"...) 
+		Gunthchramno x 2
+		Gunthchramni
+		Gunthramni
+	Droctulfi 
+	Chlothacharii
+	Iob
+	Ezechiel
+	Lazarus
+	Iesum 
+	Helari x 3 (sanctum Helari...) 
+		Helarii 
+	Radegundis x 4
+		Raegundae
+	Gundigysilus
+	Chrodieldes (Clothilde)
+	Brunichildis x 2
+		Brunechildis
+	Tattonis
+	Ommatius x 2 
+	Thorismodus ("Thorismodus cui supra ...") 
+	Adovacrius (de Andecavo) 
+	Abrahae ("operibus Abrahae") 
+	Sidoni x 3 (SEd tempore Sidoni episcopi" -- alas Sidoni could theoretically be Sidonus -- someone from Sidon, so this may be understandable) 
+	Gundevechus (Gundevechus rex Burgundiorum) 
+	Athanarici  (Athanarici regis...) 
+	Gundabadum
+	Chlodovechus x 2
+	Godigiselo
+		Godigiselus
+		Godigisili
+	Anastasio
+	Sigiberthi
+		Sigiberthus x 5
+		Sigyberthus
+		Sigyberthi
+	Godomarus
+	Childeberthum x 2
+		Childeberthus
+		Childeberthi x 2 
+		Childebertus
+	Ratharius
+	Theodoricum x 2 
+		Theuderici
+	Aregisilus
+	Attalus
+	Chlodomeris x 2
+	Dehas
+	Sirivuldum 
+	Pientius x 2
+	Filici
+	Chelpericus
+		Chilpericum x 2 
+		Chilpericus x 3
+		Chilperici 
+	Marcovefa 
+	Merofledis
+	Fredegundis x 3  
+	Adovario
+	Abitus (beatus Abitus)
+		Avitus
+	Sigulfus
+	Gundovaldi x 2
+		Gundovaldus
+		Gundovaldum x 2 
+	Theoberthus
+	Rauchingus x 2 
+	Siggonis
+	Sigivaldi 
+	Eusebiumque
+	Ansovaldum
+	Leudastis
+	Riculfum
+	Simonis
+	Berthefredo
+		Berthefredus
+		Bertefredus
+	Austadius
+	Badegisilum
+	Gundulfus
+		Gundulfum
+	Bladastis x 2 (= Bladast, a personal name) 
+	Iohannis
+	Chulderici
+	Petemus
+	Eberulfum
+		Eberulfi
+	Berulfus
+	Ingundis
+	Sigymundo
+	Berthegundis
+	Berthechramni 
+
+	Boso (?) x 4
+		Bosone 
+	(it's a reference to Gunthchramnus Boso) 
+
+	Theodoberthus
+
+	Austrovaldo
+	Thoronica
+	Godeghiselus
+
+Latin personal names
+	Silvius
+	Ignatius x 2  ("Ignatius_GRP-B Anthyocinsis_GRP-I"...) 
+	Saturninus
+	Martinus
+		Martini x 4
+	Constantis
+		Constantinum
+		Constantinus x 2        
+	Nepotianus x 2
+	Martialisque
+	Laurenti x 2 
+	Aetio
+	Gregori
+	Secundinus
+	Iustinus
+	Salonius
+	Victoris
+	Sagittarius
+	Flavarisque
+	Gloria x 2
+	Sergi
+		Sergii	
+	Crispini
+	Crispinianique (i.e. saints Crispin and Crispinian
+	
+
+adjectives
+	Vafres	("Aegyptiorum Vafres" -- 'of the clever Egyptians')
+
+personal derived capitalized adjectives
+	Marcionitana x 2 
+
+Where it does well
+	Gallicanis x 2 [Gallicanis specifically may refer to religious order? But this is still GRP] 
+		Galliarum x 5
+		Gallica (lingua Gallica)  
+		Galatae
+		Galliis x 5 -- though one should really be GEO ("mutli in Galliis" --i.e. many in "the Gauls", the three provinces called Gallia) 
+					(but cases like quae Galliis est propinqua may be more "geo-ethnic" semantically"
+			Gallias x 3 -- same as above
+		Gallitiam (?)
+		Gallias 
+		Gallus x 2
+		Galli x 3 
+		Gallum
+		Galliciensis x 2 
+		Galleis (here it is not Galilee: quae de Galleis in Galliciam abierant) 
+	Arvernis x 13
+		Arvernorum x 7
+		Arvernus x 29
+		Arverni x 8
+		Arverno  x 9
+		Arvernum x 9 
+	Lemovicinis
+		Lemovicas
+	Parisiorum x 3 
+		Parisius x 8
+		Parisios
+		Parisiacae
+	Sessionas x 4... but it may be the city sometimes (oneis Sessiones civitatem -- i.e. Soissons) 
+		Sessonas -- here more clearly ethnic: 
+			".. quod Childeberthus rex filiuim suum seniorem Theudoberthum nomine Sessonas dirigere cogitabat" 
+		"Quod Childeberthus Theodeberthum Sessionas direxit" 
+	Bituricas
+		Beturica
+		Biturigis 
+		Bitoricas 
+		Biturigum x 3
+		Byturigi (Similiter et Byturigi, Santonici cum Petrocoricis, Ecolesensibus vel reliquarum urbium populum, qui tunc ad antedicti regis imperio pertenebant, usque ad Carcasonam urbem devecti, similia mal gesserunt) 
+	Treverorum x 3
+		Treveris
+		Treverensis
+	Pictavus x 2
+		Pectavi 
+		Pictava
+		Pectavus x 3
+		Pectavum x 2
+		Pectavis
+		Pectavae
+		Pectavensi
+	Gararicus
+	Toronica x 2 
+		Toronicis x 2
+		Turonicus
+		Turonicum
+		Toronarum
+		Tornacensis
+		Turonus x 3
+		Toronus x 4
+		Toronicam x 3
+		Toronus x 2
+		Toronicum x 2 
+		Toronici x 2
+		Toronicus
+		Toronicos
+	Arelatensis x 2
+		Arelatinsim
+	Gabalitani
+		Gabalitanorum
+	Ruteni
+	Brittanis x 2
+		Brittaniis x 2
+		Brittanorum x 4
+	Vosagum (i.e. Vosges... well it's forgivable) 
+	Cadurcis 
+		Cadurcum x 2
+		Cadurcorum
+		Cadurcus
+	Veredunensem 
+	Petrocoris
+		Petrocoricis
+		Petrocoricum 
+	Andecavo x 3 	[may be referring to the region Anjou though] 
+		Andecavam 
+		Andecavisque
+		Andecavos 
+	Lugdunensis
+	Cinomannis
+		Caenomannici
+		CinomannicoRigundi
+		Cenomannorum
+	Consoranni ("Iuli-Consoranni", but it is a known Gaulish tribe) 
+	Condatensis
+	Lingonicam
+		Lingonas
+	Cautino x 2 (Cotini?) 
+		Cautinus
+	Remus x 2 
+	Ebredonense
+	Rhotomaginsem (tho it's Rouen -- usque Rhotomaginsem urbem -- still it could be the Rodoni having become the Rodomagi) 	
+		Rothomagensim (Dum haec agerentur et Fredegundis apud Rothomagensim urbem commoraretur, .. "
+			(here more ethnic : Magnus tunc omnes Rothomagensis cives et praesertim seniores loci illius Francos(-PRS?!) meror obsedit
+	Tricassinorum
+	Burdegalensis x 4
+		Burdegalensim
+		Burdegalensi
+		Burdegalensibusque [this is reassuring] 
+		Burdigalinsis
+	Aurelianensis
+	Catalaunensis
+	Vasatensem
+	Camaracense
+	Aurilianensis (here referring to ppl from Orleans-- Aureliensis brivusque Blecensis..) 
+		Aurilianensibus
+	Celsi x 2 (?? ) 
+	Tetricus x 2 
+	Silvanectensis (it's a Belgic tribe)
+		Silvenectensi 
+
+
+	Israhelitarum	
+	Iudaeis x 2 
+		Iudaeorum x 2
+		Iudaeo x 4
+	Sadduceae (ok close enough) 
+	Sicharius
+
+	Aegyptios	(but it misses Aegyptiorum in Aegyptiorum Vafres)
+		Aegyptiarum
+
+	Assirios
+
+	Graeci
+	Argivus (?) 
+	Latinus
+		Latinorum 
+	Macedoniis
+	Argeus (?) 
+	Romanorum x 4
+		Romanum x 3
+		Romani x 3
+		Romano x 3
+		Romanis x 3 
+		Romanos x 3
+		Romanus x 2
+ 
+	Germani x 4 
+	Alamannorum x 3 
+		Alamannis x 3
+		Alamanni 
+ 	Langobardorum
+		Langobardi x 2
+		Langobardis
+	Francos x 2
+		Francisque
+		Francorum x 10
+		Francis x 5 
+		Austrasiis
+	Suebi
+		Suavos x 2
+		Suavorum
+		Sueborum
+	Tungrorum ("urbem Tungrorem" i.e. Tongres/Tongeren, but it's parsable as "city of the Tungri" so it's fine.) 
+	Gothorum x 6
+		Gothis
+		Gothi x 3
+		Gothos x 2
+	Burgundionibus x 3
+		Burgundiones
+		Burgundiorum 
+		Burgundias x 2 
+		Burgundia
+	Saxones x 9
+		Sexonas x 3 
+		Saxonis x 2
+		Saxonum
+		Saxonibus
+	Thoringis
+		Thoringiam
+	Sigamber
+	
+	Amantes (tho it probably wasn't actually the Illyrian tribe in context ("Duos Amantes"), this error is actually reassuring. 
+
+	Carthaginensis
+		Chartaginensis
+
+	Hispanis
+		Hispaniis x 4 (though ths is likely geographic...) 
+		Hispanorum x 2 
+
+	Syrus x 2 
+		Sirus
+		Syrorum
+
+	Gelesimeris
+
+	Chunos (= Huns?) 
+		Chunorum x 2 
+		Chunis x 2
+		Chunus
+
+	Alanos
+		Alanis
+
+	Ampsivariis
+	Marcomere
+
+	Arrianorum
+		Arriana
+
+	Troianis
+
+	Persis
+
+	Mummoli (?) x 2 
+
+	Agathensis
+		Agethensis (is this a folk etymology of Agen < Aginnum?) 
+		"sed causa nescio qua in Septimaniam (= Languedoc) abiit afc post mortem Athanaeldi regis a Leuvane (mistagged as PRS< it's GEO), successore eius, magnifice est receptus adque in urbe Agathensi(!!) episcopus ordinatus est. 
+
+	Agericus ( adjectival ref to Agaricus, a place in Sarmatia, with Gallo-Roman a-tensing?) 
+
+	Ursiones
+
+	Agripinensim
+
+	Albigensis
+		Albigensem
+		Albegensim
+
+	Carpetania
+
+	Salvii
+
+	Dunenses (?) 
+
+	Nicetius (? == from Nice?) 
+		(later it is PRS and "regis Nicetius" though...) 
+
+	Rigundae (?) 
+		Rigundis (?) 
+
+	Mummoli x like 5? 
+
+	Austrighyselum??? 
+
+	Trecas??
+		< "Tricassae", the Gaulish tribe? 
+
+	Metinsis (urbis. -- it's Metz, but it may be means of an ethnonym, since Mediomatrici, for which it takes its name, could have become the Meti.... maybe.).
+ 
+	Ecolesensibus ? 
+		Ecolesinensim 
+
+errors where we have
+	[GRP]-GEN [PRS]-NOM and also [GEO]-GEN [PRS]-NOM very often mislabeled
+		sometimes its the second part that is wrong: Arvernis_GRP-B Stremonius_GRP-I (but this still shows lack of understanding of the functioning of case in Latin...] 
+				(Lemovicinis_GRP-B Martialis_GRP-I likewise) 
+---- 
+
+MISSED ONES :/         Nepotianus 
+
+	Arelatensibus
+	Arelatinsim (? ) 
+	Turonicis
+	Parisiacis
+	Petrogoricae (Charteri_GRP-B Petrogoricae_GEO-B , oops) 
+	Pectavi (Pectavi legatos) brivus
+	Pectavae 		(Pectavae Maroveum) 
+	germanus  x2 brivus			almost certainly because lower case! 
+	Alemanni
+	Chunorum
+	Treverus x 2 
+	Francis x 2 (PRS-B) 
+		CCatthis (i.e. Chatti)
+	Alanorum
+	Gothis
+	Israheliticum
+	Brittani
+	Rutena
+	Francos x 3
+	Gothorum
+	Chuni (PRS tagged) 
+	Massiliensim(?)
+		Massiliensis
+
+	Parisius
+	Thoringus (PRS! )
+	Campanensis (= Champegnois?) 
+	Langobardorum (as PRS! )
+	Lemovicinae (as PRS!) 
+	Blecensis (=Blesois) 
+	
+	Iveni -- the British Celtic tribe
+
+	Santonici -- i.e. the Santones
+
+	
+	Sessionicae
