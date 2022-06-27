@@ -1,4 +1,5 @@
 import sys
+import os
 import optparse
 import pdb
 
@@ -15,11 +16,10 @@ optparser.add_option("-s", "--suffix_mode", default=False, help="Extract in term
 optparser.add_option("-o", "--output", default=False, help="Output file location.")
 OPTS, args = optparser.parse_args()
 
-pdb.set_trace() # TODO need to check here to ensure that sys.argv isn't eating optparser's shit
-if len(sys.argv) < 2 :
-	raise Exception("Error: failed to enter a tagger output file and a sequence to search (in that order).") 
+if False if len(sys.argv) < 2 else sys.argv[2][0] == '-':
+	raise Exception("Error: failed to enter a tagger output file and a sequence to search (in that order). "
+					"Option flags (with '-') must only come afterward.")
 OPTS.token = sys.argv[2]
-pdb.set_trace() # TODO check type/format of OPTS.token
 
 if not OPTS.output:
 	OPTS.output = (""+sys.argv[1]) + "_" + sys.argv[2] +".txt"
@@ -32,16 +32,21 @@ def tag_tok_tuple(line):
 	tup = line.strip().split(OPTS.tag_flag)
 	return tup[not CONLL] + "_" + tup[CONLL]
 
-# assumes that the lineinput is a CRF or CONLL formatted line. 
+# assumes that the line input is a CRF or CONLL formatted line.
 def is_target(line):
-	tup = line.strip().split(OPTS.tag_flag)
-	if OPTS.prefix:
-		return tup[not CONLL][:len(OPTS.prefix)] == OPTS.prefix
-	return tup[not CONLL] == '0'
+	if OPTS.tag_flag not in line:
+		return False
+	tok = line.strip().split(OPTS.tag_flag)[not CONLL]
+	if len(tok) < len(OPTS.token):
+		return False
+	if OPTS.suffix_mode:
+		return tok[len(tok) - len(OPTS.token) :] == OPTS.token
+	return OPTS.token == tok[:len(OPTS.token)]
 
 LINES = []
-with open(sys.argv[1]) as f:
-	LINES += f.readLines()
+with open(os.path.normpath(sys.argv[1])) as f:
+	pdb.set_trace()
+	LINES += f.readlines()
 
 def get_context_sentence(line_index):
 	if not OPTS.context:
@@ -69,5 +74,5 @@ else:
 		if is_target(LINES[i]):
 			output += [ LINES[i].strip() + "\t" + get_context_sentence(i) ]
 
-with open(OPTS.output, mode='w') as f:
+with open(os.path.normpath(OPTS.output), mode='w') as f:
 	f.write("\n".join(OPTS.output))
