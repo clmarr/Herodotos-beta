@@ -37,8 +37,7 @@ It can also be handled with methods of the python package yaml. For example:
 ### Preprocessing 
 The script preProcess.py is a modified version of the same-named script from the 2016 GitHub repo, that among other things handles the standard NER conventions as concerns punctuation. 
 The default behavior is a modified version of the original preProcess.py in the Erdmann et al tagger's repo.
-It was modified so as to handle punctuation and other such items in a way that is consistent with the input necessary for the Erdmann et al 2016 tagger to produce output that is of a format consistent with that of its test output for Caesar's Gallic Wars (the original script did not, actually, do this -- it had numerous bugs 
-**more details to come.** 
+It was modified so as to handle punctuation and other such items in a way that is consistent with the input necessary for the Erdmann et al 2016 tagger to produce output that is of a format consistent with that of its test output for Caesar's Gallic Wars (the original script did not, actually, do this -- it had numerous bugs, such as systematically switching the order of ")," sequences to ",)", etc.
 
 ## Replication and generalizability testing
 
@@ -53,3 +52,6 @@ Next is the question of if the results generalize.
 Here, things have been less rosy.
 Thus far, results for Gregory of Tours have been vexing, with some analysis about why underway -- even though thet most common ethnonyms are the same, i.e. Gaulish and to a lesser extent Germanic tribes (the most common of all to be mentioned by Gregory are the Arverni, which are mentioned at least 75 times. These are also heavily mentioned by Caesar not least because it was Vercingetorix' tribe. A more thorough breakdown can be found in the file hf_grp_jun23_analysis within the directory for the Gregory of Tours' Historia Francorum.)
 Tagging and analysis now ongoing for Sallust, who is much closer to Caesar's time. 
+By using the option "--tok", one can change mode to tokenize with the help of NLTK ("--tok nltk") or CLTK ("--tok cltk") though the CLTK tagger is at present defective for reasons apparently external to this project, it seems. 
+
+**more details to come.** 
