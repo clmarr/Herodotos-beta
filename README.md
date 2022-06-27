@@ -53,6 +53,7 @@ Note that there is a difference in notation: the tagger now (rightly) uses BIO n
 Thus, GEOF and GEO-B are really the same thing, just as GEOL and GEO-I, and so forth. 
 
 Next is the question of if the results generalize. 
+For this, an auxiliary script extract_taggings.py has been written to gather all taggings, of a certain type if specified, with their linguistic context noted as well (if specified), for the purposes of analyzing the tagger's performance on works in the same historical and often topical domain, to see if the performance of the Erdmann et al 2016 as trained on Caesar (and Ovid and the Plinys?) actually is generalizable, or, conversely, if training sets for other Latin works likely requiring annotators will be necessary...  
 Here, things have been less rosy.
 Thus far, results for Gregory of Tours have been vexing, with some analysis about why underway -- even though thet most common ethnonyms are the same, i.e. Gaulish and to a lesser extent Germanic tribes (the most common of all to be mentioned by Gregory are the Arverni, which are mentioned at least 75 times. These are also heavily mentioned by Caesar not least because it was Vercingetorix' tribe. A more thorough breakdown can be found in the file hf_grp_jun23_analysis within the directory for the Gregory of Tours' Historia Francorum.)
 Tagging and analysis now ongoing for Sallust, who is much closer to Caesar's time. 
