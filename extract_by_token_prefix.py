@@ -1,7 +1,7 @@
 import sys
 import os
 import optparse
-import pdb
+# import pdb
 
 # @author: Clayton Marr
 # @date: June 27, 2022
@@ -45,7 +45,6 @@ def is_target(line):
 
 LINES = []
 with open(os.path.normpath(sys.argv[1])) as f:
-	pdb.set_trace()
 	LINES += f.readlines()
 
 def get_context_sentence(line_index):
@@ -54,7 +53,7 @@ def get_context_sentence(line_index):
 
 	start = line_index - 1
 	while False if start < 0 else LINES[start] != OPTS.delim:
-		start += 1
+		start -= 1
 	end = line_index + 1
 	while False if end >= len(LINES) else LINES[end] != OPTS.delim:
 		end += 1

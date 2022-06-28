@@ -1,0 +1,95 @@
+258 tags
+
+CURRENTLY JUST BEFORECIRTAM
+
+
+ERRORS:
+
+Non-Latin persional names
+	Missinissae x 1 
+	Micipsa x 2
+	Iugurtha x 4
+		Iugurtham x 2 
+		Iugurthae x 1
+		Iugurthino x 1  
+	Hiempsal x 2
+		Hiempsalis x 1 
+	Adherbalem x 2 
+	Hercules x 1 
+ 
+Geography mistaken for ethnography
+	Numidiae x 1 (i.e. referring to the multiple provinces named "Numidia", or the genitive singular, as in ' fore uti solus imperi Numidiae potiretur ' ) 
+
+	Carthagine x 1 (ablative of Carthago -- "Nam de Carthagine silere o melius puto quam parum dicere
+
+CORRECT: 
+Romani x 7
+	Romanus x 3 (i.e. populus Romanus etc)
+		populus... x 3 
+	Romano x 5
+		populo... x 5
+	Romanis x 1 (ex. qui tum Romanis imperator erat) 
+	Romanos x 1 
+	Romanum x 2 
+		populum... x 2 
+
+
+BERBERI
+Numidarum x 2 
+	Numidas x 2 
+
+Numantinis x 1 (Numantinis maximo terrori esset) 
+
+Gaetulos x 1 
+
+Libyes x 1 
+
+PUNICI
+Carthaginiensi x 1 (albeit not always strictly: ex. bello Carthaginiensi -- not exactly ethnonym there, but derived thereof I guess.) 
+	Carthaginienses x 2 
+
+Punicis x 2 (ex libris Punicis -- sure, it's what we are interested in, so might as well tag.) 
+	Punicae x 1 (adjectiav) 
+Phoenices x 1 
+
+Afri x 1 
+
+
+
+OTHER 
+
+Medis x 1 
+
+Aethiopas x 1 
+
+---
+MISSED:
+
+NUmidis x 2 
+	praefecit Numidis ("put in charge by the Numidian") 
+
+Gaetulos x 1 
+
+Carthaginiensis x 1 
+
+Medi x 1 (eo numero Medi) 
+
+Persae x 1 
+
+Armenii x 1 
+
+Mauros x 1 ( mistagged as PRS 
+	Mauris x 1 (missed as O -- for "Mauris omnibus rex") 
+
+---
+unsure cases: 
+Africano:
+	.. a P. Scipione, cui posta AFRICANO cognomen ex virtute fuit, ... 
+
+Hispanis:
+	... iique alveos navium inversos pro tuguriis habuere, quia neque materia in agris neque ab HISPANIS emendi aut mutandi copia erat... 
+
+
+--
+
+(side notes: bello Numantino -- Numantino should be GEO not PRS) 

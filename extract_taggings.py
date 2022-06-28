@@ -7,8 +7,8 @@ import optparse
 optparser = optparse.OptionParser()
 optparser.add_option("-p", "--prefix", default=False, help="If you specify a prefix, only tags beginning in the sequence entered will be reported")
 optparser.add_option("-c", "--context", default=False, help="If context is specified, the sentence where the tag occured will be reported.")
-optparser.add_option("-s", "--sentence_delim", default='\n', help="Sentence delimiter token -- a line equivalent to this token (without stripping) will be considered to mark a sentence boundary.")
 optparser.add_option("-t", "--tag_flag", default='\t', help="Token delimiting tag from token in input file.")
+optparser.add_option("-s", "--sentence_delim", default='\n', help="Sentence delimiter token -- a line equivalent to this token (without stripping) will be considered to mark a sentence boundary.")
 optparser.add_option("-f", "--format", default="crf", help="Format of input file. (Currently accepted formats: CRF, CONLL)")
 
 OPTS, args = optparser.parse_args()

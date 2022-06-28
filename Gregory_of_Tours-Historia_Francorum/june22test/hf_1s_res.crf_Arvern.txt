@@ -1,111 +1,111 @@
 all lines with 'Arvern'...:
 Tag	Token	Sentence
-GRP-B	Arvernis	
-PRS-B	Arverno	
-GRP-B	Arvernus	
-GEO-B	Arvernum	
-GRP-B	Arvernorum	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-GRP-B	Arvernis	
-GRP-B	Arvernorum	
-GRP-B	Arvernis	
-GRP-B	Arvernus	
-GRP-B	Arverni	
-GEO-B	Arvernae	
-GRP-B	Arvernorum	
-PRS-B	Arvernum	
-GRP-B	Arverno	
-GRP-B	Arvernis	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-GRP-B	Arverni	
-GRP-B	Arvernis	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-PRS-B	Arvernae	
-PRS-B	Arverna	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-PRS-B	Arvernam	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-GRP-B	Arverno	
-GRP-B	Arvernorum	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-GEO-B	Arverne	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-GRP-B	Arvernis	
-GRP-B	Arvernus	
-PRS-B	Arvernam	
-PRS-B	Arverno	
-GRP-B	Arvernus	
-GRP-B	Arvernus	
-GEO-B	Arvernae	
-GRP-B	Arverno	
-GEO-B	Arvernam	
-GRP-B	Arverno	
-PRS-B	Arverno	
-GRP-B	Arverno	
-PRS-B	Arverno	
-PRS-B	Arvernum	
-GEO-B	Arvernum	
-PRS-B	Arvernam	
-GRP-B	Arverno	
-GRP-B	Arvernis	
-GRP-B	Arvernus	
-GRP-B	Arvernum	
-GRP-B	Arvernus	
-GRP-B	Arverno	
-GRP-B	Arvernus	
-GRP-B	Arvernum	
-PRS-B	Arverno	
-GRP-B	Arvernus	
-PRS-B	Arvernum	
-GRP-B	Arvernum	
-GRP-B	Arverni	
-GRP-B	Arverni	
-GRP-B	Arvernus	
-GRP-B	Arvernis	
-GRP-B	Arvernis	
-GEO-B	Arvernam	
-GEO-B	Arverna	
-PRS-B	Arvernae	
-GRP-B	Arverni	
-GRP-B	Arvernum	
-GEO-B	Arverna	
-GRP-B	Arvernis	
-GRP-B	Arverni	
-GRP-B	Arvernum	
-GEO-B	Arverna	
-PRS-I	Arvernum	
-PRS-B	Arvernum	
-GRP-B	Arvernum	
-GRP-B	Arvernum	
-GRP-B	Arverni	
-PRS-B	Arverno	
-GRP-B	Arvernum	
-PRS-B	Arvernam	
-GRP-B	Arvernorum	
-PRS-B	Arverno	
-GRP-B	Arvernis	
-GRP-B	Arverno	
-GRP-B	Arvernum	
-GRP-B	Arvernis	
-GRP-B	Arvernus	
-GRP-B	Arvernum	
-GRP-B	Arverno	
-GEO-B	Arverna	
-PRS-B	Arverna	
-GRP-B	Arverno	
-GRP-B	Arvernis	
-GEO-B	Arvernae	
-GRP-B	Arvernorum	
-GRP-B	Arvernus	
-PRS-B	Arverno	
+GRP-B	Arvernis	Hic_0 ergo_0 missi_0 sunt_0 <COLON>_0 Turonicis_PRS-B Catianus_PRS-I episcopus_0 ,_0 Arelatensibus_PRS-B Trophimus_GRP-B episcopus_0 ,_0 Narbonae_PRS-B Paulos_GRP-B episcopus_0 ,_0 Tolosae_PRS-B Saturninus_GRP-B episcopus_0 ,_0 Parisiacis_PRS-B Dionisius_GRP-B episcopus_0 ,_0 Arvernis_GRP-B Stremonius_GRP-I episcopus_0 ,_0 Lemovicinis_GRP-B Martialis_GRP-I est_0 distinatus_0 episcopus_0 ._0
+PRS-B	Arverno	De_0 Chroco_PRS-B et_0 de_0 delubro_0 Arverno_PRS-B ._0
+GRP-B	Arvernus	Veniens_0 vero_0 Arvernus_GRP-B ,_0 delubrum_0 illud_0 ,_0 quod_0 Gallica_GRP-B lingua_0 Vasso_GRP-B Galate_GRP-B vocant_0 ,_0 incendit_0 ,_0 diruit_0 atque_0 subvertit_0 ._0
+GEO-B	Arvernum	De_0 martiribus_0 qui_0 circa_0 Arvernum_GEO-B passi_0 sunt_0 ._0
+GRP-B	Arvernorum	De_0 Orbico_PRS-B Arvernorum_GRP-B episcopo_0 ._0
+GRP-B	Arvernus	Apud_0 Arvernus_GRP-B vero_0 primus_0 episcopus_0 post_0 Stremonium_PRS-B episcopum_0 praedicatoremque_0 Urbicus_PRS-B fuit_0 ,_0 ex_0 senatoribus_0 conversus_0 ,_0 uxorem_0 habens_0 ,_0 quae_0 iuxta_0 consuetudinem_0 ecclesiasticam_0 ,_0 remota_0 a_0 consortio_0 sacerdotis_0 ,_0 religiose_0 vivebat_0 ._0
+GRP-B	Arvernus	Igitur_0 apud_0 Arvernus_GRP-B sanctus_0 Nepotianus_GRP-B quartus_0 habebatur_0 episcopus_0 ._0
+GRP-B	Arvernus	Praecedentibus_0 vero_0 aliis_0 ,_0 hic_0 apud_0 Arvernus_GRP-B aegrotus_0 relinquitur_0 ;_0
+GRP-B	Arvernis	Per_0 idem_0 tempus_0 Iniuriosus_PRS-B quidam_0 de_0 senatoribus_0 Arvernis_GRP-B cum_0 magnis_0 opibus_0 similem_0 sibi_0 in_0 coniugio_0 puellam_0 expetiit_0 ,_0 datumque_0 arrabone_0 ,_0 diem_0 statuit_0 nuptiarum_0 ._0
+GRP-B	Arvernorum	Talia_0 cum_0 magno_0 fletu_0 iactanti_0 commotus_0 pietate_0 iuvenis_0 ait_0 <COLON>_0 '_0 Unicos_0 nos_0 nobilissimi_0 Arvernorum_GRP-B habuere_0 parentes_0 et_0 ad_0 propagandam_0 generationem_0 coniungere_0 voluerunt_0 ,_0 ne_0 recedentibus_0 de_0 mundo_0 succederet_0 heres_0 extraneus_0 '_0 ._0
+GRP-B	Arvernis	egressaque_0 cum_0 famulis_0 contra_0 eum_0 ,_0 vi_0 reppulit_0 ,_0 caesis_0 plerisque_0 ex_0 illis_0 ,_0 unde_0 non_0 sine_0 pudore_0 discessum_0 est._0 De_0 carcerariis_0 Arvernis_GRP-B ._0
+GRP-B	Arvernus	Apud_0 Arvernus_GRP-B vero_0 vincti_0 carceris_0 nocte_0 ,_0 nutu_0 Dei_PRS-B disruptis_0 vinculis_0 reseratisque_0 aditibus_0 custodiae_0 ,_0 egressi_0 ,_0 eclesiam_0 ingressi_0 sunt_0 ._0
+GRP-B	Arverni	In_0 confinio_0 vero_0 termini_0 Arverni_GRP-B ,_0 Gabalitani_GRP-B atque_0 Ruteni_GRP-B sinodus_0 episcoporum_0 facta_0 est_0 contra_0 Tetradiam_GRP-B ,_0 relictam_0 quondam_0 Desiderii_GRP-B ,_0 eo_0 quod_0 repeteret_0 ad_0 eam_0 Eulalius_GRP-B comes_0 res_0 ,_0 quas_0 ab_0 eo_0 fugiens_0 secum_0 tullisset_0 ._0
+GEO-B	Arvernae	Haec_0 cum_0 Cautinus_PRS-B episcopus_0 Arvernae_GEO-B urbis_0 conperisset_0 ,_0 eum_0 a_0 communione_0 submovet_0 ._0
+GRP-B	Arvernorum	Sed_0 cum_0 ,_0 mitigato_0 dolore_0 ,_0 paulolum_0 quievisset_0 ,_0 super_0 Virum_PRS-B nepotem_0 suum_0 inruit_0 eumque_0 inter_0 arta_0 vallium_0 Arvernorum_GRP-B interimit_0 ._0
+PRS-B	Arvernum	Et_0 alia_0 multa_0 mala_0 fecit_0 ,_0 quae_0 enarrari_0 perlongum_0 est._0 Iohannis_PRS-B ,_0 filius_0 eius_0 ,_0 qui_0 cum_0 sua_0 discesserat_0 genetrice_0 ,_0 a_0 domo_0 Desiderii_PRS-B dilapsus_0 ,_0 Arvernum_PRS-B venit_0 ._0
+GRP-B	Arverno	illud_0 etiam_0 ordinantes_0 ,_0 ut_0 ,_0 si_0 haec_0 ,_0 quae_0 Eulalio_GEO-B est_0 iussa_0 ,_0 dissolveret_0 ,_0 accedendi_0 in_0 Arverno_GRP-B licentia_0 praeberetur_0 resque_0 suas_0 ,_0 quae_0 ei_0 ex_0 paterna_0 successione_0 obvenerant_0 ,_0 absque_0 calumnia_0 frueretur_0 ._0
+GRP-B	Arvernis	XII._0 Ommatius_GRP-B de_0 senatoribus_0 civibusque_0 Arvernis_GRP-B ,_0 valde_0 dives_0 in_0 praediis_0 ._0
+GRP-B	Arvernus	Ita_0 adceleratis_0 moris_0 ,_0 reserata_0 urbe_0 ,_0 Constantinus_GRP-B deditur_0 ,_0 confestimque_0 ad_0 Italiam_GEO-B directus_0 ,_0 missis_0 a_0 principe_0 obviam_0 percussoribus_0 ,_0 supra_0 Mintium_GEO-B flumine_0 capite_0 truncatus_0 est._0 Et_0 post_0 pauca_0 idem_0 refert_0 <COLON>_0 Hisdem_PRS-B diebus_0 praefectus_0 tyrannorum_0 Decimius_PRS-B Rusticus_GRP-B ,_0 Agroetius_PRS-B ex_0 primicirio_0 notariorum_0 Iovini_PRS-B multique_0 nobiles_0 apud_0 Arvernus_GRP-B capti_0 a_0 ducibus_0 Honorianis_PRS-B et_0 crudeliter_0 interempti_0 sunt_0 ._0
+GRP-B	Arvernus	Avitus_0 enim_0 unus_0 ex_0 senatoribus_0 et_0 -_0 valde_0 manefestum_0 est_0 -_0 civis_0 Arvernus_GRP-B ,_0 cum_0 Romanum_GRP-B ambisset_0 imperium_0 ,_0 luxoriosae_0 agere_0 volens_0 ,_0 a_0 senatoribus_0 proiectus_0 ,_0 apud_0 Placentiam_GEO-B urbem_0 episcopus_0 ordenatur_0 ._0
+GRP-B	Arverni	Conperto_0 autem_0 ,_0 quod_0 adhuc_0 indignans_0 senatus_0 vita_0 eum_0 privari_0 vellit_0 ,_0 basilica_0 sancti_0 Iuliani_PRS-B Arverni_GRP-B martyres_0 cum_0 multis_0 muneribus_0 expetivit_0 ._0
+GRP-B	Arvernis	De_0 episcopatu_0 Venerandi_PRS-B ac_0 Rustici_PRS-B Arvernis_GRP-B ._0
+GRP-B	Arvernus	Apud_0 Arvernus_GRP-B vero_0 post_0 transitum_0 sancti_0 Artemi_GEO-B Venerandus_PRS-B ex_0 senatoribus_0 episcopus_0 ordenatur_0 ._0
+GRP-B	Arvernus	Qualis_0 autem_0 fuerit_0 hic_0 pontifex_0 ,_0 testatur_0 Paulinus_PRS-B dicens_0 <COLON>_0 Si_0 enim_0 hodie_0 videas_0 dignos_0 Domino_PRS-B sacerdotes_0 ,_0 vel_0 Exsuperium_PRS-B Tholosae_PRS-B ,_0 vel_0 Simplicium_PRS-B Viennae_PRS-B ,_0 vel_0 Amando_PRS-B Burdigale_PRS-B ,_0 vel_0 Diogenianum_PRS-B Albigae_PRS-B ,_0 vel_0 Dinamium_PRS-B Ecolisnae_PRS-B ,_0 vel_0 Venerandum_PRS-B Arvernus_GRP-B ,_0 vel_0 Alithium_PRS-B Cadurcis_GRP-B ,_0 vel_0 nunc_0 Pegasium_PRS-B Petrocoris_GRP-B ,_0 utcumque_0 se_0 habent_0 saeculi_0 mala_0 ,_0 videbis_0 profectus_0 dignissimus_0 totius_0 fidei_0 relegionesque_0 custodes_0 ._0
+PRS-B	Arvernae	His_0 itaque_0 mirantibus_0 haec_0 verba_0 ,_0 subito_0 Rusticus_PRS-B nomine_0 ,_0 qui_0 erat_0 ex_0 ipsa_0 urbis_0 Arvernae_PRS-B diocese_0 presbiter_0 ,_0 advenit_0 ._0
+PRS-B	Arverna	De_0 Namatio_PRS-B episcopo_0 et_0 ecclesia_0 Arverna_PRS-B ._0
+GRP-B	Arvernus	Sanctus_0 vero_0 Namatius_0 post_0 obitum_0 Rustici_PRS-B episcopi_0 apud_0 Arvernus_GRP-B in_0 diebus_0 illis_0 octavus_0 erat_0 episcopus_0 ._0
+GRP-B	Arvernus	Eoricus_0 autem_0 Gothorum_PRS-B rex_0 Victorium_PRS-B ducem_0 super_0 septem_0 civitatis_0 praeposuit_0 anno_0 XIIII_0 ,_0 regni_0 sui._0 Qui_0 protinus_0 Arvernus_GRP-B adveniens_0 ,_0 civitatem_0 addere_0 voluit_0 ,_0 unde_0 et_0 criptae_0 illae_0 usque_0 hodie_0 perstant_0 ._0
+GRP-B	Arvernus	Fuit_0 autem_0 Arvernus_GRP-B annis_0 novem_0 ._0
+GRP-B	Arvernus	Ipse_0 vero_0 dum_0 nimium_0 esset_0 in_0 amore_0 mulierum_0 luxoriosus_0 et_0 ab_0 Arvernus_GRP-B veriritur_0 interfeci_0 ,_0 Romam_GEO-B aufugit_0 ,_0 ibique_0 similem_0 timptans_0 exercere_0 luxoriam_0 ,_0 lapidibus_0 est_0 obrutus_0 ._0
+GRP-B	Arvernus	Defuncto_0 autem_0 apud_0 Arvernus_GRP-B Namatio_PRS-B episcopo_0 ,_0 Eparchius_PRS-B successit_0 ,_0 vir_0 sanctissimus_0 atque_0 religiosus_0 ._0
+PRS-B	Arvernam	Huius_0 tempore_0 ,_0 cum_0 adhuc_0 apud_0 urbem_0 Arvernam_PRS-B Victorius_PRS-I ,_0 cui_0 supra_0 meminimus_0 ,_0 moraretur_0 ,_0 fuit_0 in_0 monasterio_0 beati_0 Quirici_0 urbis_0 ipsius_0 abba_0 Abraham_GEO-B nomine_0 ,_0 qui_0 fide_0 atque_0 operibus_0 Abrahae_GRP-B illius_0 prioris_0 gratia_0 refulgebat_0 ,_0 sicut_0 in_0 libro_0 vitae_0 eius_0 scripsimus_0 ._0
+GRP-B	Arvernus	Quo_0 ad_0 eum_0 perlato_0 nuntio_0 ,_0 nocte_0 a_0 castro_0 Divionensi_PRS-B per_0 murum_0 dimissus_0 Arvernus_GRP-B advenit_0 ,_0 ibique_0 iuxta_0 verbum_0 Domini_PRS-B ,_0 quod_0 posuit_0 in_0 ore_0 sancti_0 Sidonii_PRS-B ,_0 undecimus_0 datur_0 episcopus_0 ._0
+GRP-B	Arvernus	Quod_0 cum_0 viro_0 Dei_PRS-B nuntiatum_0 fuisset_0 ,_0 de_0 nocte_0 consurgens_0 ,_0 cum_0 fidelissimis_0 ministris_0 suis_0 ab_0 urbe_0 Rutena_PRS-B egrediens_0 ,_0 Arvernus_GRP-B advenit_0 ._0
+GRP-B	Arverno	Sed_0 et_0 Lugdunensis_GEO-B episcopus_0 largitus_0 est_0 ei_0 aliqua_0 possessionis_0 ecclesiae_0 suae_0 ,_0 quam_0 in_0 Arverno_GRP-B habebat_0 ._0
+GRP-B	Arvernorum	Sed_0 auxilio_0 tam_0 luricae_0 quam_0 velocis_0 equi_0 ,_0 ne_0 periret_0 ,_0 exemptus_0 est._0 Maximus_GRP-B ibi_0 tunc_0 Arvernorum_GRP-B populus_0 ,_0 qui_0 cum_0 Apollinare_PRS-B venerat_0 ,_0 et_0 primi_0 qui_0 erant_0 ex_0 senatoribus_0 corruerunt_0 ._0
+GRP-B	Arvernus	Chlodovechus_PRS-B vero_0 filium_0 suum_0 Theudoricum_PRS-B per_0 Albigensim_PRS-B ac_0 Rutinam_PRS-B civitatem_0 ad_0 Arvernus_GRP-B dirigit_0 ._0
+GRP-B	Arvernus	Apud_0 Arvernus_GRP-B vero_0 post_0 obitum_0 beati_0 Aprunculi_PRS-B sanctus_0 Eufrasius_PRS-B duodecimus_0 episcopus_0 habebatur_0 ._0
+GEO-B	Arverne	Et_0 statim_0 directi_0 nuntii_0 ,_0 convocatis_0 pontificibus_0 et_0 populo_0 ,_0 eum_0 in_0 cathedra_0 Arverne_GEO-B eclesiae_0 locaverunt_0 ;_0
+GRP-B	Arvernus	Quod_0 Childeberthus_PRS-B Arvernus_GRP-B abiit_0 ._0
+GRP-B	Arvernus	Cum_0 autem_0 adhuc_0 Theudoricus_PRS-B in_0 Thoringiam_PRS-B esset_0 ,_0 Arvernus_GRP-B sonuit_0 ,_0 eum_0 interfectum_0 fuisse_0 ._0
+GRP-B	Arvernis	Archadius_0 quoque_0 ,_0 unus_0 ex_0 senatoribus_0 Arvernis_GRP-B ,_0 Childeberthum_GRP-B invitat_0 ,_0 ut_0 regionem_0 illam_0 deberet_0 accipere_0 ._0
+GRP-B	Arvernus	Ille_0 quoque_0 nec_0 moratus_0 Arvernus_GRP-B vadit_0 ._0
+PRS-B	Arvernam	Dicere_0 enim_0 erat_0 solitus_0 rex_0 <COLON>_0 '_0 Vellim_0 umquam_0 Arvernam_PRS-B Lemanem_PRS-I ,_0 quae_0 tantae_0 iocunditatis_0 gratia_0 refulgere_0 dicitur_0 ,_0 oculis_0 cernere_0 '_0 ._0
+PRS-B	Arverno	Quod_0 certissime_0 Childeberthus_PRS-B cognoscens_0 ,_0 ab_0 Arverno_PRS-B rediit_0 et_0 Hispaniam_GEO-B propter_0 sororem_0 suam_0 Chlotchildem_PRS-B dirigit_0 ._0
+GRP-B	Arvernus	Quod_0 Childeberthus_PRS-B et_0 Chlotharius_PRS-B Burgundias_GRP-B ,_0 Theudericus_PRS-B Arvernus_GRP-B abiit_0 ._0
+GRP-B	Arvernus	At_0 ille_0 infidelis_0 sibi_0 exhistimans_0 Arvernus_GRP-B ,_0 ait_0 <COLON>_0 '_0 Me_0 sequimini_0 ,_0 et_0 ego_0 vos_0 inducam_0 in_0 patriam_0 ,_0 ubi_0 aurum_0 et_0 argentum_0 accipiatis_0 ,_0 quantum_0 vestra_0 potest_0 desiderare_0 cupiditas_0 ,_0 de_0 qua_0 pecora_0 ,_0 de_0 qua_0 mancipia_0 ,_0 de_0 qua_0 vestimenta_0 in_0 abundantiam_0 adsumatis_0 ._0
+GEO-B	Arvernae	De_0 excidio_0 regionibus_0 Arvernae_GEO-B ._0
+GRP-B	Arverno	Theudoricus_0 vero_0 cum_0 exercitu_0 Arverno_GRP-B veniens_0 ,_0 totam_0 regionem_0 devastat_0 ac_0 proterit_0 ._0
+GEO-B	Arvernam	Rex_0 igitur_0 Theudoricus_PRS-B ad_0 urbem_0 Arvernam_GEO-B usque_0 accedens_0 ,_0 in_0 vici_0 illius_0 suburbana_0 castra_0 fixit_0 ._0
+GRP-B	Arverno	Theudoricus_0 autem_0 ab_0 Arverno_GRP-B discendens_0 ,_0 Sigivaldum_PRS-B ,_0 parentem_0 suum_0 ,_0 in_0 ea_0 quasi_0 pro_0 custodia_0 dereliquid_0 ._0
+PRS-B	Arverno	Qui_0 abiens_0 ,_0 numquam_0 Arverno_PRS-B regressus_0 est._0 De_PRS-B interitu_0 Munderici_PRS-B ._0
+GRP-B	Arverno	Sigivaldus_0 autem_0 cum_0 in_0 Arverno_GRP-B habitaret_0 ,_0 multa_0 mala_0 in_0 ea_0 faciebat_0 ._0
+PRS-B	Arverno	At_0 ille_0 haec_0 audiens_0 ,_0 cuncta_0 postposita_0 ,_0 illuc_0 dirigit_0 ,_0 Deoteria_PRS-B cum_0 filia_0 sua_0 Arverno_PRS-B relictam_0 ._0
+PRS-B	Arvernum	Mittens_0 postea_0 Arvernum_PRS-B ,_0 Deoteriam_PRS-B exinde_0 arcessivit_0 eamque_0 sibi_0 in_0 matrimonio_0 sociavit_0 ._0
+GEO-B	Arvernum	Omne_0 tributo_0 ,_0 quod_0 in_0 fisco_0 suo_0 ab_0 eclesiis_0 in_0 Arvernum_GEO-B sitis_0 reddebebatur_0 ,_0 clementer_0 indulsit_0 ._0
+PRS-B	Arvernam	Cum_0 autem_0 regiones_0 illas_0 ,_0 ut_0 diximus_0 ,_0 lues_0 illa_0 consumeret_0 ,_0 ad_0 civitatem_0 Arvernam_PRS-B ,_0 sancti_0 Galli_GRP-B intercedente_0 oratione_0 ,_0 non_0 attigit_0 ._0
+GRP-B	Arverno	Tunc_0 ex_0 iussu_0 regis_0 traditis_0 ei_0 clericis_0 et_0 omnia_0 ,_0 quae_0 hi_0 de_0 rebus_0 ecclesiae_0 exhibuerant_0 ,_0 ordinatisque_0 qui_0 cum_0 eodem_0 pergere_0 deberent_0 episcopis_0 et_0 camerariis_0 ,_0 Arverno_GRP-B eum_0 direxerunt_0 ._0
+GRP-B	Arvernis	Qui_0 a_0 civibus_0 et_0 clericis_0 libenter_0 exceptus_0 ,_0 episcopus_0 Arvernis_GRP-B est_0 datus_0 ._0
+GRP-B	Arvernus	Qui_0 paulatim_0 decidens_0 ,_0 septimo_0 regni_0 sui_0 anno_0 mortuos_0 est_0 ,_0 regnumque_0 eius_0 Chlothacharius_PRS-B rex_0 accepit_0 ,_0 copulans_0 Vuldotradam_PRS-B ,_0 uxorem_0 eius_0 ,_0 stratui_0 suo._0 Sed_0 increpitus_0 a_0 sacerdotibus_0 ,_0 reliquit_0 eam_0 ,_0 dans_0 ei_0 Garivaldum_PRS-B ducem_0 ,_0 dirigensque_0 Arvernus_GRP-B Chramnum_PRS-B ,_0 filium_0 suum_0 ._0
+GRP-B	Arvernum	Unde_0 factum_0 est_0 ,_0 ut_0 coniuncti_0 clerici_0 cum_0 Leubaste_PRS-B martyrario_0 et_0 abbate_0 cum_0 magno_0 apparatu_0 Arvernum_GRP-B properarent_0 ._0
+GRP-B	Arvernus	Chramnus_PRS-B vero_0 his_0 diebus_0 apud_0 Arvernus_GRP-B resedebat_0 ._0
+GRP-B	Arverno	Haec_0 illis_0 dicentibus_0 ,_0 advenit_0 subito_0 Cato_PRS-B presbiter_0 ,_0 depraecans_0 regem_0 ,_0 ut_0 ,_0 eiecto_0 Cautino_GRP-B ,_0 ipsum_0 Arverno_GRP-B iuberet_0 institui_0 ._0
+GRP-B	Arvernus	Chramnus_0 vero_0 apud_0 Arvernus_GRP-B diversa_0 ,_0 ut_0 diximus_0 ,_0 exercebat_0 mala_0 ,_0 semper_0 adversus_0 Cautinum_PRS-B episcopum_0 invidiam_0 tenens_0 ._0
+GRP-B	Arvernum	Habebat_0 autem_0 tunc_0 secum_0 virum_0 magnificum_0 et_0 in_0 omni_0 bonitate_0 perspicuum_0 civem_0 Arvernum_GRP-B Ascovindum_PRS-B nomen_0 ,_0 qui_0 eum_0 vi_0 ab_0 hac_0 malitia_0 quaerebat_0 avertere_0 ,_0 sed_0 non_0 poterat_0 ._0
+PRS-B	Arverno	Cum_0 ipsa_0 enim_0 qua_0 venerat_0 infirmitate_0 regressus_0 est._0 Chramnus_PRS-B ab_0 Arverno_PRS-B regressus_0 ,_0 Pectavus_GRP-B civitatem_0 venit_0 ._0
+GRP-B	Arvernus	Tunc_0 Arvernus_GRP-B populos_0 infra_0 murus_0 tenebatur_0 inclusus_0 ,_0 et_0 diversis_0 infirmitatibus_0 oppraessus_0 ,_0 graviter_0 interibat_0 ._0
+PRS-B	Arvernum	Qui_0 per_0 Arvernum_PRS-B venientes_0 audientesque_0 ,_0 quod_0 in_0 Lemovicino_PRS-B esset_0 ,_0 usque_0 ad_0 montem_0 quem_0 Nigrum_PRS-B nomen_0 dicunt_0 accedunt_0 eumque_0 repperiunt_0 ,_0 figentesque_0 tenturia_0 ,_0 contra_0 se_0 resederunt_0 ,_0 mittentes_0 legationem_0 ,_0 ut_0 res_0 paternas_0 ,_0 quas_0 male_0 pervaserat_0 ,_0 reddere_0 deberet_0 ;_0
+GRP-B	Arvernum	Tunc_0 duae_0 acies_0 locustarum_0 apparuerunt_0 ,_0 quae_0 per_0 Arvernum_GRP-B atque_0 Limovicinum_PRS-B transeuntes_0 ,_0 ut_0 ferunt_0 ,_0 Romaniacum_GEO-B campum_0 venerunt_0 ,_0 in_0 quo_0 ,_0 proelium_0 inter_0 se_0 actum_0 ,_0 maxime_0 sunt_0 conlisae_0 ._0
+GRP-B	Arverni	Quod_0 Arverni_GRP-B ad_0 capiendam_0 Arilatensim_PRS-B abierunt_0 ._0
+GRP-B	Arverni	Quod_0 Arverni_GRP-B ad_0 capiendam_0 Arilatensim_PRS-B urbem_0 ex_0 iussu_0 Sigiberthi_PRS-B regis_0 abierunt_0 ._0
+GRP-B	Arvernus	Sigyberthus_0 vero_0 rex_0 Arelatinsim_GRP-B urbem_0 capere_0 cupiens_0 ,_0 Arvernus_GRP-B commovere_0 praecipit_0 ._0
+GRP-B	Arvernis	Sed_0 multus_0 ex_0 his_0 violentia_0 amnis_0 direptos_0 enegavit_0 ,_0 fecitque_0 Rhodanus_GEO-B tunc_0 Arvernis_GRP-B ,_0 quod_0 fecisse_0 quondam_0 Semoes_PRS-B legitur_0 de_0 Troianis_GRP-B <COLON>_0 Correpta_GRP-B sub_0 undis_0 Scuta_GRP-B virum_0 galeasque_0 et_0 fortia_0 corpora_0 volvit_0 ._0
+GRP-B	Arvernis	Firmino_0 tamen_0 et_0 Adovario_GRP-B discedendi_0 via_0 indulta_0 est._0 Magni_0 ibi_0 tunc_0 viri_0 ex_0 Arvernis_GRP-B non_0 solum_0 torrentes_0 impetu_0 rapti_0 ,_0 verum_0 etiam_0 gladiorum_0 ictibus_0 sunt_0 prostrati_0 ._0
+GEO-B	Arvernam	Similiter_0 et_0 ante_0 cladem_0 Arvernam_GEO-B magna_0 regionem_0 illam_0 prodigia_0 terruerunt_0 ._0
+GEO-B	Arverna	In_0 eclesia_0 vero_0 Arverna_GEO-B ,_0 dum_0 matutinae_0 caelebrarentur_0 vigiliae_0 in_0 quadam_0 festivitate_0 ,_0 aves_0 coredallus_0 ,_0 quam_0 alaudam_0 vocamus_0 ,_0 ingressa_0 ,_0 omnia_0 luminaria_0 quae_0 lucebant_0 ,_0 alis_0 superpositis_0 in_0 tanta_0 velocitate_0 extinguit_0 ,_0 ut_0 putaris_0 ,_0 ea_0 in_0 unius_0 hominis_0 manu_0 posita_0 aquae_0 fuisse_0 submersa_0 ;_0
+PRS-B	Arvernae	Erat_0 tunc_0 temporis_0 apud_0 Randanensim_PRS-B monasterium_0 civitatis_0 Arvernae_PRS-B presbiter_0 praeclarae_0 virtutis_0 Iulianus_PRS-B nomine_0 ,_0 vir_0 magnae_0 abstinentiae_0 ,_0 qui_0 neque_0 vinum_0 neque_0 ullum_0 pulmentum_0 utebatur_0 ,_0 cilicio_0 omni_0 tempore_0 sub_0 tunicam_0 habens_0 ,_0 in_0 vigiliis_0 promtus_0 ,_0 in_0 oratione_0 assiduus_0 ;_0
+GRP-B	Arverni	De_0 episcopatu_0 Abiti_PRS-B Arverni_GRP-B ._0
+GRP-B	Arvernum	Defuncto_0 igitur_0 ,_0 ut_0 diximus_0 ,_0 apud_0 Arvernum_GRP-B Cautino_PRS-B episcopo_0 ,_0 plerique_0 intendebant_0 propter_0 episcopatum_0 ,_0 offerentes_0 multa_0 ,_0 plurima_0 promittentes_0 ._0
+GEO-B	Arverna	Congregatos_0 igitur_0 Abitus_PRS-B archidiaconus_0 clericis_0 in_0 ecclesia_0 Arverna_GEO-B nulla_0 quidem_0 promisit_0 ,_0 sed_0 tamen_0 accepto_0 consensu_0 ad_0 regem_0 petiit_0 ;_0
+GRP-B	Arvernis	Factum_0 est_0 ergo_0 ,_0 ut_0 ,_0 congregatis_0 in_0 unum_0 civibus_0 Arvernis_GRP-B ,_0 beatus_0 Abitus_GRP-B ,_0 qui_0 tunc_0 temporis_0 ,_0 ut_0 diximus_0 ,_0 erat_0 archidiaconus_0 ,_0 a_0 clero_0 et_0 populo_0 electus_0 cathedram_0 pontificatus_0 acciperet_0 ;_0
+GRP-B	Arverni	De_0 interitu_0 Palladi_PRS-B Arverni_GRP-B ._0
+GRP-B	Arvernum	Nam_0 anno_0 sequenti_0 remotus_0 a_0 comitatu_0 Palladius_PRS-B ,_0 Arvernum_GRP-B regressus_0 est_0 ;_0
+GEO-B	Arverna	Factum_0 est_0 autem_0 ,_0 ut_0 quadam_0 die_0 in_0 urbe_0 Arverna_GEO-B uterque_0 coniungerint_0 ,_0 et_0 altercantibus_0 inter_0 se_0 pro_0 hac_0 actione_0 comitatus_0 ,_0 audivit_0 Palladius_PRS-B se_0 a_0 Sigybertho_PRS-B rege_0 debere_0 interfeci_0 ._0
+PRS-I	Arvernum	Denique_0 Sigyberthus_PRS-B rex_0 legatus_0 ad_0 Iustinum_PRS-B imperatorem_0 misit_0 ,_0 pacem_0 petens_0 ,_0 id_0 est_0 Warmarium_0 Francum_PRS-B et_0 Firminum_PRS-B Arvernum_PRS-I ._0
+PRS-B	Arvernum	et_0 sic_0 Arvernum_PRS-B pervenerunt_0 ._0
+GRP-B	Arvernum	Ex_0 hoc_0 quasi_0 honoratus_0 habitus_0 ,_0 Arvernum_GRP-B venit_0 ibique_0 cum_0 Urso_GEO-B ,_0 civi_0 urbis_0 eius_0 ,_0 amicitias_0 inlegat_0 ._0
+GRP-B	Arvernum	Tunc_0 ,_0 adeptis_0 praeceptionibus_0 ,_0 Arvernum_GRP-B redit_0 ,_0 ostendit_0 iudici_0 iussionem_0 regis_0 ._0
+GRP-B	Arverni	Hic_0 autem_0 ab_0 infantia_0 sua_0 semper_0 religiosus_0 fuit_0 ,_0 et_0 apud_0 monasterium_0 Melitensim_GEO-B termini_0 Arverni_GRP-B conversus_0 ,_0 in_0 magna_0 se_0 humilitate_0 fratribus_0 praebuit_0 ,_0 sicut_0 in_0 libro_0 vitae_0 eius_0 scripsimus_0 ._0
+PRS-B	Arverno	Et_0 quia_0 semper_0 Deus_PRS-B noster_0 sacerdotes_0 suos_0 glorificare_0 dignatur_0 ,_0 quid_0 Arverno_PRS-B de_0 Iudaeis_PRS-B hoc_0 anno_0 contigerit_0 pandam_0 ._0
+GRP-B	Arvernum	Mummolus_0 vero_0 patricius_0 per_0 Arvernum_GRP-B rediit_0 eamque_0 per_0 loca_0 exercitus_0 eius_0 devastavit_0 ._0
+PRS-B	Arvernam	Sed_0 et_0 splendores_0 illi_0 circa_0 solem_0 ,_0 sicut_0 iam_0 ante_0 cladem_0 Arvernam_PRS-B fuisse_0 commemoravimus_0 ,_0 quod_0 rustici_0 soles_0 vocant_0 ,_0 apparuerunt_0 ;_0
+GRP-B	Arvernorum	Anno_0 quinto_0 Childeberthi_PRS-B regis_0 Arvernorum_GRP-B regionem_0 diluvia_0 magna_0 praessirunt_0 ,_0 ita_0 ut_0 per_0 dies_0 non_0 cessaret_0 a_0 pluvia_0 ,_0 tantaque_0 inundatione_0 Limane_GEO-B est_0 infusum_0 ,_0 ut_0 multos_0 ,_0 ne_0 simentem_0 iacerent_0 ,_0 prohiberet_0 ._0
+PRS-B	Arverno	Mittunt_0 etiam_0 qui_0 mihi_0 consilium_0 ministrarent_0 ,_0 ut_0 ad_0 occultum_0 ,_0 adsumptis_0 melioribus_0 rebus_0 ecclesiae_0 ,_0 Arverno_PRS-B fuga_0 secederem_0 ;_0
+GRP-B	Arvernis	minoribus_0 vero_0 fustibus_0 plagisque_0 multis_0 etiam_0 manu_0 propria_0 adfecit_0 ,_0 dicens_0 <COLON>_0 '_0 Recognoscite_PRS-B dominum_0 vestrum_0 ,_0 qui_0 victoriam_0 de_0 inimicis_0 obtinuit_0 ,_0 cuius_0 ingenium_0 Turonicam_GEO-B urbem_0 ab_0 Arvernis_GRP-B populis_0 emundavit_0 '_0 ;_0
+GRP-B	Arverno	Gundovaldus_0 vero_0 in_0 insola_0 maris_0 secessit_0 ,_0 expectans_0 eventum_0 rei._0 Gunthchramnus_PRS-B vero_0 dux_0 cum_0 duce_0 Gunthchramni_PRS-B regis_0 res_0 Gundovaldi_PRS-B divisit_0 et_0 sicum_0 Arverno_GRP-B detulit_0 inmensum_0 ,_0 ut_0 ferunt_0 ,_0 argenti_0 pondus_0 et_0 auri_0 vel_0 reliquarum_0 rerum_0 ._0
+GRP-B	Arvernum	Gunthchramnus_PRS-B quoque_0 dux_0 Arvernum_GRP-B cum_0 supradictis_0 thesauris_0 reversus_0 ,_0 ad_0 Childeberthum_PRS-B regem_0 abiit_0 ._0
+GRP-B	Arvernis	At_0 ille_0 ,_0 adsumptos_0 secum_0 Arvernis_GRP-B atque_0 Villavis_PRS-B ,_0 Avennione_PRS-B abiit_0 ._0
+GRP-B	Arvernus	Qui_0 ,_0 amota_0 obsidione_0 ,_0 Mummolum_PRS-B Arvernus_GRP-B adduxit_0 ._0
+GRP-B	Arvernum	Unde_0 factum_0 est_0 ,_0 ut_0 ,_0 diuturna_0 intentione_0 gliscente_0 ,_0 post_0 aliquot_0 annos_0 coniunctus_0 metropolis_0 cum_0 suis_0 provincialibus_0 apud_0 urbem_0 Arvernum_GRP-B resedens_0 iudicium_0 emanaret_0 ,_0 scilicet_0 ut_0 parrochias_0 ,_0 quas_0 numquam_0 Rutina_GEO-B ecclesia_0 tenuisse_0 recolebatur_0 ,_0 reciperet_0 ._0
+GRP-B	Arverno	Itaque_0 Nicetius_PRS-B per_0 emissionem_0 Eulalii_PRS-B a_0 comitatu_0 Arverno_GRP-B submotus_0 ,_0 ducatum_0 a_0 rege_0 expetiit_0 ,_0 datis_0 pro_0 eo_0 inmensis_0 muneribus_0 ._0
+GEO-B	Arverna	Et_0 sic_0 in_0 urbe_0 Arverna_GEO-B ,_0 Rutena_PRS-B atque_0 Ucetica_PRS-B dux_0 ordinatus_0 est_0 ,_0 vir_0 valde_0 aetate_0 iuvenis_0 ,_0 sed_0 acutus_0 in_0 sensu_0 ,_0 fecitque_0 pacem_0 in_0 regionem_0 Arverna_PRS-B vel_0 in_0 reliqua_0 ordinationis_0 suae_0 loca_0 ._0
+PRS-B	Arverna	Et_0 sic_0 in_0 urbe_0 Arverna_GEO-B ,_0 Rutena_PRS-B atque_0 Ucetica_PRS-B dux_0 ordinatus_0 est_0 ,_0 vir_0 valde_0 aetate_0 iuvenis_0 ,_0 sed_0 acutus_0 in_0 sensu_0 ,_0 fecitque_0 pacem_0 in_0 regionem_0 Arverna_PRS-B vel_0 in_0 reliqua_0 ordinationis_0 suae_0 loca_0 ._0
+GRP-B	Arverno	Ablataeque_0 sunt_0 ei_0 deinceps_0 omnes_0 res_0 ,_0 quae_0 in_0 Arverno_GRP-B de_0 fisci_0 munere_0 promeruerat_0 ._0
+GRP-B	Arvernis	Tunc_0 et_0 Nicetius_PRS-B dux_0 ,_0 cum_0 Arvernis_GRP-B in_0 haec_0 expeditione_0 commotus_0 ,_0 cum_0 reliquis_0 urbis_0 adsedit_0 ._0
+GEO-B	Arvernae	Tunc_0 et_0 Arvernae_GEO-B regiones_0 aeclesiae_0 ,_0 quae_0 viae_0 publicae_0 propinquae_0 fuerant_0 ,_0 a_0 ministeriis_0 denudatae_0 sunt_0 ,_0 nec_0 fuit_0 terminus_0 male_0 faciendi_0 ,_0 nisi_0 cum_0 ad_0 propria_0 singuli_0 pervenerunt_0 ._0
+GRP-B	Arvernorum	Sed_0 et_0 Nicetius_PRS-B Arvernorum_GRP-B dux_0 similiter_0 cum_0 costodibus_0 perrexit_0 et_0 finis_0 regiones_0 ambivit_0 ._0
+GRP-B	Arvernus	Anno_0 quoque_0 duodecimo_0 Childeberthi_GRP-B regis_0 Nicetius_PRS-B Arvernus_GRP-B rector_0 Massiliensis_PRS-B provinciae_0 vel_0 reliquarum_0 urbium_0 ,_0 quae_0 in_0 illis_0 partibus_0 ad_0 regnum_0 regis_0 ipsius_0 pertinebant_0 ,_0 est_0 ordinatus_0 ._0
+PRS-B	Arverno	Quod_0 cernens_0 Desiderius_PRS-B dux_0 ,_0 qui_0 maxime_0 in_0 eiusdem_0 urbis_0 territurio_0 meliora_0 facultatis_0 suae_0 condiderat_0 ,_0 timens_0 ,_0 ne_0 ultio_0 expetiretur_0 ab_0 eo_0 propter_0 antiquam_0 inimicitiam_0 ,_0 quod_0 aliquando_0 in_0 eadem_0 civitatem_0 exercitum_0 gloriosae_0 memoriae_0 Syghiberthi_PRS-B regis_0 graviter_0 adfecisset_0 ,_0 cum_0 Tetradia_PRS-B uxore_0 sua_0 ,_0 quam_0 Eulalio_PRS-B nunc_0 Arverno_PRS-B comite_0 abstullerat_0 ,_0 in_0 termino_0 Tholosano_GEO-B cum_0 rebus_0 omnibus_0 transiens_0 ,_0 exercitum_0 cummovet_0 et_0 contra_0 Gothos_GRP-B abire_0 disponit_0 ,_0 divisis_0 prius_0 ,_0 ut_0 ferunt_0 ,_0 rebus_0 inter_0 filius_0 et_0 coniugem_0 ._0
