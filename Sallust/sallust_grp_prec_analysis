@@ -1,85 +1,186 @@
 258 tags
 
-CURRENTLY JUST BEFORECIRTAM
-
-
 ERRORS:
 
 Non-Latin persional names
+	Para-Berber names: 
 	Missinissae x 1 
 	Micipsa x 2
-	Iugurtha x 4
-		Iugurtham x 2 
-		Iugurthae x 1
-		Iugurthino x 1  
+
+	Iugurtha x 13 (Iugurtha- inflected forms also mistagged as GEO at least thrice...) 
+		Iugurtham x 7
+		Iugurthae x 2
+		Iugurthino x 1
+		Iugurthamque x 1   
 	Hiempsal x 2
 		Hiempsalis x 1 
-	Adherbalem x 2 
-	Hercules x 1 
- 
-Geography mistaken for ethnography
-	Numidiae x 1 (i.e. referring to the multiple provinces named "Numidia", or the genitive singular, as in ' fore uti solus imperi Numidiae potiretur ' ) 
+	Adherbalem x 2
+		Adherbalis x 1 
+		Adherbale x 1
+		Adherbal x 1 
+	Bomilcar x 1 
+		Bomilcaris x 1 [ubi de casu Bomilcaris...] 
+	Bocchus x 4 [some other times tagged PRS..] 
+		Bocchi x 2
+		Bocchique x 1 [quod Iugurthae Bocchique regnum dilungebat) 
+		Bocche x 1 ("pauca verba huiusce modi locutus: 'Rex Bocche, ...'" ) 
+(at many points it fails to tag PRS even right after "nomine..." or near appelantur..") 
 
+???
+	Ti x 1 ("Nam postquam Ti.") 
+	Bestiam x 1 ("Nam Leptitani iam inde a principio belli Iugurthini ad Bestiam consulem et postea Romama miserant amicitiam societatemque rogatum") 
+
+
+Latin personal names
+	Aulum x 1 
+		Auli x 1 (tho in "post auli" -- usually post causes accusative?) 
+	Hercules x 1 
+	Metellus x 8 [but in some other cases tagged PRS]  
+		Metellum x 2 
+		Metelli x 2
+		Metelloque x 1 
+	Rutilium x 1 
+	Turpilium x 1 (Eos omnis praeter Turpilium_GRP-B inter epulas obtrucant..) 
+
+Geography mistaken for ethnography
+	Numidiae x 2 (i.e. referring to the multiple provinces named "Numidia", or the genitive singular, as in ' fore uti solus imperi Numidiae potiretur ' ) 
+		[elsewhere tagged correctly -- Regnum Numidiae etc.)]
+		[this one is egregious : Nam Numidiam partem, undi vi Iugurtham expulerit..." )  
 	Carthagine x 1 (ablative of Carthago -- "Nam de Carthagine silere o melius puto quam parum dicere
+	Cirtam x 3 ("interim haud longe a mari prope Cirtam oppidum" -- referring to Constantine, Algeria)
+		(elsewhere mistagged as PRS...) 
+		Cirta x 1 
+	Vaga x 1 
+		(quite egregious: oppidum Numidarum nomine Vaga - "the settlement of the Numidians named Vaga") 
+	Uticae x 1  (quorum magna multitudo Uticae erat)
+		Utica x 1 (ab Utica venire iubet.. [later tagged GEO in same sentence] ..)  
+	Thalam x 3 (Thala, a town in Tunisia)
+		Thala x 1
+	Syrtis x 1
+	
+Capitalized gerunds [also frequently mistaken for ethnonyms by the tagger working on Gregory of Tours...]  
+	Vindicandum x 1 
 
 CORRECT: 
-Romani x 7
-	Romanus x 3 (i.e. populus Romanus etc)
-		populus... x 3 
-	Romano x 5
-		populo... x 5
-	Romanis x 1 (ex. qui tum Romanis imperator erat) 
-	Romanos x 1 
-	Romanum x 2 
-		populum... x 2 
+Romani x 29
+	Romanus x 8 (i.e. populus Romanus etc)
+		populus... x 6
+	Romanorum x 10
+	Romano x 12
+		populo... x 12
+	Romanis x 13 (ex. qui tum Romanis imperator erat) 
+	Romanos x 11
+	Romanum x 6
+		populum... x 6
+Quirites x 5 [means Roman citizens, archaic] 
+Latini x 1 
+	Latinum x 2
+	Latinis x 1 
+	Latine x 1
 
+Italici x 2
+	Italicos x 1 
 
-BERBERI
-Numidarum x 2 
-	Numidas x 2 
+Ligurum x 1  
+
+Numidarum x 3
+	Numidas x 12
+	Numidaeque x 1 
+	Numidae x 6
+	Numidica x 1 
+	Numida x 1 
+	Numidam x 1 
 
 Numantinis x 1 (Numantinis maximo terrori esset) 
 
-Gaetulos x 1 
+Gaetulos x 3
+	Gaetuli x 2
+	Gaetulis x 1 
 
 Libyes x 1 
 
-PUNICI
+Maurosque x 1 
+	Mauris x 2 
+	Mauros x 1 
+	Maurus x 1 
+	
 Carthaginiensi x 1 (albeit not always strictly: ex. bello Carthaginiensi -- not exactly ethnonym there, but derived thereof I guess.) 
-	Carthaginienses x 2 
+	Carthaginienses x 3 
+	Carthaginiensium x 1 
+
+Cyrenenses x 2 
 
 Punicis x 2 (ex libris Punicis -- sure, it's what we are interested in, so might as well tag.) 
-	Punicae x 1 (adjectiav) 
+	Punicae x 1 (adjective) 
+	Punico x 1 
+	Punica x 1 
 Phoenices x 1 
+Poeni x 1 
 
 Afri x 1 
 
+Leptitani x 1 (people from Leptis)
+	Leptitanorum x 1 
 
+Capsenses x 1 
 
-OTHER 
+Siccensis x 1 (??) 
 
 Medis x 1 
 
 Aethiopas x 1 
+
+Graeca x 1
+	Graeci x 1  
+	Graecorum x 1
+	Graecas x 1
+	Graecis x 1 
+
+Sidoniis x 1 
+	Sidonica x 1 
+
+Ligus (?) x 1 
+	"modo eminentibus saxis nisus LIgus in casatelli planitiem pervenit.."
+
+Gallos x 1 
+	Gallis x 1 
 
 ---
 MISSED:
 
 NUmidis x 2 
 	praefecit Numidis ("put in charge by the Numidian") 
-
+	Numidae x 5 ( 1 is mistaken for GEO) 
+	Numida x 1 (.... Numida quidam nomine Massiva, Gulussae filius..." -- tagged as 0...) 
+	Numidarum x 1 
+		(quite egregious: oppidum Numidarum nomine Vaga - "the settlement of the Numidians named Vaga") 
 Gaetulos x 1 
 
-Carthaginiensis x 1 
+Carthaginiensis x 2  
+	Carthaginiensium x 1 
 
 Medi x 1 (eo numero Medi) 
 
 Persae x 1 
+	Persen x 1 (item regem Persen) 
 
 Armenii x 1 
 
 Mauros x 1 ( mistagged as PRS 
 	Mauris x 1 (missed as O -- for "Mauris omnibus rex") 
+	Mauro x 1 (ipsique Mauro policetur Numidiae partem tertiam...) 
+	Mauri x 2 (ex. equites Mauri_PRS-B atque Gaetuli_GRP-B ... meh.) 
+
+Thracum x 1 (tagged as PRS) 
+
+Italici x 1 (ubi et incolere mercari consueverant Italici generis multi mortales -- Italici tagged as GEO )
+
+Quirites x 1 
+
+Numantiam -- actually GEO but notalbe that it's missed in "Ibi Latine nam apud Numantiam loqui didicerat exclamat nostros frustra pugnare.." 
+
+Romanus x 1 (?!!)
+	("populus ROmanis vellet" -- how do you miss that?) 
 
 ---
 unsure cases: 
@@ -89,6 +190,8 @@ Africano:
 Hispanis:
 	... iique alveos navium inversos pro tuguriis habuere, quia neque materia in agris neque ab HISPANIS emendi aut mutandi copia erat... 
 
+Siccensium:
+	profecto cuncti aut magna pars Siccensium fidem mutavissem (tagged PRS-- may be actually an ethnonym? Tagged elsewhere as such no less) 
 
 --
 
