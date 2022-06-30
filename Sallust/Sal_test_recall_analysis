@@ -2,32 +2,7 @@ based on extract_by_token_prefix.py outputs...
 
 ROMANS AND THEIR OTHER APPELATIONS 
 
-
-ROMAN- [96] 
-after popul- ...
-	populus Romanus
-		GEO-B	1	(?!!)
-	
-after nomin- 
-	nominis Romani
-		GRP-B	1
-
-context		popul- __	nomin- __	other		senat- 
-NOM.SG		GRP-B 5						GRP-B 1 
-		GEO-B 1 (?!) 
-GEN.SG -i	GRP-B 11	GRP-B 1		GEO-B 1 
- (e-stem -is)		(2 of GEN.SG with popular are maiestat- populi Romani)
-(also NOM.SG -i)	(3 are amic- populi Romani)
-DAT/ABL.SG -o	GRP-B 6
-DAT/ABL.PL -is					GRP-B 2
-ACC.PL -os					GRP-B 2
-ACC.SG -um	GRP-B 5
-
-F.ACC.SG -am					PRS-B 1 (?! - plebem Romanam -- clearly ethnic) 
-GEN.PL -orum					GRP-B 1 
-
-
-better graph
+import sys
 
 form		popul-		other		pre- adj	Senat-, equit-	other post adj	preposition	nomin- 
 								milit-, imperator-
@@ -37,6 +12,7 @@ GEN.SG -i	GRP-B 10							GRP-B 2				GRP-B 3
 (-e-: -is)	(amic- __ 4)
 		(maiestat __ 2)
 DAT/ABL.SG -o	GRP-B 12
+ACC.SG -um	GRP-B 6
 
 NOM.PL -i	GRP-B 1		GRP-B 10	GRP-B 1		GRP-B 2		GRP-B 1
 		(populique^) 

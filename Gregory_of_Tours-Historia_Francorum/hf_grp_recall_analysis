@@ -1,0 +1,50 @@
+ROMAN- 
+		[ __ (Nhead)	Nhead  __	__ Nhead	__ ... Nhead	iso	prep __ 		Conj __ 		
+NOM.MSG -us	0 1								GRP 1	GRP 1 (agrammatically) 	PRS 1
+GEN.MSG -i			GRP 1 
+GEN.FSG -ae			GEO-B 1		PRS-B 2 
+			[but its urbis^]	PRS-I 2 (one urbis) 
+ACC.MSG -um			PRS-I 1 [imperium _]		GRP 2
+ACC.FSG -am			PRS-B 2				PRS 1 
+DAT/ABL.MSG -o			GRP 1							GRP 2 
+NOM.MPL -i									GRP 3
+GEN.MPL -orum	GRP 2		GRP 1		GRP 1
+DAT/ABL.MPL -is 								GRP 1	GRP 2
+ACC.MPL -os										GRP 3 			GRP 1 
+
+
+(note however: Romaniacum campum venerunt tagged as GEO ) -- htey came to the Romanish camp (-aco -- Gaulish attributive suffix, cf Scottish -ach, etc.) 
+	(I guess that's not so bad tho) 
+
+just like for Sallust, it appears the actually troubling issues occur in the nominative singular. 
+
+
+As for Arvern... 
+
+				Nhead __	__ Nhead	__ ... Nhead	iso	prep __ 
+NOM.MSG -us			GRP 4		GRP 1		GRP 1		GRP 24	GRP 3
+GEN.MSG -i			GRP 3 
+ACC.MSG -um			GRP 1						PRS 2	GEO 2 (circa __, in __ )
+										GRP 6	PRS 2 (postea __, per__)
+											GRP 2 (2x per __ )  
+DAT/ABL.MSG -o			PRS 1		PRS 1				PRS 4	GRP 5 (1x ab __ , 1x sicum __, 1x in __ ) 
+				GRP 2						GRP 2	PRS 2 (2x ab__)  
+
+NOM.MSG -i					GRP 1				GRP 2 
+GEN.MSG -orum			GRP 3		GRP 3 (1 popul_) 
+ACC.MSG -os
+DAT/ABL.MSG -is			GRP 6				GRP 1		GRP 2	GRP 4 (ex __, ab __, secum __ , cum __  )
+
+GEN.FSG -ae			PRS 2 (1xurbis)	GEO 1 (urbis) 
+ACC.FSG -am			PRS 4 (urbem, civitatem, 2xcladem "ruin")	PRS 1 (probably better GEO here -- vellim umquam Arvernam Lemonam -- may be referring to the cives geographically...?) 
+				GEO 1 (urbem) 
+ABL.FSG -a			PRS 4 (3x ecclesia, urbe) 					
+				GEO 1 (urbe) 
+
+(in cathedra Arverne_GEO -- maybe hte right tag, ignore) 
+( ditto -- de excidio regionbius Arvernae_GEO-B 
+(et Firminum Arvernum -- looks like a personal name, PRS-I is probs rihgt tag there) 
+
+(??) GRP-B   Arvernum        Unde_0 factum_0 est_0 ,_0 ut_0 ,_0 diuturna_0 intentione_0 gliscente_0 ,_0 post_0 aliquot_0 annos_0 coniunctus_0 metropolis_0 cum_0 suis_0 provincialibus_0 apud_0 urbem_0 Arvernum_GRP-B resedens iudicium emanaret...
+
+
