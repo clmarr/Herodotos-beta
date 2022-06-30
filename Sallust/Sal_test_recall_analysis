@@ -140,9 +140,17 @@ special cases of note:
 	# Mauri_0 atque Gaetuli_GRP-B (sent beginning !) 
 
 GAETUL: 
-		iso
-NOM.PL -i	PRS 2 
-ACC.PL -os	GRP 1
+		iso	prep__	[ __	__ conj	conj __    
+NOM.PL -i	PRS 1	PRS 1		PRS 1	GRP 2 
+GEN.PL -orum			0 1 
+ACC.PL -os	GRP 2	GRP 1			GRP 1 
+ABL.PL -is		GRP 1 
+
+LIBY: 
+only form is Libyes
+
+conj __ :	PRS 1 
+iso :		PRS 1 
 
 overall -- very accurate for Acc.Pl. and very inaccurate elsewhere for NUmid - 
 

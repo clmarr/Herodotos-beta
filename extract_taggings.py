@@ -17,7 +17,6 @@ if OPTS.format.lower() not in ["conll", "crf"]:
 	raise Exception("Usage error: only accepted formats are CONLL and CRF currently.")
 CONLL = OPTS.format.lower() == "conll"
 
-
 def tag_tok_tuple(line):
 	tup = line.strip().split(OPTS.tag_flag)
 	return tup[not CONLL] + "_" + tup[CONLL]
