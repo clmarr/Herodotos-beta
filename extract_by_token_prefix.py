@@ -40,8 +40,8 @@ def is_target(line):
 	if len(tok) < len(OPTS.token):
 		return False
 	if OPTS.suffix_mode:
-		return tok[len(tok) - len(OPTS.token) :] == OPTS.token
-	return OPTS.token == tok[:len(OPTS.token)]
+		return tok[len(tok) - len(OPTS.token) :].lower() == OPTS.token.lower()
+	return OPTS.token.lower() == tok[:len(OPTS.token)].lower()
 
 LINES = []
 with open(os.path.normpath(sys.argv[1])) as f:
