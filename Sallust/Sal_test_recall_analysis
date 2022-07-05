@@ -2,8 +2,6 @@ based on extract_by_token_prefix.py outputs...
 
 ROMANS AND THEIR OTHER APPELATIONS 
 
-import sys
-
 form		popul-		other		pre- adj	Senat-, equit-	other post adj	preposition	nomin- 
 								milit-, imperator-
 NOM.SG -us	GRP-B 6		GRP-B 1		0 1 (?!!)	GRP-B 1
@@ -36,7 +34,7 @@ QUIRITES -- always same form which is either NOM.PL or ACC.PL -- 13 times
 	5 as GRP
 	1 as 0 
 	7 as PRS .. 
-
+		[never in Caesar] 
 
 Other peoples of Italy
 
@@ -47,7 +45,7 @@ ACC.PL -os									GRP-B 1(socios __)
 DAT/ABL. PL -is									PRS-B 1 (ex omnibus __ ?!!) 
 
 
-LIGUR- 
+LIGUR- [ never in Caesar's Gallic Wars] 
 
 ACC.SG	1/3 is GRP, other 2 PRS (?!) 
 ABL.SG -e-	GEO
@@ -90,8 +88,12 @@ DAT/ABL.PL -is	PRS-B 3		PRS-B 1						PRS-B 1 (ab __ )	GEO-B 1
 ACC.PL -as	GRP-B 1		GRP-B 9				GRP-B 1 (__ equites) 
 		(puberes) 
 
+[occurence of Numid- in Caesar: 
+		iso
+acc.pl -as	GRP 3] 
 
-MAUR- 
+
+MAUR- [never in Caesar] 
 		iso	__ N	N __	__ V (object of)	A __ 
 
 NOM.MSG -us	PRS 1 (forgivable) 
@@ -115,7 +117,7 @@ special cases of note:
 	equites Mauri_PRS-B atque Gaetuli_GRP-B	
 	# Mauri_0 atque Gaetuli_GRP-B (sent beginning !) 
 
-GAETUL: 
+GAETUL: [never in Caesar]
 		iso	prep__	[ __	__ conj	conj __    
 NOM.PL -i	PRS 1	PRS 1		PRS 1	GRP 2 
 GEN.PL -orum			0 1 
@@ -124,9 +126,23 @@ ABL.PL -is		GRP 1
 
 LIBY: 
 only form is Libyes
-
 conj __ :	PRS 1 
 iso :		PRS 1 
+
+
+CARTHAG(IN)IENS-:	[never in Caesar] 
+			N __	iso
+DAT/ABL.SG -i		GRP 1
+
+NOM/ACC.PL -es		GRP 2	GRP 1
+				PRS 1
+GEN.PL -ium		PRS 2	PRS 1 
+			GRP 1
+ACC.PL -is		PRS 1
+			GRP 2
+DAT/ABL.PL -ibus	PRS 1
+
+
 
 overall -- very accurate for Acc.Pl. and very inaccurate elsewhere for NUmid - 
 

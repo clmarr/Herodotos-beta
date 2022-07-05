@@ -48,3 +48,133 @@ ABL.FSG -a			PRS 4 (3x ecclesia, urbe)
 (??) GRP-B   Arvernum        Unde_0 factum_0 est_0 ,_0 ut_0 ,_0 diuturna_0 intentione_0 gliscente_0 ,_0 post_0 aliquot_0 annos_0 coniunctus_0 metropolis_0 cum_0 suis_0 provincialibus_0 apud_0 urbem_0 Arvernum_GRP-B resedens iudicium emanaret...
 
 
+
+
+NOTE -- Arvern in Caesar
+	N __ 	prep __	is
+-us	GRP 2		GRP 1
+-o	GRP 1
+-um	GRP 1
+-i	GRP 3
+-os	GRP 1	GRP 2	GRP 2
+-is	GRP 3	GRP 10
+-orum	GRP 5
+
+	.. get the idea. 
+
+Arvernisque 	0 1	(!!) ("milia Aedisque Avernisque reddit) 
+
+---
+
+Gall- 
+
+lexemes:
+	Gallia, ae				Gaul, GEO
+	Gallus, -i (a, ae; um, a)		Gaulish (person), GRP 
+	Gallius, -ii (-ia, -iae; -ium, -ia)	Gaulish adjective, GRP; but may be Gallius, an old Roman gens (not found from Augustan age onward) 
+	gallicus, -i (-a, -ae; -um, -i)		Gallic/Gaulish adjective; GRP 
+	Gallicanis 				also Gallic, adjective; GRP
+	Galatae, -arum 				(pl) GRP, Galatians
+	Gallitia --aka Gallaecia		Galicia, ignore. 
+	Gallienus				the Roman emperor. PRS. Ignore. 
+	gallinatiorum aka gallinaciorum		type of poultry, ignore. 
+	Galliciensis				Gallian/Gaulish; GRP
+
+	gall- 					typically rooster but..
+		may actually be "Gaul" if capitalization error--
+			Nam et galli plauso cantu in ininitio noctis saepe dederunt -- seems to be Gauls! 
+
+Gallican-
+
+	N __	iso
+-is	GRP 1 	GRP 1
+
+
+Galli-a- (is actually GEO)
+	N __	__ N	prep __	iso
+-a(ABL) 			GEO 1
+-arum	GRP 2	PRS 1 
+	PRS 1	GRP 1
+-is	GRP 1		GEO 5
+			GRP 3
+-as	GRP 1		GEO 1	GRP 2
+				GEO 2
+
+{etc, don't need to record all, stopped on line 29 of hf_1s_res_Gall} 
+
+Gallic- 
+		__ N
+-a ABL		GRP 1
+
+Galli-			__ N 
+
+-arum gen.fpl		GRP 1
+
+Gall-		N __ 
+-us nom.msg	GRP 1
+-i gen.msg	GRP 3
+-um acc.msg	GPR 1 
+-o abl.msg	PRS 1 
+
+
+gall-
+-i nom.mpl	0 1 
+
+Galliciensis	N __	__ N	prep __
+-is nom.sg	GRP 1
+		PRS-I 1 (forgivable in that case)
+-im acc.sg	GEO 1 (forgivable in that case) 
+		PRS 1 (not forgivable) 
+-ibus abl.pl			pRS 1 
+
+-is acc.msg		GRP 1 
+
+(ignore cases of Galleis referring to the Galilee) 
+
+
+----
+
+FRANC- (never occurs in Caesar) [84 times in HF: ignore Francia (GEO), Francilius (PRS)]
+ 
+		iso	__ N	N __	prep __		. __
+-us nom.msg	PRS 2			PRS 2		0 1
+-um acc.msg	PRS 1		PRS 1 (understandalbe here: Warmarium Francum) 
+
+-i nom.mpl	PRS 9					0 4
+		GEO 2		
+-orum gen.nmpl	PRS 3	0 2	GEO 1	PRS 2 
+			GEO 3	GRP 3	GRP 1
+			PRS 4	PRS 7
+			GRP 7	0 2 
+-os acc.mpl	GRP 1	PRS 1		GRP 1
+		PRS 2			PRS 2
+		GEO 1 
+-is databl.mnpl	PRS 4	PRS 1		PRS 6
+		GEO 2			GRP 4
+					GEO 1
+-is-que abl.mpl	GRP 1 
+	con.
+
+
+
+egregious cases of note
+
+	et hic Gripo_GRP genere Francus_PRS -- and this family (named) Gripus is Frankish! 
+	contra Francorum_0 exercitum -- against the army of the Franks! 
+	sicut mos Francorum_GEO -- as is the custom of the Franks! 
+
+gets it right with 
+	Francorum gentilibus (thank goodness -- of the Franks of hte same tribe; gentilibus is grammatically an adjective)
+	super Francorum gentum (over the Frankish tribe) 
+
+	(generally geets Franc... gent.. right but not always : nobilitandam Francorum_GEO gentum feci.) 
+
+overall 
+	nom.sg us	0.0 (0/5)
+	acc.sg um	0.0 (0/1 really)
+	
+	nom.pl i	0.0 (0/15 !!!)		incl 4/15 tagged as 0 bc sentence initial! 
+						PRS -- 9/15 60% 
+	gen.pl orum	0.33 (11/33)		PRS -- 42% (14/33); 0 and GEO each -- 12% (4/33), 
+	acc.pl os	0.38 (3/8) 
+	da.pl is	0.26 (5/19)		PRS -- 58% (11/19) !! 
