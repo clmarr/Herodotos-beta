@@ -34332,7 +34332,7 @@ PRSU	Labienus
 0	coram
 0	cernere
 0	existimate
-0	ù.
+0	.
 0	"
 
 0	Simul
@@ -38536,7 +38536,7 @@ PRSU	Caesar
 0	Quid
 0	vos
 0	,
-0	ù"
+0	"
 0	inquit
 0	,
 0	"
@@ -38586,7 +38586,7 @@ GRPU	Romanorum
 0	munitiones
 0	audeat
 0	.
-0	ù"
+0	"
 
 0	Oblata
 0	spe
@@ -42882,7 +42882,7 @@ GRPU	Gallis
 0	ut
 0	intellegatis
 0	,
-0	ù"
+0	"
 0	inquit
 0	,
 0	"
@@ -42895,7 +42895,7 @@ GRPU	Gallis
 GRPU	Romanos
 0	milites
 0	.
-0	ù"
+0	"
 
 0	Producit
 0	servos
@@ -42982,7 +42982,7 @@ GRPU	Romanos
 
 0	"
 0	Haec
-0	ù,
+0	,
 0	"
 0	inquit
 0	,
@@ -43032,7 +43032,7 @@ PRSU	Vercingetorix
 0	provisum
 0	est
 0	.
-0	ù"
+0	"
 
 0	Conclamat
 0	omnis
@@ -45574,7 +45574,7 @@ GEOU	Gergovia
 0	Quo
 0	proficiscimur
 0	,
-0	ù"
+0	"
 0	inquit
 0	,
 0	"
@@ -45635,7 +45635,7 @@ GRPU	Romanis
 0	,
 0	pronuntiare
 0	.
-0	ù"
+0	"
 
 0	Producuntur
 0	hi
@@ -45695,7 +45695,7 @@ PRSU	Litaviccum
 0	Quasi
 0	vero
 0	,
-0	ù"
+0	"
 0	inquit
 0	ille
 0	,
@@ -45753,7 +45753,7 @@ GRPU	Romani
 0	latrones
 0	interficiamus
 0	.
-0	ù"
+0	"
 
 0	Ostendit
 0	cives
@@ -47493,7 +47493,7 @@ PRSL	Petronius
 0	"
 0	Quoniam
 0	,
-0	ù"
+0	"
 0	inquit
 0	,
 0	"
@@ -47525,7 +47525,7 @@ PRSL	Petronius
 0	vobis
 0	consulite
 0	"
-0	ù.
+0	.
 
 0	Simul
 0	in
@@ -47546,7 +47546,7 @@ PRSL	Petronius
 0	suis
 0	"
 0	Frustra
-0	ù,
+0	,
 0	"
 0	inquit
 0	,
@@ -47574,7 +47574,7 @@ PRSL	Petronius
 0	ad
 0	legionem
 0	recipite
-0	ù.
+0	.
 0	"
 
 0	Ita
@@ -51624,7 +51624,7 @@ GRPU	Arvernis
 0	"
 0	Nihil
 0	,
-0	ù"
+0	"
 0	inquit
 0	,
 0	"
@@ -52025,7 +52025,7 @@ GEOU	Galliam
 0	premitur
 0	servitute
 0	.
-0	ù"
+0	"
 
 0	Sententiis
 0	dictis
