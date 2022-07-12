@@ -1,0 +1,34 @@
+all lines with 'Burgund'...:
+Tag	Token	Sentence
+GEO-B	Burgundia	Decimo_0 loco_0 Theodorus_PRS-B et_0 Proculus_PRS-B ,_0 iubente_0 beata_0 Chrodielde_PRS-B regina_0 ,_0 subrogantur_0 ,_0 eo_0 quod_0 de_0 Burgundia_GEO-B iam_0 episcopi_0 ordinati_0 ipsam_0 secuti_0 fuissent_0 et_0 ab_0 hostilitate_0 de_0 urbibus_0 suis_0 expulsi_0 fuerant_0 ._0
+GEO-B	Burgundia	XI._0 Dinifius_PRS-B episcopus_0 ,_0 et_0 ipse_0 ex_0 Burgundia_GEO-B veniens_0 ._0
+GRP-B	Burgundionibus	Item_0 cum_0 Constantinum_PRS-B obsedire_0 scribit_0 ,_0 ita_0 dicit_0 <COLON>_0 Vixdum_PRS-B quartus_0 obsidionis_0 Constantini_PRS-B mensis_0 agebatur_0 ,_0 cum_0 repente_0 ex_0 ulteriore_GEO-B Gallia_GEO-I nuntii_0 veniunt_0 ,_0 Iovinum_PRS-B adsumpsisse_0 ornatus_0 regius_0 et_0 cum_0 Burgundionibus_GRP-B ,_0 Alamannis_GRP-B ,_0 Francis_GRP-B ,_0 Alanis_GRP-B omnique_0 exercitu_0 inminire_0 obsedentibus_0 ._0
+0	Burgundiones	Burgundiones_0 quoque_0 ,_0 Arrianorum_GRP-B sectam_0 sequentes_0 ,_0 habitabant_0 trans_0 Rhodanum_GEO-B ,_0 quod_0 adiacit_0 civitate_0 Lugdunense_PRS-B ._0
+PRS-B	Burgundiae	De_0 fame_0 Burgundiae_PRS-B et_0 Ecdicio_PRS-B ._0
+PRS-B	Burgundiam	Sed_0 tempore_0 Sidoni_GRP-B episcopi_0 magna_0 Burgundiam_PRS-B famis_0 oppressit_0 ._0
+GRP-B	Burgundionum	Fuit_0 igitur_0 et_0 Gundevechus_GRP-B rex_0 Burgundionum_GRP-B ex_0 genere_0 Athanarici_GRP-B regis_0 persecutoris_0 ,_0 cui_0 supra_0 meminimus_0 ._0
+PRS-B	Burgundiam	Porro_0 Chlodovechus_PRS-B ,_0 dum_0 legationem_0 in_0 Burgundiam_PRS-B saepius_0 mittit_0 ,_0 Chrotchildis_PRS-B puella_0 repperitur_0 a_0 legatis_0 eius_0 ._0
+PRS-B	Burgundionibusque	sed_0 adpraehensus_0 eos_0 Tholosae_PRS-B in_0 exilium_0 ad_0 Alaricum_PRS-B regem_0 transmisit_0 ,_0 interfectis_0 senatoribus_0 Burgundionibusque_PRS-B ,_0 qui_0 Godigiselo_PRS-B consenserant_0 ._0
+GEO-B	Burgundia	Ipse_0 vero_0 regionem_0 omnem_0 ,_0 quod_0 nunc_0 Burgundia_GEO-B dicitur_0 ,_0 in_0 suo_0 dominio_0 restauravit_0 ._0
+0	Burgundionibus	Burgundionibus_0 leges_0 mitiores_0 instituit_0 ,_0 ne_0 Romanos_GRP-B obpraemerent_0 ._0
+GEO-B	Burgundionum	Qui_0 abiens_0 ,_0 urbes_0 illas_0 a_0 finibus_0 Gothorum_GRP-B usque_0 Burgundionum_GEO-B terminum_0 patris_0 sui_0 dicionibus_0 subiugavit_0 ._0
+PRS-B	Burgundias	Haec_0 illi_0 audientes_0 ,_0 Burgundias_PRS-B petunt_0 et_0 contra_0 Sigimundum_PRS-B vel_0 fratrem_0 eius_0 Godomarum_PRS-B dirigunt_0 ._0
+PRS-B	Burgundionis	Discedentibusque_0 his_0 regibus_0 ,_0 Godomarus_GRP-B ,_0 resumptis_0 viribus_0 ,_0 Burgundionis_PRS-B colligit_0 regnumque_0 recipit_0 ._0
+GEO-B	Burgundias	Statimque_0 interfecto_0 Sigimundo_PRS-B cum_0 uxore_0 et_0 filiis_0 ,_0 apud_0 Colomnam_GEO-B Aurilianinsim_GEO-B urbis_0 vicum_0 in_0 puteum_0 iactare_0 praecipiens_0 ,_0 Burgundias_GEO-B petiit_0 ,_0 vocans_0 in_0 solatium_0 Theudoricum_PRS-B regem_0 ._0
+PRS-B	Burgundionis	Quod_0 Franci_PRS-B cernentes_0 atque_0 cognuscentes_0 Chlodomerem_PRS-B interfectum_0 ,_0 reparatis_0 viribus_0 ,_0 Godomarum_PRS-B fugant_0 ,_0 Burgundionis_PRS-B oppraemunt_0 patriamque_0 in_0 suam_0 redigunt_0 potestatem_0 ._0
+PRS-I	Burgundias	Quod_0 Childeberthus_PRS-B Burgundias_PRS-I abiit_0 ._0
+GRP-B	Burgundias	Quod_0 Childeberthus_PRS-B et_0 Chlotharius_PRS-B Burgundias_GRP-B ,_0 Theudericus_PRS-B Arvernus_GRP-B abiit_0 ._0
+GRP-B	Burgundia	Post_0 haec_0 Chlothacharius_PRS-B et_0 Childeberthus_PRS-B Burgundia_GRP-B petere_0 distinant_0 ._0
+GEO-B	Burgundiam	Franci_0 vero_0 ,_0 qui_0 ad_0 eum_0 aspiciebant_0 ,_0 dixerunt_0 <COLON>_0 '_0 Si_0 cum_0 fratribus_0 tuis_0 in_0 Burgundiam_GEO-B ire_0 dispexeris_0 ,_0 te_0 relinquimus_0 et_0 illos_0 sequi_0 satius_0 praeoptamus_0 '_0 ._0
+PRS-B	Burgundiam	Chlothacharius_0 vero_0 et_0 Childeberthus_PRS-B in_0 Burgundiam_PRS-B dirigunt_0 ,_0 Agustidunumque_PRS-B obsedentes_0 ,_0 cunctam_0 ,_0 fugato_0 Godomaro_PRS-B ,_0 Burgundiam_GEO-B occupaverunt_0 ._0
+GEO-B	Burgundiam	Chlothacharius_0 vero_0 et_0 Childeberthus_PRS-B in_0 Burgundiam_PRS-B dirigunt_0 ,_0 Agustidunumque_PRS-B obsedentes_0 ,_0 cunctam_0 ,_0 fugato_0 Godomaro_PRS-B ,_0 Burgundiam_GEO-B occupaverunt_0 ._0
+PRS-B	Burgundiae	Quo_0 defuncto_0 ,_0 Theodorus_PRS-B et_0 Proculus_PRS-B episcopi_0 ,_0 qui_0 de_0 partibus_0 Burgundiae_PRS-B advenerant_0 ,_0 ordinante_0 Chrodigilde_GEO-B regine_0 ,_0 tribus_0 annis_0 Toronicam_GEO-B rexerunt_0 eclesiam_0 ._0
+PRS-B	Burgundiam	At_0 ille_0 timentes_0 ,_0 cum_0 summa_0 velocitate_0 Burgundiam_PRS-B redierunt_0 ._0
+GRP-B	Burgundionibus	Ex_0 hoc_0 vero_0 gradatim_0 proficiens_0 ,_0 ad_0 maius_0 culmen_0 evectus_0 est._0 Igitur_0 prorumpentibus_0 Langobardis_PRS-B in_0 Galliis_GEO-B ,_0 Amatus_PRS-B patricius_0 ,_0 qui_0 nuper_0 Celsi_PRS-B successor_0 extiterat_0 ,_0 contra_0 eos_0 abiit_0 ,_0 cummissumque_0 bellum_0 ,_0 terga_0 vertit_0 ceciditque_0 ibi._0 Tantumque_GEO-B tunc_0 stragem_0 Langobardi_0 feruntur_0 fecisse_0 de_0 Burgundionibus_GRP-B ,_0 ut_0 non_0 possit_0 colligi_0 numerus_0 occisorum_0 ;_0
+GRP-B	Burgundionibus	Inruentibus_0 iterum_0 Langobardis_PRS-B in_0 Gallias_GRP-B et_0 usque_0 Mustias_PRS-B Calmes_GRP-B accedentibus_0 ,_0 quod_0 adiacit_0 civitati_0 Ebredonense_GEO-B ,_0 Mummolus_PRS-B exercitum_0 movit_0 et_0 cum_0 Burgundionibus_GRP-B illuc_0 proficiscetur_0 ._0
+GEO-B	Burgundiam	Et_0 sic_0 in_0 Burgundiam_GEO-B peraccessit_0 ._0
+PRS-B	Burgundiam	Quomodo_0 adpraehensum_0 Sigymundum_PRS-B Chlodomeris_PRS-I retrusit_0 in_0 carcerem_0 ,_0 dixitque_0 ei_0 Avitus_PRS-B Dei_PRS-I sacerdus_0 <COLON>_0 ìNe_PRS-B inicias_0 manum_0 in_0 eo_0 ,_0 et_0 cum_0 Burgundiam_PRS-B petieris_0 ,_0 victuriam_0 obtenebis_0 "_0 ._0
+GEO-B	Burgundiam	Ille_0 vero_0 abnuens_0 quae_0 ei_0 a_0 sacerdote_0 dicta_0 fuerant_0 ,_0 abiit_0 ipsumque_0 cum_0 uxore_0 et_0 filiis_0 interemit_0 petiitque_0 Burgundiam_GEO-B ,_0 ibique_0 obpraessus_0 ab_0 exercitu_0 ,_0 interemptus_0 est._0 Quid_0 Maximus_PRS-B imperatur_0 ?_0
+PRS-B	Burgundione	Tunc_0 vocatis_0 ad_0 se_0 episcopis_0 ,_0 qui_0 propinqui_0 erant_0 ,_0 supplicat_0 ,_0 ut_0 consensum_0 ,_0 quem_0 in_0 Burgundione_PRS-B nepote_0 suo_0 fecerat_0 ,_0 suis_0 subscriptionibus_0 roborarent_0 ._0
+0	Burgundio	Erat_0 tunc_0 temporis_0 Burgundio_0 quasi_0 annorum_0 XXV._0 Qui_0 veniens_0 rogat_0 ,_0 ut_0 ,_0 accedens_0 usque_0 Namnetas_PRS-B ,_0 episcopum_0 eum_0 in_0 locum_0 avunculi_0 ,_0 qui_0 adhuc_0 superstes_0 erat_0 ,_0 tonsoratum_0 consecrare_0 deberem_0 ._0
+GEO-B	Burgundionibus	Gentes_0 vero_0 ,_0 quae_0 ultra_0 Ararem_PRS-B Rhodanumque_PRS-I et_0 Sequanam_GEO-B commanebant_0 ,_0 cum_0 Burgundionibus_GEO-B iunctae_0 ,_0 Arareca_GEO-B Rhodaniticaque_GEO-B litora_0 tam_0 de_0 fructibus_0 quam_0 de_0 pecoribus_0 valde_0 depopulati_0 sunt_0 ._0

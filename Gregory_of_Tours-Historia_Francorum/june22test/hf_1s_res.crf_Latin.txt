@@ -1,0 +1,5 @@
+all lines with 'Latin'...:
+Tag	Token	Sentence
+GRP-B	Latinus	Tempore_0 vero_0 Salamones_PRS-B ,_0 quando_0 regnabat_0 super_0 Israhel_PRS-B ,_0 apud_0 Latinus_GRP-B quintus_0 regnabat_0 Silvius_GRP-B ;_0
+0	Latini	Sed_0 ne_0 christiani_0 ut_0 Iudei_0 sub_0 hac_0 luna_0 haec_0 solemnia_0 celebrarent_0 ,_0 addidit_0 <COLON>_0 Latini_0 autem_0 luna_0 XXII._0 Ob_0 hoc_0 multi_0 in_0 Galliis_GRP-B XV._0 luna_0 celebraverunt_0 ,_0 nos_0 autem_0 XXII._0 Inquesivimus_0 tamen_0 studiosae_0 ,_0 sed_0 fontes_0 Hispaniae_GEO-B ,_0 quae_0 divinitus_0 implentur_0 ,_0 in_0 nostrum_0 pascha_0 repleti_0 sunt_0 ._0
+GRP-B	Latinorum	Et_0 hinc_0 lingua_0 Syrorum_GRP-B ,_0 hinc_0 Latinorum_GRP-B ,_0 hinc_0 etiam_0 ipsorum_0 Iudaeorum_PRS-B in_0 diversis_0 laudibus_0 variae_0 concrepabat_0 ,_0 dicens_0 <COLON>_0 '_0 Vivat_PRS-B rex_0 ,_0 regnumque_0 eius_0 in_0 populis_0 annis_0 innumeris_0 dilatetur_0 '_0 ._0

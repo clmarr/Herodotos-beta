@@ -1,0 +1,3 @@
+all lines with 'Britton'...:
+Tag	Token	Sentence
+PRS-B	Brittone	De_0 Winnoco_0 Brittone_PRS-B ._0

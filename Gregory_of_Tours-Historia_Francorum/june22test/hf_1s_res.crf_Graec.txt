@@ -1,0 +1,3 @@
+all lines with 'Graec'...:
+Tag	Token	Sentence
+GRP-B	Graeci	Addit_0 autem_0 et_0 litteras_0 litteris_0 nostris_0 ,_0 id_0 est_0 w_0 ,_0 sicut_0 Graeci_GRP-B habent_0 ,_0 ae_0 ,_0 the_0 ,_0 uui_0 ,_0 quarum_0 caracteres_0 hi_0 sunt_0 <COLON>_0 Et_0 misit_0 epistulas_0 in_0 universis_0 civitatibus_0 regni_0 sui_0 ,_0 ut_0 sic_0 pueri_0 docerentur_0 ac_0 libri_0 antiquitus_0 scripti_0 ,_0 planati_0 pomice_0 ,_0 rescriberentur_0 ._0

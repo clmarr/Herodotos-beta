@@ -134,7 +134,7 @@ Galliciensis	N __	__ N	prep __
 
 ----
 
-FRANC- (never occurs in Caesar) [84 times in HF: ignore Francia (GEO), Francilius (PRS)]
+FRANC- (never occurs in Caesar) [81 times in HF: ignore Francia (GEO), Francilius (PRS)]
  
 		iso	__ N	N __	prep __		. __
 -us nom.msg	PRS 2			PRS 2		0 1
@@ -178,3 +178,516 @@ overall
 	gen.pl orum	0.33 (11/33)		PRS -- 42% (14/33); 0 and GEO each -- 12% (4/33), 
 	acc.pl os	0.38 (3/8) 
 	da.pl is	0.26 (5/19)		PRS -- 58% (11/19) !! 
+
+
+---
+
+ALSO OF INTEREST
+
+Parisi- [10 times in Caesar] 
+		iso	__ N 
+nom.sg -us	GRP 1				-- abort counting, too easily confused with Paris the city
+		[could be Paris GEO 1] 
+
+gen. pl -orum		GRP 3
+
+ABORT -- too easily confused with Parisius Paris. 
+
+Parisiac- [0 in Caesar] 
+		iso	__ N			N __  
+nom.msg -us		PRS-I 1 [Berthramnus __ archdiaconus] 
+
+gen.fsg. -ae		PRS 6			GEO 3 [urbis 3] 
+			  [urbis 2,]		PRS 2 [urbis, civitatis]
+			  [ecclesiae 2] 
+			  [-I 2]
+			  [civitatis 1]   
+			GEO 3 [urbis 3]
+
+acc.fsg -am					PRS 3 [urbem 3]
+						GEO 2 [urbem 2] 
+			
+abl.fsg. -a					PRS 2 [urbe, aeclesia] 
+	 					GEO 2 [urbe 2] 
+abl.msg -o		0 1	 
+
+nom.mpl -i	PRS 1 
+
+dat.mpl. -is	PRS 1 
+
+... MEH. 
+
+-- 
+
+PICTAV-, PECTAV- (never in Caesar; Caesar wrote only of Pictones.) 
+		(which never occurs in HF) 
+
+PECTAV -- aborted on line 34 -- just too many references to Poitiers.  
+	maybe continue later sometime whne not 1:00 at night. 
+
+PECTAV-o-	iso	N __	__ N	prep __ 
+nom.msg -us	GRP 2
+		PRS 2 (1 fg in ctxt) 
+gen.msg -i			PRS-I 1 [Sigarius __ civis --- Siagrius?] 
+databl.msg -o	PRS 2 (2x fg in ctxt) 
+abl.msg *-us		PRS 1 [exercitu]
+gen.fsg -ae		PRS 1 [urbis]
+acc.fsg -am			PRS 1 [civitatem] 	
+abl.fsg -a		PRS 1 [urbe] 	
+nom.pl -i	PRS 1		GRP 1 [populi] 
+dat.pl -is		PRS 1 [regum] 
+abl.pl -is				PRS 1 
+
+(exclude for referring to Poitiers: 
+	Denique nocte media omnes Pectava somno phalanga conpraemitur.. 
+	.. .in Pectavum rediit... 
+	Pectavo regredi iussae sunt
+	Filii autem ipsius Waddonis per Pectavum vagantes
+	quod in Pectava habitur diocisi.. .
+	qui tunc Pectavam regebat eclesiam .. 
+	Pectavum accessit 
+	et sic Pectavum accedens 
+	civitates eius pervadit, id est Toronus, Pectavus, ... 
+	Pectavo abiit 
+	Chilpericus Pectavus invasit 
+	et Chilpericus Pectavus invasit 
+	eas Pectavus civitatem 
+	Chilpericus quoque rex Pectavum pervasit 
+
+
+
+PECTAVENS-i	iso	N __	__ N	Prep __ 
+gen. sg -is		PRS 1
+acc. sg -em 			PRS 1 [urbem] 
+abl. fsg -a 		GEO 1 [eclesia] 
+databl. pl -ibus			PRS 1 
+
+(exclude for being a person  : Leonem Pectavinsim) 
+	
+PICTAV- 
+		iso	N __ 
+nom.msg us	GRP 1	GRP 1 
+		GEO 1 
+
+abl.fsg a		GRP 1 [urbe] 
+
+nom.mpl i	PRS 1 
+
+PICTAVINS- 
+						__ N
+Pictavinsis DAT.PL (not -ibus)?			PRS-I 1 [Helarius __ episcopus]
+							[exclude.] 
+	[exclude refs to Saint Hilary of Poitiers] 
+
+PICTAVENS- 		N __	__ N 
+nom.sg -i			0 1 [Gracina __ insula] 
+gen.sg -is		PRS 1 
+acc.sg -im		PRS 1 
+abl.sg -i			PRS 1 
+---
+
+
+TREVER 
+
+		iso		N __		__ N		prep __
+nom.sg -us	PRS 3 [3 fg in ctxt]
+		GEO 1 [not fg in ctxt]   
+gen.pl -orum					GRP 3
+databl.pl -is							GRP 1 
+
+TREVERIC- 
+gen.msg -i			PRS 1 [imperatoris]
+gen.fsg -ae 					0 1 [urbis]
+						GEO 1 [urbis]  
+acc.fsg -(ec)am			PRS 1 [urbem]  concessit 
+abl.fsg -a			PRS 1 [urbe]
+nom.mpl -i							PRS 1 
+
+TREVERENS- 
+nom.sg -is					GRP 1 
+
+---
+
+CADURC-o- [9 times in Caesar] 
+		iso		N __		__ N 
+nom.msg -us	PRS 1
+		GRP 1 
+acc.msg -um	GRP 1 				GRP 1 [urbem] 
+
+gen.pl -orum			GRP 1 
+dat.pl -is			GRP 1 
+
+CADURCIN-o-
+gen.fsg -ae					 
+acc.sg -um	PRS 1 
+databl.pl -is					PRS 1 
+
+(inxclude Ursicinis Cadurcinis -- it's a person 
+
+CADURCENS-i-
+gen.sg. -is					GEO 1 [urbis] 
+----
+
+BRITTAN-i-  (Britan with one T appears in Caesar, but not like this) 
+		iso		N __		__ N		Prep __		. __
+
+nom.sg -us							PRS 1 (agrammatical) 
+acc.fsg -ias	PRS 1 [fg in ctxt ] 
+  
+nom.pl -i	GEO 1								0 5 
+gen.pl -orum			PRS 3		PRS-I 2 [Chonoobro __ comite, Bodicus __ comes] 
+				GEO 1		GRP 2  [Chonoober __ comes; , __ comes]
+				GRP 1  
+acc.pl -os							PRS 1 
+databl.pl. -is	PRS 1 						PRS 2 
+								GRP 2
+databl.pl --is 							PRS 2 
+								GRP 1 
+
+
+overall 
+sg forms		0% (0/2) 
+
+nom.pl -i		0% (0/6) 
+gen.pl -orum		37.5% (3/8) 
+acc.pl -os		0% (0/1) 
+databl.pl -is -iis	37.5% (3/8) 
+
+
+
+(exclude: Brittania  forms ) 
+
+--
+
+IUDAE-o- 
+		iso		N __		__ N		Prep __		. __ 
+
+nom.sg -us	PRS 4 [I- 1] 
+gen.sg. -i			PRS 1 
+acc.sg -um	PRS 1 
+databl.sg -o	GRP 1						GRP 4
+
+Iudae* ?  - PRS 1 
+
+nom.pl -i	PRS 2								0 1
+gen.pl -orum	GRP 1		PRS 4
+acc.pl -os	PRS 1								0 2  
+databl.pl -is	PRS 1						GRP 2		0 1 
+								PRS 4 
+overall 
+
+nom.sg -us	0% (0/4; 4 PRS)
+gen.sg -i	0% (0/1; 1 PRS) 
+acc.sg -um	0% (0/1; 1P PRS) 
+databl.sg -o	100% (5/5) 
+
+singular overall 45.5% (5/11, others PRS) 
+ 
+nom.pl -i	0% (0/3, 2 PRS 1 0) 
+gen.pl -orum	20% (1/5)
+acc.pl -os	0% (0/3)
+databl.pl -is	25% (2/8) 
+
+
+ANDECAV-o-	
+		iso		N __		__ N		Prep __		. __
+nom.sg -us	PRS 2		PRS 1 (civis)					0 1 
+acc.sg -um	GEO 1 [fg]			PRS 1 (terminum)
+
+gen.fsg -ae					GEO 1 (urbis)
+acc.fsg -am					GRP 1 (urbem) 
+
+nom.pl - i	PRS 1 
+acc.pl -os							GRP 1		0 1 
+
+databl.pl -is
+	-isque	GRP 1 
+
+
+ignore those referring to city
+	Andecavo venit
+	Quod Childericus Aurilianus et Andecavo venit
+	cum Saxonibus Andecavo venit (tagged GRP...) 
+	Adovacrius de Andecavo (tagged GRP...) 
+	Andecavo ad Pasc... 
+	in andecavo enim terra tremuit (tagged GRP...) 
+
+
+
+overall 
+
+masculine singulars	0% (0/5)
+fem.sg	50% (1/2)
+nom.pl 0% (0/1)
+acc.pl 50% (1/2)
+dat.pl.com 100% (1/1) 
+
+ANDECAVENS-i- 
+		iso		N __ 
+nom.sg -is			PRS 1 (homo) 
+
+
+
+GRAECI -- 1/1 nom.pl -i 
+
+LATINUS 
+
+nom.sg -us	1/1 
+gen.sg -i	0/1 but it's setnence initial
+gen.pl -orum	1/1
+
+
+BURDIGALENS-i- 
+		iso		N __		__ N		prep __		0 __
+nom.sg -is			PRS 1 [comis]
+gen.sg -is					GEO 1 [urbis]
+acc.sg -im					GEO 1 [urbem]  
+databl.sg -e					PRS 1 [monacho]
+
+
+ignore as its a person: Heraclius Burdigalensis
+overall -- bombed.
+
+GERMAN-
+
+ignore as it's contaminated with "germanus" (familial), Germanus the saint, and Germania ie. Germany ? 
+		iso		N __		__ N
+acc. fpl					GEO 1 [ad __ gentes] 
+
+(the others are to the saint? )
+
+ALAMANN- 
+		iso		N __		__ N		prep __		0 __
+
+nom.sg -us	PRS 1 
+	-usque	PRS 1 
+
+nom.pl -i	PRS 1
+		GRP 1 
+
+gen. pl -orum	GRP 1				PRS 1 [rex]	 
+						GRP 2 [gentem, rex]
+acc.pl -os							PRS 2 [2x contra]
+databl.pl -is	PRS 1 
+		GRP 3
+
+
+overall
+nom.sg		0% (0/2)
+nom.pl		50% (1/2)
+gen.pl		75% (3/4)
+acc.pl		0% (0/2)
+databl.pl	75% (3/4)
+
+--GOTH -- 
+		iso		N __		__ N		prep __		0 __
+
+nom.sg -us	PRS 1
+acc.sg -um	PRS 1 
+
+nom.pl -i	PRS 5								0 1 
+		GRP 3								PRS 1
+		0 1								
+gen.pl -orum	PRS 1		PRS 4 [rex,-ge] PRS 4 [3x rex; dont 1 -I __ rex]
+		GRP 2		GRP 2 [rex]	GRP 3 [1x rex, -gno]
+				GEO 1 
+acc.pl -os	PRS 1						GRP 2  
+databl.pl -is	PRS 3 [1x I-]					PRS 5 [4x a, 1x cum] 
+		0 1						GRP 1 [a] 
+
+
+OVERALL 
+singulars 	0% (0/2)
+nom.pl		27.3% (3/11)
+gen.pl		41.2% (7/17)
+acc.pl		66.7% (2/3)
+databl.pl	10% (1/10) 
+
+-- BURGUND -- 
+
+exclude; geographic "Burgundia"
+
+BURGUNDION-i- 	iso		N __		__ N		prep __		0 __ 
+nom. sg -o	0 1 
+gen. sg -onis	PRS 1 
+abl. sg -e					PRS 1 
+some (?) pl -onis  PRS 1 
+nomacc.pl -ones									0 1 
+gen.pl -onum			GRP 1 [rex]	GEO 1 [terminum] 
+databl.pl -onibus						GRP 3 [2x cum, de]	0 1
+	-ibusque PRS 1						GEO 1 [cum] 
+
+OVERALL -- 
+
+singular	0% (0/3)
+
+nomacc.pl 	0% (0/2)
+gen.pl		50% (1/2) 
+databl.pl 	50% (3/6) 
+
+-- SAXON -- 
+		iso		N __		__ N		prep __		0 __ 
+gen.sg -onis	PRS-I [Chulderici __ ] 
+		GRP 1
+
+abl. sg -one	PRS-I 1 
+
+nom.pl -ones	PRS-I 1 [Baiocassinos __ ]					0 1 
+		PRS 2
+		GRP 5
+		0 1   
+gen.pl -onum			PRS 1 
+				GRP 1
+acc.pl -ones							GRP 5 [inter x3 (One -is-), contra x2]
+								PRS 5 [contra x 4, super] 
+databl.pl -ibus	PRS 1		PRS 2 [pueris] 			PRS 3 [ac, cum, a] 
+								GRP 1 [ex] 
+
+overall : 
+
+singulars:	33% (1/3) 
+nom.pl:		50% (5/10)
+gen.pl:		50% (1/2)
+acc.pl:		50% (5/10)
+databl.pl:	16.7% (1/6) 
+
+
+---
+
+CHUN-
+
+ignore CHundo, Chundonis, Chundonem -- tha'ts a perosn
+
+ignore Chunsina -- also a person
+
+		iso		N __		__ N		prep __		0 __
+nom.sg -us							PRS 3 (agrammatical!) 
+								GRP 1 
+
+nom. pl -i	PRS 2 								0 1 
+		GRP 1
+gen. pl -orum	PRS 1		GRP 2		PRS 1		
+acc. pl -os	GRP 2 
+databl.pl -is	PRS 1 						GRP 2
+								PRS 1 
+ 
+overall 
+
+nom.sg		25% (1/4)
+nom.pl		25% (1/4)
+gen.pl		50% (2/4)
+acc.pl 		100% (2/2)
+databl.pl	50% (2/4) 
+
+--- ALAN ---
+gen.pl -orum			PRS 1		GEO 1  
+acc.pl -os	GRP 1 
+databl.pl -is	GRP 1
+
+gen pl 0% (0/2)
+acc pl 100% (1/1)
+databl pl 100% (1/1) 
+
+
+--- SYR---
+lower cased syrico, syrici and syrico all tagged 0 
+	(et qui ante syrico contextu gemmis micantibus solitus erat per urem procedere trabeatus
+		cum magno syrici intexti pondere venerunt
+		cum oblationibus palleo syrico coopertum essit .. ) 
+
+nom.sg		GRP 2
+gen.pl				GRP 1 
+
+omit person: SYrus Eufron (also in domum SYri) 
+
+--
+
+
+LANGOBARD-o- 
+		iso		N __		__ N		prep __		0 __ 
+
+nom. sg -us	PRS 2						PRS 3 [agrammatical here?] 
+acc. sg -um							PRS 1 
+
+nom.pl -i	PRS 4
+		GRP 2
+		0 1 								0 1 
+gen.pl -orum			PRS 3 [unus, rex] PRS 5 [2xgentem, rex, duces] 
+				GRP 1 		PRS-I 1 [ L~~ __ rex] 
+						GEO 1		PRS 1 
+							
+acc.pl -os	GEO 1 
+databl.pl -is	PRS 3		PRS 1				PRS 2 [a, de] 
+								GEO 3 [3xcum] 
+								GRP 1 [a] 
+
+overall 
+singulars 	0% (0/6)
+nom.pl		25% (2/8)
+gen.pl		8% (1/12)
+acc.pl 		0% (0/1) 
+databl.pl	10% (1/10) 
+
+--- THORING-o- ---
+
+(omit: Thoringia inflections -- it likely refers to geographic Thuringia) 
+
+
+nom.sg -us	PRS 3						PRS 1 [agrammatical!] 
+
+nom.pl -i	PRS 1								0 1 
+gen.pl -orum			GEO 1 [terminum] PRS 1 [regibus]
+				PRS 1 [regis] 
+databl.pl -is	GRP 1						GEO 1 [ex]  
+
+overall 
+
+singulars:	0% (0/4)
+nom.pl		0% (0/2)
+gen.pl		0% (0/3)
+databl.pl	50% (1/2)
+
+
+SUEB-- 
+
+Suebi NOM.PL iso	GRP	100%
+Sueborum GEN.PL iso	GRP	100% 
+
+SUAV -- 
+		iso		N __		__ N		prep __		0 __
+gen.pl -orum			GRP 1 [uxores]					0 1 
+acc.pl -os	GRP 2
+
+gen.pl 50% 
+acc.pl 100% 
+
+
+together
+
+nom.pl 100% 
+gen.pl 67% 
+acc.pl 100% 
+---
+
+HISPAN-		(ignore; Hispania, that's GEO; Hispaniis < Hispania vs. Hispanis < Hispanus) 
+		(including when Hispaniis is tagged GRP!! in all hte cases I looked at it's 
+			referring to "the provinces of Spain"-- i.e. Legati de Hispaniis_GRP etc) 
+acc.sg -um					GRP 1 
+nom.pl -i	PRS 1
+gen.pl -orum			PRS 6 [4rex/g-]	PRS 1 [regibus] 
+				GRP 1 [rex]	GRP 1 [regis]
+databl.pl -is			GRP 1
+
+acc.sg 100% 1/1
+nom.pl 0% 0/1
+gen.pl 22% 2/9 
+databl.pl 100% 1/1 
+				
+
+---
+ALSO OF INTEREST
+
+Sueb/Suav-					 
+
+Hispan- 
+	

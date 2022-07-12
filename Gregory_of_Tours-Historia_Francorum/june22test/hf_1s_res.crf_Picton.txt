@@ -1,0 +1,2 @@
+all lines with 'Picton'...:
+Tag	Token	Sentence

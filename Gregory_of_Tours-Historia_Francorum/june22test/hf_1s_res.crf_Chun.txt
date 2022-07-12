@@ -1,0 +1,25 @@
+all lines with 'Chun'...:
+Tag	Token	Sentence
+PRS-B	Chundonis	De_0 interitu_0 Chundonis_PRS-B ,_0 cubicularii_0 eius_0 ._0
+PRS-B	Chundonem	Cumque_0 custodem_0 silvae_0 artius_0 distringeret_0 ,_0 quis_0 haec_0 in_0 regale_0 silva_0 gerere_0 praesumpsissit_0 ,_0 Chundonem_PRS-B cubicularium_0 regis_0 prodidit_0 ._0
+PRS-B	Chundo	Cumque_0 uterque_0 in_0 praesentia_0 regis_0 intenderent_0 et_0 Chundo_PRS-B diceret_0 ,_0 numquam_0 a_0 se_0 haec_0 praesumpta_0 quae_0 obiciebantur_0 ,_0 rex_0 campum_0 diiudicat_0 ._0
+PRS-B	Chundo	Quod_0 videns_0 Chundo_PRS-B ,_0 ad_0 basilicam_0 sancti_0 Marcelli_0 fugam_0 iniit_0 ._0
+PRS-B	Chunis	De_0 Aravatio_PRS-B episcopo_0 et_0 Chunis_PRS-B ._0
+GRP-B	Chunos	Igitur_0 rumor_0 erat_0 ,_0 Chunos_GRP-B in_0 Galliis_GRP-B velle_0 prorumpere_0 ._0
+PRS-B	Chunos	enim_0 apud_0 Domini_PRS-B deliberationem_0 prursus_0 sanccitum_0 est_0 ,_0 Chunos_PRS-B in_0 Gallias_GEO-B advenire_0 easque_0 maxima_0 tempestate_0 debere_0 depopulari_0 ._0
+PRS-B	Chuni	enim_0 migraberis_0 a_0 corpore_0 ,_0 nec_0 videbunt_0 oculi_0 tui_0 mala_0 ,_0 quae_0 facturi_0 sunt_0 Chuni_PRS-B in_0 Galliis_PRS-B ,_0 sicut_0 locutus_0 est_0 dominus_0 Deus_PRS-B noster_0 '_0 ._0
+PRS-B	Chuni	Igitur_0 Chuni_PRS-B a_0 Pannoniis_PRS-B egressi_0 ,_0 ut_0 quidam_0 ferunt_0 ,_0 in_0 ipsa_0 sanctae_0 paschae_0 vigilia_0 ad_0 Mettinsem_0 urbem_0 reliqua_0 depopulando_0 perveniunt_0 ,_0 tradentes_0 urbem_0 incendium_0 populum_0 in_0 ore_0 gladii_0 trucidantes_0 ipsusque_0 sacerdotes_0 Domini_PRS-B ante_0 sacrosancta_0 altaria_0 perimentes_0 ._0
+PRS-B	Chunorum	Attela_0 vero_0 Chunorum_PRS-B rex_0 a_0 Mittense_PRS-B urbe_0 egrediens_0 ,_0 cum_0 multas_0 Galliarum_GRP-B civitates_0 oppraemeret_0 ,_0 Aurilianis_PRS-B adgreditur_0 eamque_0 maximo_0 arietum_0 inpulsu_0 nititur_0 expugnare_0 ._0
+GRP-B	Chunorum	Nam_0 nullus_0 ambigat_0 ,_0 Chunorum_GRP-B exercitum_0 obtentu_0 memorati_0 antestites_0 fuisse_0 fugatum_0 ._0
+GRP-B	Chunis	Attila_0 vero_0 cum_0 paucis_0 reversus_0 est_0 ,_0 nec_0 multo_0 post_0 Aquileia_PRS-B a_0 Chunis_GRP-B capta_0 ,_0 incensa_0 atque_0 deruta_0 ,_0 Italia_GEO-B pervagata_0 atque_0 subversa_0 est._0 Thorismodus_GRP-B cui_0 supra_0 meminimus_0 ,_0 Alanos_GRP-B bello_0 edomuit_0 ,_0 ipsi_0 deinceps_0 post_0 multas_0 lites_0 et_0 bella_0 a_0 fratribus_0 oppraessus_0 ac_0 iugulatus_0 interiit_0 ._0
+PRS-B	Chunus	Quibus_0 permotus_0 Iohannis_PRS-B Aetium_PRS-I ,_0 id_0 temporis_0 curam_0 palatii_0 ,_0 cum_0 ingenti_0 auri_0 pondere_0 ad_0 Chunus_PRS-B transmittit_0 ,_0 notus_0 sibi_0 obsidatus_0 sui_0 tempore_0 et_0 familiari_0 amicicia_0 divinctos_0 ,_0 cum_0 mandatis_0 huiusmodi_0 <COLON>_0 cum_0 primum_0 partes_0 adversae_0 Italiam_GEO-B ingressae_0 forent_0 ,_0 ipse_0 a_0 tergo_0 adoriretur_0 ,_0 se_0 ad_0 fronte_0 venturum_0 ._0
+PRS-B	Chunorum	Aetius_PRS-B filius_0 a_0 puero_0 praetorianus_0 ,_0 tribus_0 annis_0 Alarici_PRS-B obsessus_0 ,_0 dehinc_0 Chunorum_PRS-B ;_0
+PRS-B	Chunsinam	de_0 Chunsinam_PRS-B habuit_0 Chramnum_PRS-B ._0
+PRS-B	Chunus	Quod_0 Sigiberthus_PRS-B contra_0 Chunus_PRS-B abiit_0 ._0
+PRS-B	Chunus	Quod_0 Sigiberthus_PRS-B contra_0 Chunus_PRS-B abiit_0 ,_0 et_0 Chilpericus_GRP-B civitates_0 eius_0 pervasit_0 ._0
+PRS-B	Chuni	Nam_0 post_0 mortem_0 Chlothari_PRS-B regis_0 Chuni_PRS-B Gallias_GRP-B appetunt_0 ,_0 contra_0 quos_0 Sigyberthus_GRP-B exercitum_0 dirigit_0 ,_0 et_0 gestum_0 contra_0 eos_0 bellum_0 ,_0 vicit_0 atque_0 fugavit_0 ._0
+GRP-B	Chunis	Rediens_0 autem_0 Sigyberthus_GRP-B victur_0 a_0 Chunis_GRP-B ,_0 Sessionas_GRP-B civitatem_0 occupat_0 ,_0 ibique_0 inventum_0 Theodoberthum_PRS-B ,_0 Chilperici_PRS-B regis_0 filium_0 ,_0 adpraehendit_0 et_0 in_0 exilio_0 transmittit_0 ._0
+GRP-B	Chunus	De_0 secundo_0 Sigiberthi_0 contra_0 Chunus_GRP-B bellum_0 ._0
+0	Chuni	Chuni_0 vero_0 iterum_0 in_0 Gallias_GEO-B venire_0 conabantur_0 ._0
+PRS-B	Chunis	Fugiente_0 autem_0 exercitu_0 Sigyberthi_PRS-B ,_0 ipsi_0 inclusus_0 a_0 Chunis_PRS-B retenebatur_0 ,_0 nisi_0 postea_0 ,_0 ut_0 erat_0 elegans_0 et_0 versutus_0 ,_0 quos_0 non_0 potuit_0 superare_0 virtute_0 proelii_0 ,_0 superavit_0 arte_0 donandi_0 ._0
+GRP-B	Chunorum	Sed_0 et_0 rex_0 Chunorum_GRP-B multa_0 munera_0 regi_0 Sigybertho_PRS-B dedit_0 ._0

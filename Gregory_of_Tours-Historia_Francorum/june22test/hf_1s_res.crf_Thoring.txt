@@ -1,0 +1,22 @@
+all lines with 'Thoring'...:
+Tag	Token	Sentence
+GEO-B	Thoringiam	Tradunt_0 enim_0 multi_0 ,_0 eosdem_0 de_0 Pannonia_GEO-B fuisse_0 degressus_0 ,_0 et_0 primum_0 quidem_0 litora_0 Rheni_GEO-B amnes_0 incoluisse_0 ,_0 dehinc_0 ,_0 transacto_0 Rheno_GEO-B ,_0 Thoringiam_GEO-B transmeasse_0 ,_0 ibique_0 iuxta_0 pagus_0 vel_0 civitates_0 regis_0 crinitos_0 super_0 se_0 creavisse_0 de_0 prima_0 et_0 ,_0 ut_0 ita_0 dicam_0 ,_0 nobiliore_0 suorum_0 familia_0 ._0
+GEO-B	Thoringorum	Ferunt_0 etiam_0 ,_0 tunc_0 Chlogionem_PRS-B utilem_0 ac_0 nobilissimum_0 in_0 gente_0 sua_0 regem_0 fuisse_0 Francorum_PRS-B ,_0 qui_0 apud_0 Dispargum_PRS-B castrum_0 habitabat_0 ,_0 quod_0 est_0 in_0 terminum_0 Thoringorum_GEO-B ._0
+PRS-B	Thoringiam	Conperto_0 autem_0 ,_0 quod_0 eum_0 etiam_0 interficere_0 vellent_0 ,_0 Thoringiam_PRS-B petiit_0 ,_0 relinquens_0 ibi_0 hominem_0 sibi_0 carum_0 ,_0 qui_0 virorum_0 furentium_0 animus_0 verbis_0 linibus_0 mollire_0 possit_0 ,_0 dans_0 etiam_0 signum_0 ,_0 quando_0 redire_0 possit_0 in_0 patriam_0 ;_0
+PRS-B	Thoringiam	Abiens_0 ergo_0 in_0 Thoringiam_PRS-B ,_0 apud_0 regem_0 Bysinum_PRS-B uxoremque_0 eius_0 Basinam_PRS-B latuit_0 ._0
+PRS-B	Thoringia	Ille_0 vero_0 certa_0 cognoscens_0 inditia_0 ,_0 quod_0 a_0 Francis_PRS-B desideraretur_0 ,_0 ipsis_0 etiam_0 rogantibus_0 ,_0 a_0 Thoringia_PRS-B regressus_0 ,_0 in_0 regno_0 suo_0 est_0 restitutus_0 ._0
+GRP-B	Thoringis	Nam_0 decimo_0 regni_0 sui_0 anno_0 Thoringis_GRP-B bellum_0 intulit_0 eosdemque_0 suis_0 diccionibus_0 subiugavit_0 ._0
+PRS-B	Thoringorum	De_0 Thoringorum_PRS-B regibus_0 ._0
+PRS-B	Thoringus	Porro_0 tunc_0 apud_0 Thoringus_PRS-B tres_0 fratres_0 regnum_0 gentis_0 illius_0 retinebant_0 ,_0 id_0 est_0 Badericus_PRS-B ,_0 Hermenefredus_PRS-B atque_0 Berthacharius_PRS-B ._0
+PRS-B	Thoringus	Bellum_0 contra_0 Thoringus_PRS-B ._0
+PRS-B	Thoringorum	Post_0 Theudoricus_PRS-B non_0 inmemor_0 periurias_0 Hermenefrede_PRS-B regis_0 Thoringorum_PRS-B Chlothacharium_PRS-I fratrem_0 suum_0 in_0 solatio_0 suo_0 vocat_0 et_0 adversum_0 eum_0 ire_0 disponit_0 ,_0 promittens_0 regi_0 Chlothachario_PRS-B partem_0 praedae_0 ,_0 si_0 eisdem_0 munus_0 victuriae_0 divinitus_0 conferritur_0 ._0
+PRS-B	Thoringus	Convocatis_0 igitur_0 Francis_PRS-B ,_0 dicit_0 ad_0 eos_0 <COLON>_0 '_0 Indignamini_PRS-B ,_0 quaeso_0 ,_0 tam_0 meam_0 iniuriam_0 quam_0 interitum_0 parentum_0 vestrorum_0 ,_0 ac_0 recolite_0 ,_0 Thoringus_PRS-B quondam_0 super_0 parentes_0 nostros_0 violenter_0 advenisse_0 ac_0 multa_0 illis_0 intulisse_0 mala_0 ._0
+PRS-B	Thoringiam	Quod_0 ille_0 audientes_0 et_0 de_0 tanto_0 scelere_0 indignantes_0 ,_0 uno_0 animo_0 eademque_0 sententiam_0 Thoringiam_PRS-B petierunt_0 ._0
+0	Thoringi	Thoringi_0 vero_0 venientibus_0 Francis_PRS-B dolos_0 praeparant_0 ._0
+PRS-B	Thoringi	Denique_0 cum_0 se_0 Thoringi_PRS-B caedi_0 vehementer_0 viderent_0 ,_0 fugato_0 Hermenefredo_PRS-B rege_0 ipsorum_0 ,_0 terga_0 vertunt_0 et_0 ad_0 Onestrudem_GEO-B fluvium_0 usque_0 perveniunt_0 ._0
+GEO-B	Thoringis	Ibique_0 tanta_0 caedes_0 ex_0 Thoringis_GEO-B facta_0 est_0 ,_0 ut_0 alveos_0 fluminis_0 a_0 cadaverum_0 congeriae_0 repleretur_0 et_0 Franci_GEO-B tamquam_0 per_0 pontem_0 aliquod_0 super_0 eos_0 in_0 litus_0 ulteriore_0 transirent_0 ._0
+PRS-B	Thoringiam	Cum_0 autem_0 adhuc_0 supradicti_0 regis_0 in_0 Thoringiam_PRS-B essent_0 ,_0 Theudoricus_PRS-B Chlothacharium_PRS-B ,_0 fratrem_0 suum_0 ,_0 occidere_0 voluit_0 ,_0 et_0 praeparatis_0 occulte_0 cum_0 arma_0 viris_0 ,_0 eum_0 ad_0 se_0 vocat_0 ,_0 quasi_0 secricius_0 cum_0 eo_0 aliquid_0 tractaturus_0 ,_0 expansumque_0 in_0 parte_0 domus_0 illius_0 tenturium_0 de_0 uno_0 pariete_0 in_0 altero_0 ,_0 armatus_0 post_0 eum_0 stare_0 iubet_0 ._0
+PRS-B	Thoringiam	Cum_0 autem_0 adhuc_0 Theudoricus_PRS-B in_0 Thoringiam_PRS-B esset_0 ,_0 Arvernus_GRP-B sonuit_0 ,_0 eum_0 interfectum_0 fuisse_0 ._0
+GRP-B	Thoringiam	Dum_0 haec_0 agerentur_0 ,_0 nuntiatur_0 ,_0 Theudoricum_GRP-B vivum_0 de_0 Thoringiam_GRP-B fuisse_0 regressum_0 ._0
+PRS-B	Thoringiam	Eo_0 anno_0 rebellantibus_0 Saxonibus_PRS-B ,_0 Chlothacharius_PRS-B rex_0 ,_0 commoto_0 contra_0 eos_0 exercito_0 ,_0 maximam_0 eorum_0 partem_0 delevit_0 ,_0 pervagans_0 totam_0 Thoringiam_PRS-B ac_0 devastans_0 ,_0 pro_0 eo_0 quod_0 Saxonibus_PRS-B solatium_0 praebuissent_0 ._0
+PRS-B	Thoringus	Fuit_0 autem_0 genere_0 Thoringus_PRS-B ,_0 in_0 servitio_0 Sigivaldi_GRP-B quondam_0 ducis_0 venationern_0 exercens_0 ,_0 sicut_0 alibi_0 scripsimus_0 ._0

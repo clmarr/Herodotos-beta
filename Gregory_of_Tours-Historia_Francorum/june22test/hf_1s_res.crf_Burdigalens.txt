@@ -1,0 +1,7 @@
+all lines with 'Burdigalens'...:
+Tag	Token	Sentence
+GEO-B	Burdigalensis	Quo_0 eiecto_0 ,_0 consensum_0 fecere_0 in_0 Heraclium_GEO-B tunc_0 Burdigalensis_GEO-B urbis_0 presbiterum_0 ;_0
+PRS-B	Burdigalense	De_0 Burdigalense_PRS-B monacho_0 ._0
+PRS-I	Burdigalensis	Cuius_0 post_0 obitum_0 Heraclius_PRS-B Burdigalensis_PRS-I presbiter_0 ,_0 qui_0 quondam_0 legatus_0 Childeberti_PRS-B senioris_0 fuerat_0 ,_0 episcopus_0 ordinatur_0 ._0
+GEO-B	Burdigalensim	Nam_0 inpositus_0 plaustro_0 ,_0 ad_0 Burdigalensim_GEO-B urbem_0 ,_0 in_0 qua_0 ortus_0 fuerat_0 ,_0 ablata_0 omni_0 facultate_0 ,_0 transmittitur_0 ;_0
+PRS-B	Burdigalensis	Rex_0 igitur_0 in_0 crastinum_0 in_0 venatione_0 progressus_0 est._0 Quo_0 redeunte_0 ,_0 Garacharius_PRS-B comis_0 Burdigalensis_PRS-B adque_0 Bladastis_GEO-B a_0 nobis_0 repraesentati_0 sunt_0 ,_0 quia_0 ,_0 ut_0 superius_0 diximus_0 ,_0 in_0 basilica_0 sancti_0 Martini_PRS-B confugium_0 fecerant_0 ,_0 pro_0 eo_0 quod_0 Gundovaldo_PRS-B coniuncti_0 fuissent_0 ._0

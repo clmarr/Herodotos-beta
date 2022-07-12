@@ -1,0 +1,13 @@
+all lines with 'Pictav'...:
+Tag	Token	Sentence
+PRS-I	Pictavinsis	Beatissimus_0 Helarius_PRS-B Pictavinsis_PRS-I episcopus_0 suasu_0 hereticorum_0 exilio_0 deputatur_0 ,_0 ibique_0 libros_0 pro_0 fide_0 catholica_0 scribens_0 ,_0 Constantio_GRP-B misit_0 ;_0
+GRP-B	Pictavus	Quarto_0 Valentiniani_PRS-B et_0 Valentis_PRS-B anno_0 sanctus_0 Helarius_PRS-B apud_0 Pictavus_GRP-B ,_0 plenus_0 sanctitate_0 et_0 fide_0 ,_0 multis_0 virtutibus_0 aeditus_0 ,_0 migravit_0 ad_0 caelos_0 ;_0
+GRP-B	Pictavus	Francilio_PRS-B ex_0 senatoribus_0 ordinatur_0 episcopus_0 ,_0 civis_0 Pictavus_GRP-B ,_0 habens_0 coniugem_0 Claram_GRP-B nomine_0 ,_0 sed_0 filios_0 non_0 habens_0 ._0
+GEO-B	Pictavus	Veniente_0 autem_0 rege_0 apud_0 Pictavus_GEO-B ,_0 dum_0 eminus_0 in_0 tenturiis_0 commoraret_0 ,_0 pharus_0 ignea_0 ,_0 de_0 basilica_0 sancti_0 Helari_GEO-B egressa_0 ,_0 visa_0 est_0 ei_0 tamquam_0 super_0 se_0 advenire_0 ,_0 scilicet_0 ut_0 ,_0 lumine_0 beati_0 confessoris_0 adiutus_0 Helarii_GEO-B ,_0 liberius_0 hereticas_0 acies_0 ,_0 contra_0 quas_0 saepe_0 idem_0 sacerdos_0 pro_0 fide_0 conflixerat_0 ,_0 debellaret_0 ._0
+PRS-B	Pictavensim	Erat_0 in_0 his_0 diebus_0 vir_0 laudabilis_0 sanctitatis_0 Maxentius_PRS-B abba_0 ,_0 reclausus_0 in_0 monastyrio_0 suo_0 ob_0 Dei_PRS-B timore_0 infra_0 terminum_0 Pictavensim_PRS-B ._0
+GRP-B	Pictava	Interea_0 Chlodovechus_PRS-B rex_0 cum_0 Alarico_PRS-B rege_0 Gothorum_PRS-B in_0 campo_0 Vogladense_GEO-B decimo_0 ab_0 urbe_0 Pictava_GRP-B miliario_0 convenit_0 ,_0 et_0 confligentibus_0 his_0 eminus_0 ,_0 resistunt_0 comminus_0 illi_0 ._0
+PRS-B	Pictavi	Dehinc_PRS-B Toronici_PRS-B ,_0 Pictavi_PRS-B ,_0 Baiocassini_PRS-B ,_0 Caenomannici_PRS-B et_0 Andecavi_PRS-B cum_0 aliis_0 multis_0 in_0 Brittania_PRS-B ex_0 iussu_0 Chilperici_PRS-B regis_0 abierunt_0 et_0 contra_0 Varocum_PRS-B ,_0 filium_0 quondam_0 Macliavi_PRS-B ,_0 ad_0 Vicinoniam_PRS-B fluvium_0 resedent_0 ._0
+0	Pictavensis	Gracina_0 Pictavensis_0 insula_0 vocitatur_0 ,_0 in_0 qua_0 a_0 fiscalis_0 vinitoris_0 servo_0 Leuchadio_PRS-B nomine_0 nascitur_0 ._0
+PRS-I	Pictavensis	Audiens_0 haec_0 Berulfus_PRS-B dux_0 ,_0 misit_0 pueros_0 suos_0 cum_0 armorum_0 apparatu_0 ,_0 ut_0 apprehenderent_0 eum._0 Ille_0 vero_0 cernens_0 ,_0 se_0 iam_0 iamque_0 capi_0 ,_0 relictis_0 rebus_0 ,_0 basilicam_0 sancti_0 Hilarii_PRS-B Pictavensis_PRS-I expetiit_0 ._0
+PRS-B	Pictavensis	De_0 puellis_0 monasterii_0 Pictavensis_PRS-B ._0
+PRS-B	Pictavensi	Voluit_0 enim_0 tunc_0 aliam_0 filiam_0 illuc_0 dirigere_0 ,_0 quam_0 de_0 Audovera_GEO-B habebat_0 ,_0 et_0 eam_0 in_0 monasterium_0 Pictavensi_PRS-B posuerat_0 ._0

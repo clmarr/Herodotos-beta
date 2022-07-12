@@ -1,0 +1,4 @@
+all lines with 'Sueb'...:
+Tag	Token	Sentence
+GRP-B	Suebi	Hos_0 secuti_0 Suebi_GRP-B ,_0 id_0 est_0 Alamanni_PRS-B ,_0 Gallitiam_GRP-B adpraehendunt_0 ._0
+GRP-B	Sueborum	Gravis_0 autem_0 lues_0 in_0 populo_0 subsecuta_0 est._0 Legati_0 autem_0 Sueborum_GRP-B post_0 annum_0 demissi_0 ,_0 ad_0 propria_0 redierunt_0 ._0
