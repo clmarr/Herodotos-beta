@@ -34295,7 +34295,7 @@ PRSU	Labienus
 0	"
 0	Habetis
 0	,
-0	ù"
+0	"
 0	inquit
 0	,
 0	"
@@ -42990,7 +42990,7 @@ GRPU	Romanos
 0	a
 0	me
 0	,
-0	ù"
+0	"
 PRSU	Vercingetorix
 0	,
 0	"
