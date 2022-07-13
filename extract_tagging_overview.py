@@ -6,6 +6,7 @@
 
 import optparse
 import chardet
+import pdb
 
 optparser = optparse.OptionParser()
 optparser.add_option("-p", "--prefix", default=False, help="Tag or beginning of tag to report results for")
@@ -56,8 +57,10 @@ for ln in [line for line in LINES if is_target(line)]:
 if len(COUNTS) == 0:
     raise Exception("Error: the tag (or tag prefix) provided ("+OPTS.prefix+") was never found in the file "+OPTS.input)
 
+pdb.set_trace()
+
 f = open(OPTS.output, mode='w')
 f.write(
-    "\n".join( [OPTS.delim_output.join(ti) for ti in sorted(COUNTS.items())] )
+    "\n".join( [str(ti[0])+OPTS.delim_output+str(ti[1]) for ti in sorted(COUNTS.items())] )
 )
 f.close()
